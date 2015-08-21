@@ -34,6 +34,12 @@ charity - благотворительность
 consequence - последствия
 bare - голый
 intermediate - промежуточный
+out of - из
+pond - пруд
+reach - достать, дотягивание
+even - даже (ещё), ровный
+chore - рутина
+though - хотя, даже, однако
 
 --тетрадь
 rip-off - обдираловка
@@ -425,3 +431,67 @@ shabby - потрепанный
 pace - скорость абстрактных вещей (которую нельзя посчитать)
 
 flu - грипп
+
+
+<сюда вставить пропуск>
+
+правило: First Condition (real future)
+
+(1 часть) If/before/after/when/until + Present Simple,
+(2 часть) + I won't/will + V
+(можно менять местами)
+
+-- do
+the cooking (готовить)
+the washing up (стирка)
+the ironing (утюжить)
+a favour (одолжение)
+a course (курс)
+homework
+well/badly
+(smbd) best (делать от кого-то всё зависящее)
+loundry (стирка)
+
+-- make
+a sandwich
+friends
+a mess
+a decision (принимать решение)
+up my(your) mind (принимать решение)
+a mistake
+a fortune (сколачивать состояние)
+a phone call
+the bed (застилать кровать)
+full (строить дурака)
+a noise
+
+-- get
+
+get become - стать
+get angry
+get hungry
+get wet
+
+get arrive - прибывать
+get home
+get to work
+
+get a cold
+get obtain/get receive - доставать
+
+
+get marriend
+get up - встать
+get on (with smbd) - ладить
+get off - выходить из транспорта
+get out
+get over = recover - преодолеть
+get dressed
+get ready - готовиться
+
+
+-- take
+take a photo - делать фото
+take a bath/a shower
+take on == eploy - нанимать
+take care
