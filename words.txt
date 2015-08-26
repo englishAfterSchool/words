@@ -40,6 +40,16 @@ reach - достать, дотягивание
 even - даже (ещё), ровный
 chore - рутина
 though - хотя, даже, однако
+admire - любоваться
+confidence - доверие
+confident - уверенно
+garlic - чеснок
+embarrassment - смущение
+avoid - избегать
+plane - самолет
+announcement - объявление
+expensive - дорогой по цене
+
 
 --тетрадь
 rip-off - обдираловка
@@ -278,6 +288,32 @@ envelope - конверт, обертка
 
 правило: a/an, the, исключения
 
+---the					
+unique
+привосходная степень прилагательного
+	(the best)
+rivers, seas, oceans
+group of lakes
+mountain range
+name of country
+	(with the several words)
+ordinal numbers(порядковые, the first chapter)
+профессии
+о чем-то конкретном
+	(уже изветном)
+
+---a/an (древняя форма one, при первом упоминании)
+
+---БЕЗ the
+lake (одно)
+mountain
+country 1 word
+direction + country (North America)
+cordinal
+	(числительные, chapter 3)
+континенты
+
+
 правило: составление заявок на прием на курсы (postcard)
 
 правило: some, any, no
@@ -384,8 +420,8 @@ thrillers - триллеры
 		I hope, he'll ...
 		I'm sure...
 		I think...
-	2. Запланированные действия (наверное сделаю)
-		be(am/are/is) going to ...
+	2. Запланированные действия (наверное сделаю, собираюсь, вероятно будет)
+		be(am/are/is) going to ... + V
 			- собираюсь что-то сделать, очевидное действие в будущем
 	3. Точные планы (запланированные, точно сделаю)
 		используется Present Continuous - planed action
@@ -432,14 +468,330 @@ pace - скорость абстрактных вещей (которую нел
 
 flu - грипп
 
+правило: What + be + объект + like? - Какое оно из себя?
+										(твоё мнение)
+	What's it like?
+	
+shabby - потрепанный
+pace - скорость абстрактных вещей
 
-<сюда вставить пропуск>
+правило: степени сравнения (общее)
+
+Adjective		Comparative		Seperative
+--одно слоговые (y == ie, funny - funniest)
+	если V + согласная, то согласная удваевается
+1)
+thin			thinner			the thinnest
+fast			faster			the fastest
+nice			nicer			the nicest
+--однослоговые, но по многослоговому правилу
+clever
+2)
+--многослоговые
+comfortable		more comfortable	the most comfortable
+3)
+--исключения
+good		better				the best
+bad			worse				the worst
+many,much	more				the most
+little		less				the lest
+old			older/elder(старее, старше)		the oldest/eldest
+far			further/farther		the farthest
+
+если adj (прилагательное) заканчивается на -ly:
+	wisely		more wisely		the most wisely
+
+further - когда о обстрактном
+farther - о расстоянии
+
+4)
+be(isn't) + as ... as ... - такой же как
+so ... as ... - настолько же как
+
+5) this sofa is much(a lot) more comfortable
+
+medieval world - средневековье
+crowded - переполненный
+fairly - достаточно
+plumber - сантехник
+van - фургон
+detach - отдельный (напр. дом)
+handsome - привлекательный
+impolite/polite - невежлевый/вежлевый
+boil - кипеть
+wealthy - богатый
+crawl - ползать
+tight-fisted - жадный
+sharpen - точить
+tap - сантехнический кран, затычка
+
+правило: Relative clauses - Butcher who slice meat.
+	(that - этот который)
+Употребление слов с объектами
+	people		who
+				that
+				
+	things		which
+				that
+				
+	places		where
+	
+contemporary - временный
+whose - который, чей
+
+Синонимы:
+Adj			Synonim(same)			Antonim (opposite)
+bored		fed up					interested
+wounderful	amazing					usual (routine)
+modern		contemporary			ancient
+impolite	rude					polite
+untidy		dirty					tidy
+generous	liberal(kind)			mean
+cold		cool					hot
+miserable	unhappy					happy
+
+
+kangaroo - кенгуру
+
+правило: Present Perfect
+	указывают слова:
+		recently/already/ever/never/just
+	... hasn't ... yet.
+
+Употребляются с времнми Perfect:	
+... for ... - в течении
+... since ... - с какого-то времени
+
+for three years - в течении 3 лет
+
+если есть this/last/next/every - то нету предлогов (for/since и т.д.)
+
+flop == fail
+havoc == chaos
+apparently - видимо, вероятно
+upset - растроен
+fire = sack = dismiss - увольнять
+spoilt - испорчена
+
+правило: образование существительных
+
+--noun			verb
+arrival			arrive
+trainer			train
+invitation		invite
+organization	organaze
+explanation		explain
+decision		decide
+emploer			employ
+employment
+employee
+improvement		improve
+discussion		discuss
+agreement		agree
+imagination		imagine
+advertisement	advertise
+
+--noun			adjective
+mood			moody
+friend			unfriendly
+fame			famous
+patience		patient
+happiness		happy
+kindness		kind
+difference		different
+danger			dangerous
+disaster		disastrous
+beaty			beautiful
+use				useless
+				useful
+help			helpful
+				helpless
+				
+moody - с переменчевым настроением
+
+easy going - добродушный
+improve - улучшать
+out of - из чего-то, 30% из 100
+hint - подсказка, намёк
+haven - рай
+for ages - вечность
+for a while - некоторое время
+tick - галочка
+work long hours - работать много
+get on - ладить
+leisur - досуг
+motivation
+
+fill in for - заменять
+Let me sleep on it. - дайте подумать до утра
+
+in the black - прибыль
+in the red - убыток
+
+get the ball rolling - начать чем-то заниматься
+
+CV - резюме (брит.)
+
+правило: must/have to
+
+bills - счета
+knees - колени
+nieces - племянницы
+treat - лечить
+so on - и т.д.
+till - до
+solve = figure out = sort out - решать
+legal secretary - секретарь в суде
+
+gaint - достигли
+
+vacancy
+high time - самое время
+commute - житель пригорода
+perks = fringe benefits - доп. деньги (сверх дохода)
+salary - зарплата
+annual - ужегодный
+
+whom - кого
+keen - острый, тонкий
+
+fiancee - невеста
+fiance - жених
+
+
+правило: боль
+1)
+head		-ache
+stomach
+tooth
+ear
+back
+ear
+2) со всеми остальными слово pain
+I have pain in my knee.
+
+running/runny + nouse - насморк
+
+sneezing - чихание
+
+pretend to - притворяться
+pressure - давление
+sunburn - солнечный ожог
+dizzy - головокружение
+
+wasp - оса
+bee - пчела
+sting - жало
+hiccup - икать
+yawn - зевать
+toe - палец на ноге
+tiptoe - ходить на пальчиках
+bucket - ведро
+powder - порошек
+
+itchy - зуд
+I have itchy feet. - я люблю путешествовать.
+
+it's cost me arm and a leg - это стоит мне состояния
+
+cough - кашлять
+
+правило: составление письма
+
+frequently - часто
+however - тем не менее
+accommodation - жилье
+laid-back - пофигист
+
+sincerely - искренне ваш
+	(если в письме есть имя или фамилия)
+
+faithfully - с уважением
+	(если в письме Diar, Sr, Madam, Miss)
 
 правило: First Condition (real future)
 
-(1 часть) If/before/after/when/until + Present Simple,
+pal = mate = friend
+penpal - друг по переписке
+homeboy - корешь
+chase - погоня
+rain jacket = rain coat - дождевик
+rub - тереть
+insect repellent - средство от насикомых
+call out - выкрикивать
+checky - хитренький
+toss a coin - подбросить монету
+
+<сюда вставить пропуск>
+
+######9
+
+слова:
+customs - томожня
+seasick - морская болезнь
+speed boat - парус
+yacht - яхта
+impression - впечатления
+catamaran = double canoe
+
+fare - оплата за проезд
+sliding doors - раздвижные двери
+conductor
+bus stop - остановка
+tube = subway = metro
+hail - остановка такси
+single-decker - одноэтажный автобус
+coach - международный автобус
+rack - полка, вешалка
+crew - экипаж
+cab - такси
+rush hour - час пик
+at - на остановке/вокзале
+get off - выходить из транспорта
+honeymoon - медовый месяц
+
+entertainment - развлечения
+holiday resort - курорт
+scenery = landscape
+reckon = suggest - полагать
+
+hurricane - ураган
+overlook = face - выходить окнами на
+quit - бросить
+resigh - уходить в отставку
+excess baggage - сдавать багаж
+in order to - для того чтобы
+check in - регистрация
+cockpit - кабина экипажа
+aisle - проход
+bumpy - не ровный, тряский
+curious - любопытный
+ski slopes - лыжный спуск
+tender = gentle - нежный
+
+fabulous - сказочный
+insurance - страхование
+owe - быть должным
+
+
+правило: First Condition (real future)
+
+(1 часть) If/before/after/when/until/as soon as + Present Simple,
 (2 часть) + I won't/will + V
 (можно менять местами)
+	- если/до/... я сделаю что-то + то потом точно сделаю другое
+		(и выполнить это реально)
+
+
+Do-actions: exercise, jumping jacks
+	activities: crossword, sudoku
+	chores: homework, loundry
+		do nails, do hair
+Make:	construction:
+		building:
+		creating:	make a dress
+					a cup of coffee
+
 
 -- do
 the cooking (готовить)
@@ -451,6 +803,9 @@ homework
 well/badly
 (smbd) best (делать от кого-то всё зависящее)
 loundry (стирка)
+nails
+hair
+next year
 
 -- make
 a sandwich
@@ -462,8 +817,12 @@ a mistake
 a fortune (сколачивать состояние)
 a phone call
 the bed (застилать кровать)
-full (строить дурака)
+full (?)
+a fool
 a noise
+a cup of coffee
+make an excuse - извиняться
+make sure - убедиться
 
 -- get
 
@@ -473,12 +832,12 @@ get hungry
 get wet
 
 get arrive - прибывать
-get home
+get home - придти домой
 get to work
 
-get a cold
+get a cold - простудиться
 get obtain/get receive - доставать
-
+get sunburnt
 
 get marriend
 get up - встать
@@ -488,10 +847,261 @@ get out
 get over = recover - преодолеть
 get dressed
 get ready - готовиться
-
+get to the station
+get lost
 
 -- take
 take a photo - делать фото
 take a bath/a shower
-take on == eploy - нанимать
+take on == employ - нанимать
 take care
+take tablets
+
+
+-- направления движения
+across - пересекать
+along - вдоль, или "идти по"
+go across = across
+over - по чем-то или через что-то, напр. "по мосту"
+through - через
+into - войти куда-то
+off - спускаться с чего-то (с крыши)
+out of - выйти из чего-то
+past - проходить мимо
+from ... to - с ... до
+up - подыматься
+at the top - на вершине
+down - спускаться ( с горки)
+at the bottom - внизу
+
+In spite/despite of Ving. - не смотря на
+
+___ + needs + Ving - что-то надо(needs) делать.
+
+######10
+
+слова:
+ashtray - пепельница
+window sill - подоконник
+sellotape - скотч
+rope - веревка
+sheelace - шнурок
+torch - фонарь
+corkscrew - штопор
+comb - расческа
+razor - бритва
+act a fool = fool around
+
+on porpose - специально
+by chance - случайно
+
+I'm on business - по делу
+I'm on business - бизнесс мен
+
+on time - во время
+in time - точно во время
+
+cure - лекарство
+gripping - захватывающий
+
+misprint - опечатка
+leg work - работа принеси-подай
+big cheese - большая шишка
+cockroach - таракан
+cock - петух
+buirs into tears - взорваться слезами
+let of be - пуская так и будет
+hang out with - зависать с кем-то
+
+you snooze - you lose - дремать - проигрывать
+
+rower - гребец
+inspire - вдохновлять
+role model - пример для подражания
+
+He is 404 - он глупый
+ride - горка
+
+out-of-date = old-fashioned - устаревший
+
+shrunk in the wash - потянулось в стирке
+
+melt - таять
+moan - ныть
+nag - пилить (эмоционально)
+
+have a row = fallout = have an argument - ссориться
+
+fallout - радиоактивные осадки
+
+lose temper - выходить из себя
+make a dramas of little things - делать драму из мелочей
+chores - домашние обязанности
+distract - отвлекать
+absent-minded - рассеянный
+get on (sb) nerver - действовать на нервы
+by for now - ну всё пока
+
+правило: passive voice
+	(на курсах только для времен:	
+		Present Simple (is), Past Simple (was/were), Present Perfect(has been), will Future(will be))
+	- действие над придметом (шар был отпущен)
+be + person (с одушевленными) - ... сделан кем-то
+with + thing (с неодушевленными) - ... сделан чем-то
+образуется:
+	to be (+ not) + V3 + (by/with + person/thing) - Paper was not stolen by cats.
+	для will отрицание: will not be
+	вопрос: Will ... + be + V3?
+Greece is visited by me.
+I am drunk.
+
+both ... and ... - оба и ... , и ...
+
+put you through - соединять по телелофону
+say to me == tell
+hold on - ждать
+take message
+leave message
+rope - веревка
+light bulb - лампочка
+
+discover gold
+tell a lie
+lose weight - терять вес
+give a lift - подвести
+miss - потерять, скучать, промахнуться, пропустить
+lose - утрачивать, проигрывать (уменьшать)
+get lost - заблудись!
+keep a secret
+say hello
+do homework
+make a complaint
+miss the bus
+
+######11
+
+правило: second condition
+
+shout at - кричать на
+		to - кому-то
+
+throw at - бросить на кого-то
+		to - кому-то
+
+move to - переехать
+find out - узнать
+bark - лаять
+
+It's not my cup of tea. - это не моё
+
+can't stand you - не могу терпеть тебя
+
+правило: such/so
+правило: might
+
+deer - олень
+pear - груша
+waist - талия
+weak - слабый
+wrist - запястье
+hire - нанимать
+fair - рынок, красивый
+fare - оплачивать проезд, достичь
+court - судья
+though - хотя
+
+it depends - когда как
+
+currently - сейчас
+
+
+######12
+
+слова:
+so far - пока ещё
+ceiling - потолок
+bake - выпикать в духовке
+confidence - уверенность
+relative - родственники
+come round - заскочить в гости
+
+even - даже
+goal - задача, цель, гол
+lately - недавно
+faith - вера
+score - очки в игре
+score a goal - забить годл
+will last - будут длиться
+filthy - запачканный
+
+wear - носить, относится и к духам
+drop a line - чиркнуть строчку
+set off - отправиться
+sled - сани
+silly = stuped - глупый
+look up to - равняться на кого-то
+seal - тюлень
+although - хотя, не смотря на
+delighted = happy
+
+правило: слова частоты действия ставятся перед глаголами
+
+take up - начать заниматься
+altitude - высота
+comgratulation on - поздравить с чем-то
+condid = sincere - искренне
+see off - провожать
+
+Pardon - извинение, когда не расслышали
+
+pity - жаль, жалость
+
+hen - курица
+hen party - девишник
+
+bachelor - холостяк
+stay party - мальчишник
+
+line - очередь
+
+catch a plane - полететь на самолете
+
+правило: с Nobody в отрицании уже не нужно "not"
+
+get a cold - простудиться
+vinegar - уксус
+
+
+правило: Present Perfect Continues
+	действие началось в прошлом и ещё не закончилось,
+		или закончилось сразу перед разговором,
+		или закончилост, но подчеркивается длительность действия
+has/have + been + Ving
+признаки времени:	слова recently, lately,
+					часто в вопросе How long + have + (you) + been + Ving?
+					часто слова: ... + for, during, since
+
+Слова, которые не употребляются с временами Continue (мысли, чувства, модальные глаголы):
+	understand
+	know
+	realise (реализовывать)
+	think
+	suppose
+	
+	have
+	want
+	need
+	seem
+	
+	smell
+	love
+	hear
+	like
+	prefer
+	hate
+
+go/come, bring/take
+go - быстрое движение с места говорящего куда-то
+come - разговор о движении к месту где находится говорящий
+bring - нести что-то/кого-то (кому-то) в другое место
+take - нести что-то/кого-то с одного места в другое
