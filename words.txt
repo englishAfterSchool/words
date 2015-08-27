@@ -946,7 +946,7 @@ by for now - ну всё пока
 	(на курсах только для времен:	
 		Present Simple (is), Past Simple (was/were), Present Perfect(has been), will Future(will be))
 	- действие над придметом (шар был отпущен)
-be + person (с одушевленными) - ... сделан кем-то
+by + person (с одушевленными) - ... сделан кем-то
 with + thing (с неодушевленными) - ... сделан чем-то
 образуется:
 	to be (+ not) + V3 + (by/with + person/thing) - Paper was not stolen by cats.
@@ -1059,7 +1059,7 @@ pity - жаль, жалость
 hen - курица
 hen party - девишник
 
-bachelor - холостяк
+bachelor - холостяк, бокалавр
 stay party - мальчишник
 
 line - очередь
