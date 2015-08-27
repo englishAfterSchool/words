@@ -379,7 +379,7 @@ workshop - мастер класс
 
 правило: инфинитив, герундии
 	Gerund (-ing)			Infinitive (to)			Infinitive (без to и -ing)
-														without to
+
 love				want				can
 like				hope				could
 enjoy				would like			must
