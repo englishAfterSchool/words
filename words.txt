@@ -49,6 +49,40 @@ avoid - избегать
 plane - самолет
 announcement - объявление
 expensive - дорогой по цене
+quite - вполне
+crape - вуаль, повязка
+skyscrapes - небоскреб
+luxurious - раскошный
+exciting - возбуждающий
+petrol - топливо
+rather - лучше, точнее, наоборт
+rare - редкий
+razor - бритва
+liberal = generous
+fame - популярность
+helicopter - вертолет
+tour - тур путешествия
+descreptive - описательный
+adjective - прилагательное
+there - там, туда
+spectacular - впечатляющий
+whose - чьё, чьи. чья
+stump - обрубок, пенёк
+earn - зарабатывать
+butter - то что намазывают, масло
+yoghurt - йогурт
+grape - виноградина
+spoil - портить, трофеи
+possess - владеть
+jewellery - драгоценности
+thought - решил
+throughout - во время всего, по всему
+indentitying - совпадать
+theft - воровство
+thaw - оттепель
+thus - таким образом
+those - мн. that
+these - мн. this
 
 
 --тетрадь
