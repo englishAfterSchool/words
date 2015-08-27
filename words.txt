@@ -790,7 +790,7 @@ honeymoon - медовый месяц
 entertainment - развлечения
 holiday resort - курорт
 scenery = landscape
-reckon = suggest - полагать
+reckon = suggest = suppose - полагать
 
 hurricane - ураган
 overlook = face - выходить окнами на
