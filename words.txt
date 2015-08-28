@@ -926,7 +926,7 @@ ashtray - пепельница
 window sill - подоконник
 sellotape - скотч
 rope - веревка
-sheelace - шнурок
+shoelace - шнурок
 torch - фонарь
 corkscrew - штопор
 comb - расческа
