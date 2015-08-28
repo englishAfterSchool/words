@@ -27,7 +27,7 @@ occur - случаться
 fuse - плавить, запал
 cutie - милашка
 envelop - обертка
-compound - строение
+compound - строение, сложный, смешивать
 matter - причина, материя
 acquaintance - знакомство
 charity - благотворительность
@@ -93,6 +93,27 @@ cord - веревка
 Therefore - поэтому
 revise - проверять, исправлять
 define - определение
+
+--фразовые глаголы
+pick somthing up - подобрать
+look for something - искать что-то
+turn something off
+lie down - прилечь
+turn round
+try something on - примерить
+throw something away - выбрасить
+
+look after someone - присматривать
+my car's broke down - сломалась
+get on with somebody - ладить
+run out of milk - закончилось
+look up a word - искать в словаре
+Look out! - осторожно
+
+cross out - зачеркивать
+
+put off - откладывать
+put on - одеть
 
 
 --тетрадь
