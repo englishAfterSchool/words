@@ -130,7 +130,7 @@ pace of life - скорость жизни
 not compulsory - не обязательно
 compulsory - принудительно
 ceiling - потолок
-attic - чердак
+attic = loft - чердак
 irritate - раздражать
 yummy - вкусный
 mean = greedy = tight-fisted - жадный
