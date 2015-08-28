@@ -385,7 +385,7 @@ off-license - алкогольная лавка
 fish-mongers - рыбная лавка
 dry-cleaner's - химчистка
 chemist's = pharmacy = drug store - аптека
-diary - молочная лавка
+dairy - молочная лавка
 DIY store - сделай сам магазин
 stall - ларек
 
