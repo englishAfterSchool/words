@@ -537,7 +537,7 @@ comfortable		more comfortable	the most comfortable
 good		better				the best
 bad			worse				the worst
 many,much	more				the most
-little		less				the lest
+little		less				the least
 old			older/elder(старее, старше)		the oldest/eldest
 far			further/farther		the farthest
 
