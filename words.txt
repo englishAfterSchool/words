@@ -62,7 +62,7 @@ liberal = generous
 fame - популярность
 helicopter - вертолет
 tour - тур путешествия
-descreptive - описательный
+descriptive - описательный
 adjective - прилагательное
 there - там, туда
 spectacular - впечатляющий
