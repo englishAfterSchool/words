@@ -644,7 +644,7 @@ kindness		kind
 difference		different
 danger			dangerous
 disaster		disastrous
-beaty			beautiful
+beauty			beautiful
 use				useless
 				useful
 help			helpful
