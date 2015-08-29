@@ -1095,7 +1095,7 @@ confidence - уверенность
 relative - родственники
 come round - заскочить в гости
 
-even - даже
+even - даже, плоский, ровный
 goal - задача, цель, гол
 lately - недавно
 faith - вера
