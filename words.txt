@@ -106,6 +106,7 @@ each other - друг друга
 political agenda - политические планы (хотя ед. число)
 Cuisine by nationality - национальная кухня
 how much is it - сколько это стоит?
+terrified - ужас
 
 
 --фразы вежливости
