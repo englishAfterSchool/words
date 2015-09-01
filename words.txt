@@ -100,6 +100,27 @@ Pied - пёстрый
 approach - приближаться
 vanish - исчезать
 cause - причина
+shore - берег
+as well as - также как
+each other - друг друга
+political agenda - политические планы (хотя ед. число)
+
+--фразы вежливости
+Good luck
+What about you
+See you later
+No, of course not
+Same to you - тебе того же
+Good idea
+Well, I’m sure we’ll see each other again. -- well - хорошо (при прощании)
+Safe journey
+You're welcome
+Pardon - извенение, за то что не услышал
+I'm sorry - мне жаль
+Excuse me - извините меня
+That's right - это правда
+Thank you for having me - спасибо что принимали меня (как гостя)
+
 
 --фразовые глаголы
 pick somthing up - подобрать
