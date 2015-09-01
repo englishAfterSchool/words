@@ -99,7 +99,7 @@ appearance - внешний вид, появление
 Pied - пёстрый
 approach - приближаться
 vanish - исчезать
-cause - причина
+cause - причина, дело, процесс суда
 shore - берег
 as well as - также как
 each other - друг друга
