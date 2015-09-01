@@ -105,6 +105,7 @@ as well as - также как
 each other - друг друга
 political agenda - политические планы (хотя ед. число)
 Cuisine by nationality - национальная кухня
+how much is it - сколько это стоит?
 
 --фразы вежливости
 Good luck
@@ -1090,6 +1091,10 @@ It's not my cup of tea. - это не моё
 can't stand you - не могу терпеть тебя
 
 правило: such/so
+			- перед прилагательным so,
+			- перед существительным или прил. + сущ such
+			such a good man
+			so good
 правило: might
 
 deer - олень
