@@ -1010,7 +1010,8 @@ comb - расческа
 razor - бритва
 act a fool = fool around
 
-on porpose - специально
+purpose - цель
+on purpose - специально
 by chance - случайно
 
 I'm on business - по делу
