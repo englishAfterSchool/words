@@ -111,6 +111,7 @@ slob - грязь
 thumb - большой палец
 thumb through - листать
 suspicion - подозрение
+appreciate - оценивать
 
 
 --фразы вежливости
