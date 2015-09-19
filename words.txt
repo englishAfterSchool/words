@@ -830,10 +830,10 @@ however - тем не менее
 accommodation - жилье
 laid-back - пофигист
 
-sincerely - искренне ваш
+sincerely - искренне ваш (Yours sincerely)
 	(если в письме есть имя или фамилия)
 
-faithfully - с уважением
+faithfully - с уважением (Yours faithfully)
 	(если в письме Diar, Sr, Madam, Miss)
 
 правило: First Condition (real future)
