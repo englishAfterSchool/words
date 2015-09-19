@@ -112,6 +112,8 @@ thumb - большой палец
 thumb through - листать
 suspicion - подозрение
 appreciate - оценивать
+align - выровнятьв линию, присоедениться
+hierarchy - иерархия
 
 
 --фразы вежливости
@@ -1158,7 +1160,7 @@ goal - задача, цель, гол
 lately - недавно
 faith - вера
 score - очки в игре
-score a goal - забить годл
+score a goal - забить гол
 will last - будут длиться
 filthy - запачканный
 
