@@ -114,6 +114,8 @@ suspicion - подозрение
 appreciate - оценивать
 align - выровнятьв линию, присоедениться
 hierarchy - иерархия
+either - один из, такой же
+whether - ... ли (напр. был ли, whether he was or not)
 
 
 --фразы вежливости
