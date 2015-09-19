@@ -969,7 +969,7 @@ get up - встать
 get on (with smbd) - ладить
 get off - выходить из транспорта
 get out
-get over = recover - преодолеть
+get over = recover - преодолеть, восстановиться
 get dressed
 get ready - готовиться
 get to the station
