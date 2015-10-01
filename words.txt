@@ -7,7 +7,6 @@ influence - влияние
 balloon - шар
 entertainment - развлечение, шоу
 jabber - болтовня
-cares - заботы
 injurious - вредный, ошибочный, оскарбительный
 tar - смола, деготь
 jar - банка
