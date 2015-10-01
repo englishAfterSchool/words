@@ -662,11 +662,9 @@ tap - сантехнический кран, затычка
 правило: Relative clauses - Butcher who slice meat.
 	(that - этот который)
 Употребление слов с объектами
-	people		who
-				that
+	people		who/that
 				
-	things		which
-				that
+	things		which/that
 				
 	places		where
 	
