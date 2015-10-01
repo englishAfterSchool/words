@@ -1177,7 +1177,7 @@ wear - носить, относится и к духам
 drop a line - чиркнуть строчку
 set off - отправиться
 sled - сани
-silly = stuped - глупый
+silly = stupid - глупый
 look up to - равняться на кого-то
 seal - тюлень
 although - хотя, не смотря на
