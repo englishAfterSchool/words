@@ -1190,7 +1190,7 @@ delighted = happy
 
 take up - начать заниматься
 altitude - высота
-comgratulation on - поздравить с чем-то
+congratulation on - поздравить с чем-то
 condid = sincere - искренне
 see off - провожать
 
