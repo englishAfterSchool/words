@@ -293,7 +293,7 @@ role model - пример для подражания
 niece - племянница
 nephew - племянник
 
-правило Tag Questions
+правило Tag Questions (5-ый тип вопросов, Disjunctive Question)
 	You _are_looking_ after _your_ niece today, _aren't_you_?
 	His wife _works_ in an office, _doesn't_she_?
 	I _passed_ an exam, _didn't_I_?
