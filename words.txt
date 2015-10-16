@@ -573,12 +573,12 @@ thrillers - триллеры
 		I'm sure...
 		I think...
 	2. Запланированные действия (наверное сделаю, собираюсь, вероятно будет)
-		be(am/are/is) going to ... + V
+		be(am/are/is) going to + ... (We’re going to get married in June)
 			- собираюсь что-то сделать, очевидное действие в будущем
 	3. Точные планы (запланированные, точно сделаю)
 		используется Present Continuous - planed action
-	4. Если разговор о расписании (timetables)
-		используется Present Simple
+	4. Если разговор о расписании, план действий (timetables)
+		используется Present Simple (The airplane takes off at 2.30 p.m.)
 	will, отрицание - won't
 	
 vision - видение
