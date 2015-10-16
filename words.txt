@@ -80,6 +80,7 @@ indentitying - совпадать
 theft - воровство
 thaw - оттепель
 thus - таким образом
+that - тот
 those - мн. that
 these - мн. this
 respect - уважение, иметь отношение, в это отношении
