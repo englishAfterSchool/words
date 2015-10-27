@@ -166,3 +166,68 @@ lead - вести за собой
 let out - выпускать
 lock - замкнуть
 lorry - грузовик
+lose - терять
+lovingly - нежно, с любовью
+marks - оценки
+mend - ремонт
+message - сообщение
+midnight - полночь
+missing - пропущенный
+movement - движение
+museum - музей
+mystery - тайна, загадка, мистика
+nervously - нервно
+noise - шум
+original - оригинальный
+outside - снаружи
+passport
+peacefully - мирно
+perhaps - возможно
+pick up - снять
+poem - стих
+point - указывать на
+pocker - покер
+portrait - портрет
+printer - печать
+prison - тюрьма
+pull - тянуть
+quietly - тихо
+refuse - отказываться
+relief - облегчение (от груза)
+reporters - репортеры
+run out of - заканчиваться (бензин, чернила)
+sadly - грустно
+secret agent - секретный агент
+security guard - охрана
+shine - светить
+shoot - стрелять
+softly - мягко
+spending spree - рост расходов
+staff - персонал
+stand up - встать
+steal - украсть
+still - всё ещё
+straight - прямо
+suddenly - внезапно
+supper - ужин
+switch off
+teenager
+terrorist
+thief
+throw - бросать
+thump (of the heart) - удар (сердца)
+tile - заглавие
+together - вместе
+tragically - трагично
+translation - перевод
+turn on
+twins - близнецы
+unfortunately - к несчастью
+unlock - отомкнуть
+urgently - срочно
+went off (a gun = fired) - взорваться, выстрелить
+whisper - шептать
+with feeling - с чувством
+worry - беспокоиться
+worth - стоящий, заслуживающий
+
