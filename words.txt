@@ -548,7 +548,7 @@ recall - вспомнить
 workshop - мастер класс
 
 правило: инфинитив, герундии
-	Gerund (-ing)	Infinitive (to)		Infinitive (без to и -ing)
+Gerund (-ing)		Infinitive (to)		Infinitive (без to и -ing)
 
 love				want				can
 like				hope				could
