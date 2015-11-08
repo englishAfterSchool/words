@@ -115,7 +115,7 @@ suspicion - подозрение
 appreciate - оценивать
 align - выровнятьв линию, присоедениться
 hierarchy - иерархия
-either - один из, такой же
+either - любой из (из двух), так(ой) же, тоже
 whether - ... ли (напр. был ли, whether he was or not)
 git - мерзавец
 maven - эксперт
