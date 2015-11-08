@@ -152,6 +152,8 @@ chart - схема, диаграма и т.д.
 attempt - попытка
 epoch - эпоха (ипок)
 retract - втягивать
+enlightenment - просвящение (образование, обучение)
+occur - случай
 
 
 --фразы вежливости
@@ -672,6 +674,8 @@ farther - о расстоянии
 4)
 be(isn't) + as ... as ... - такой же как
 so ... as ... - настолько же как
+
+правило: like (like a dog)
 
 5) this sofa is much(a lot) more comfortable
 
