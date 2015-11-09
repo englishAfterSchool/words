@@ -827,7 +827,7 @@ till - до
 solve = figure out = sort out - решать
 legal secretary - секретарь в суде
 
-gaint - достигли
+gain - зарабатывать, достигать
 
 vacancy
 high time - самое время
