@@ -809,6 +809,7 @@ motivation
 fill in for - заменять
 Let me sleep on it. - дайте подумать до утра
 
+о графиках:
 in the black - прибыль
 in the red - убыток
 
