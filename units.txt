@@ -231,3 +231,130 @@ with feeling - с чувством
 worry - беспокоиться
 worth - стоящий, заслуживающий
 
+unit 4
+
+adult - взрослый
+allergic - алергический
+amazing - удивительный
+ancient - древний
+antique - антикварный
+anybody - кто-то, кто-нибудь
+anyone == anybody
+anything - что-то
+aromatic - ароматичный
+aspirin - аспирин
+backpack - рюкзак
+baker's - булочная
+bargain (for smth) - торговаться, совершать выгодную покупку
+be packed with - быть упакованным
+belt - пояс
+book (of) - книга для чего-то
+bored - скучающий
+brands - брэнды
+bridge - мост
+bunch (of) - букет
+businesses - бизнес
+busy - занятой, интенсивный
+canal - канал
+carpet - ковер
+cash (a cheque) - обналичивать
+cashier - кассир
+cent (U.S. currency) - цент
+certainly - конечно
+change - мелочь, сдача, изменения
+changing room - примерочная
+chemist's - аптека
+choose - выбирать
+clever idea - умная мысль
+cloth - ткань
+clothing - одежда
+collect - собирать, коллекцианировать
+colourful - цветной, красочный
+commission - коммисия
+contrast - контраст, противоположность
+cooker - плита
+cost - стоимость
+count (money) - считать
+covered (with smth) - покрывать
+create - создавать
+currency - валюта
+customer - клиент
+delicious - вкусный
+deodorant - дезодорант
+desert - пустыня, покинутый район, покидать
+	  достоинство, заслуга
+  (deserve - заслуживать)
+dollar - доллар
+doughnut - пончик, зажаренный пирожок
+dozen - дюжина
+endless - бесконечный
+euro - евро
+everything - всё
+exactly - точно
+exchange rate - курс волют
+fascinating - увлекательный
+film set - съемочная площадка
+fine (= good quality) - хороший
+float - держаться на воде, плыть
+for goodness sake! - ради бога!
+for sale - на продажу
+forget - забывать
+forniture - мебель
+glasses - очки
+global - мировой, общий
+greengrocer's - овощная лавка
+grocer's (shop) - бакалейная лавка
+grown (grown locally) - выращенный
+half - половина
+herb - растение
+hobby - хобби
+huge - огромный
+international - междунородный
+invented - изобрел, придумал
+jewellery - ювилирное изделие
+kilo (of) - килограмм
+Let's see - посмотрим
+litre (of) - литр
+loaf (of) - буханка
+luxurious - раскошный
+market - рынок
+mechanic - механник
+nappy - подгузник
+narrow - узкий
+newsagent's - газетный ларек
+noisy - шумный
+packet - пакет
+parcel - посылка
+pavement - тратуар
+peaceful - мирный
+pick from - выбирать из
+picnic - пикник
+pints - пинты
+pound (pounds sterling) - фунт
+product - изделие
+quantity - количество
+roll - рулон
+rug - ковер (и настенный)
+scales - весы
+scientist - ученый
+seller - продавец
+shaving foam - пена для бритья
+shopping list - список покупок
+silver - серебрянный
+size - размер
+soaps - мыла
+sore throat - больное горло
+spectacular - впечатляющий
+spice - специи
+spoonful - столовая ложка
+stalls - торговые места, ларьки
+sterling - фунт стерлингов
+strange - странный
+survey (conduct a survey) - проводить исследования
+tissue - бумажная салфетка
+traditional - 
+traveller's cheque - дорожный чек
+village - деревня
+website
+wooden - деревянный
+
