@@ -40,7 +40,7 @@ glamorous - обоятельный, эффектный
 Guess what! - знаешь что
 guest - гость
 hairdresser - парикмахер
-a handfull - горсть
+a handful - горсть
 have something in common - есть что-то общее
 hundred - сто
 hurt - боль, обида, вред
@@ -186,7 +186,7 @@ perhaps - возможно
 pick up - снять
 poem - стих
 point - указывать на
-pocker - покер
+poker - покер
 portrait - портрет
 printer - печать
 prison - тюрьма
