@@ -299,7 +299,7 @@ float - держаться на воде, плыть
 for goodness sake! - ради бога!
 for sale - на продажу
 forget - забывать
-forniture - мебель
+furniture - мебель
 glasses - очки
 global - мировой, общий
 greengrocer's - овощная лавка
