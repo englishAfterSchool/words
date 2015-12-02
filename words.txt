@@ -588,7 +588,7 @@ bank note - бумажные деньги (в 1 или 2 слова)
 coin - монета
 spend on = waste on - пустая трата
 have/earn/make money
-cann't afford - не могу позволить
+can't afford - не могу позволить
 invest - инвестировать
 income = profit - доход
 bet ... on ... (money) - ставка на
@@ -772,7 +772,7 @@ whose - который, чей
 Синонимы:
 Adj			Synonim(same)			Antonim (opposite)
 bored		fed up					interested
-wounderful	amazing					usual (routine)
+wonderful	amazing					usual (routine)
 modern		contemporary			ancient
 impolite	rude					polite
 untidy		dirty					tidy
@@ -809,10 +809,10 @@ spoilt - испорчена
 arrival			arrive
 trainer			train
 invitation		invite
-organization	organaze
+organization	organize
 explanation		explain
 decision		decide
-emploer			employ
+employer		employ (наниматель - нанимать)
 employment
 employee
 improvement		improve
@@ -849,7 +849,7 @@ for a while - некоторое время
 tick - галочка
 work long hours - работать много
 get on - ладить
-leisur - досуг
+leisure - досуг
 motivation
 
 fill in for - заменять
@@ -943,14 +943,14 @@ faithfully - с уважением (Yours faithfully)
 правило: First Condition (real future)
 
 pal = mate = friend
-penpal - друг по переписке
+pen pal - друг по переписке
 homeboy - корешь
 chase - погоня
 rain jacket = rain coat - дождевик
 rub - тереть
 insect repellent - средство от насикомых
 call out - выкрикивать
-checky - хитренький
+checky - хитренький???
 toss a coin - подбросить монету
 
 ######9
@@ -987,7 +987,7 @@ reckon = suggest = suppose - полагать
 hurricane - ураган
 overlook = face - выходить окнами на
 quit - бросить
-resigh - уходить в отставку
+re-sigh - уходить в отставку
 excess baggage - сдавать багаж
 in order to - для того чтобы
 check in - регистрация
