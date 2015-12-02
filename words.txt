@@ -1285,7 +1285,7 @@ delighted = happy
 take up - начать заниматься
 altitude - высота
 congratulation on - поздравить с чем-то
-condid = sincere - искренне
+candid = sincere - искренне
 see off - провожать
 
 Pardon - извинение, когда не расслышали
@@ -1320,7 +1320,7 @@ has/have + been + Ving
 Слова, которые не употребляются с временами Continue (мысли, чувства, модальные глаголы):
 	understand
 	know
-	realise (реализовывать)
+	realise/realize (реализовывать)
 	think
 	suppose
 	
