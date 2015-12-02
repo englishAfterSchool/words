@@ -547,7 +547,7 @@ cordinal
 
 правило: some, any, no
 
-wounde pride - задеть гордость
+wounded pride - задеть гордость
 catwalk - подиум
 sleeve - рукав
 collar - воротник
