@@ -1375,7 +1375,7 @@ move on - продолжать двигаться
 surge - волны
 ahead - будущий, впереди
 grand - большой
-excessive - черезмерный
+excessive - черезмерный, излишний
 attitude - позиция, отношение
 glimpse - мельком
 elaborate - тщательно
