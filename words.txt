@@ -1364,9 +1364,10 @@ keep in touch - быть на связи
 keep in touch == stay in touch
 seek - искать
 quarrel - ссориться
-ambitious - амбициозный, целеустремленный (считается очень положительным качеством)
 switch movies after - что-то меняется
 got game - доигрался
+Horoscope - гороскоп
+
 
 Знаки зодиака:
 Aries - Овен (ариес)
@@ -1384,7 +1385,7 @@ Pisces - рыбы (пайсис)
 
 Прилагательные:
 sensible - здравомыслящий, здравый, рациональный
-reasonable == sensible
+reasonable (рациональный) == sensible
 sensual - чувственный
 willed - волевой
 outgoing == sociable - общительный
@@ -1401,3 +1402,5 @@ loyal - преданный
 deep - глубокомысленный
 caring - внимательный, заботливый
 careful - заботливый
+ambitious - амбициозный, целеустремленный (считается очень положительным качеством)
+combativity - боевой
