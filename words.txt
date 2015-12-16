@@ -1351,13 +1351,13 @@ take - нести что-то/кого-то с одного места в дру
 --разговорный курс
 rely - положиться (на кого-то ...)
 nursery school - ясли
-by into smth == be interested - интересоваться чем-то
-ask smbd to do smth
+by into smth? == be interested - интересоваться чем-то
+ask smbd to do smth - попросите кого-что-то делать
 pregnant - беременная
-downtown - центр города, делавая часть города
+downtown - центр города, деловая часть города
 peace of advice - один совет (т.к. advice - мн. число)
 
-pick == chose
+pick == choose
 like ... very much
 to - (часто переводится) чтобы
 keep in touch - быть на связи
@@ -1365,10 +1365,22 @@ keep in touch == stay in touch
 seek - искать
 quarrel - ссориться
 ambitious - амбициозный, целеустремленный (считается очень положительным качеством)
-
+switch movies after - что-то меняется
+got game - доигрался
 
 Знаки зодиака:
-
+Aries - Овен (ариес)
+Taurus - телец (торас)
+Gemini - близнецы (джеминай)
+Cancer - рак (кансаа)
+Leo - лев (лио)
+Virgo - дева (вёрго)
+Libra - весы (либра)
+Scorpio - скорпион (скорпиоу)
+Sagittarius - стрелец (саджитериос)
+Capricorn - козерог (каприкоон)
+Aquarius - водолей (эквэриэс)
+Pisces - рыбы (пайсис)
 
 Прилагательные:
 sensible - здравомыслящий, здравый, рациональный
@@ -1385,3 +1397,7 @@ reserved - сдержанный, замкнутый
 bossy - любящий покомандовать
 flirtatious - любящий по флиртовать
 affection - привязанность, любовь (родственная?)
+loyal - преданный
+deep - глубокомысленный
+caring - внимательный, заботливый
+careful - заботливый
