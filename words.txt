@@ -865,7 +865,7 @@ Let me sleep on it. - дайте подумать до утра
 in the black - прибыль
 in the red - убыток
 
-get the ball rolling - начать чем-то заниматься
+get/set the ball rolling - начать чем-то заниматься
 
 CV - резюме (брит.)
 
@@ -1368,6 +1368,20 @@ switch movies after - что-то меняется
 got game - доигрался
 Horoscope - гороскоп
 
+capable - способный
+accomplish - выполнять до конца, совершенствовать
+closure - завершение, закрытие
+move on - продолжать двигаться
+surge - волны
+ahead - будущий, впереди
+grand - большой
+excessive - черезмерный
+attitude - позиция, отношение
+glimpse - мельком
+elaborate - тщательно
+visionary - мечтатель, провидец
+irrespective - бессознательный
+remain - оставаться
 
 Знаки зодиака:
 Aries - Овен (ариес)
