@@ -279,7 +279,7 @@ downtown - деловая часть города
 foreign - иностранец
 clubbing - посещение клубов
 mouse mat - коврик для мыши
-outgoing - отбывающий
+outgoing - отбывающий, общительный
 scissors - ножницы
 pencil sharpener - точилка дл корандашей
 star sign - знак зодиака
@@ -1356,3 +1356,32 @@ ask smbd to do smth
 pregnant - беременная
 downtown - центр города, делавая часть города
 peace of advice - один совет (т.к. advice - мн. число)
+
+pick == chose
+like ... very much
+to - (часто переводится) чтобы
+keep in touch - быть на связи
+keep in touch == stay in touch
+seek - искать
+quarrel - ссориться
+ambitious - амбициозный, целеустремленный (считается очень положительным качеством)
+
+
+Знаки зодиака:
+
+
+Прилагательные:
+sensible - здравомыслящий, здравый, рациональный
+reasonable == sensible
+sensual - чувственный
+willed - волевой
+outgoing == sociable - общительный
+inquisitive - любопытный
+good at details - педантичный
+playful - игривый
+efficient - эффективный, результативный
+stubborn == obstinate - упрямый
+reserved - сдержанный, замкнутый
+bossy - любящий покомандовать
+flirtatious - любящий по флиртовать
+affection - привязанность, любовь (родственная?)
