@@ -582,3 +582,6 @@ untidy - неаккуратный
 vibrant - дрожащий
 vitality - жизнеспособность, энергетика
 worried
+
+unit 7
+

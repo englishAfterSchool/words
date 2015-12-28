@@ -226,7 +226,7 @@ circumstance - обстоятельства
 slippy - стройный, изящный, шустрый
 
 auxiliary - помощник, вспомогательный
-
+participate - участвовать
 		
 --фразы вежливости
 Good luck
@@ -1442,3 +1442,28 @@ cycle - ездить на велосипеде, велосипедный
 rough - бурный, грубый, дикий
 
 come you from - откуда вы?
+
+
+bet - могу поспорить
+significance - знание
+Christianity - христианство
+Christians - христиане
+coincide - соответствовать, совпадать
+pagan festival - языческое празднование
+Dutch - голландский
+legislators - законодатели
+Mardi gras - жирный вторник, как масленица
+treat - относиться
+	He treats me like dirt.
+convicted - уличенный, осужденный
+put up - вешать
+carol - рождественская песня
+raise - поднимать
+wreath - венок
+mistletoe - омела белая
+cane - трость
+tinsel - мишура
+mince - фаршированный
+reveals - обнаружить
+chimney - дымоход
+reindeer - северный олень
