@@ -83,7 +83,7 @@ skills
 social life
 society
 sometimes
-strange
+strange - чужой, странный
 surprise
 technology
 test
@@ -357,4 +357,120 @@ traveller's cheque - дорожный чек
 village - деревня
 website
 wooden - деревянный
+
+unit 5
+
+affect - влиять, воздействовать
+alcohol
+ambition
+annoyed/annoying - раздражен/раздражающий
+applicable - подходящий, соотв-й
+argue (with sb) - ругаться
+army
+arrange - договариваться, приводить в порядок
+average - среднее (число)
+be pleased for sb - быть довольным за кого-то
+be responsible - быть ответственным
+behaviour - поведение
+blame - осуждать, винить
+body piercing
+boots - ботинки, сапоги
+bored/boring - заскучавший/скучный
+brat - трудный подросток
+bullying - запугивание
+camp - лагерь
+cheating - жульничать
+Cheer up! - выше нос
+chorus - припев
+confused/confusing - сбить с толку / сбивающий с толку
+cried - плакал
+cruise - круиз
+delete
+depressed/depressing - депрессивный / тот кто приводит к депрессии
+desperate - отчаяние
+disappointed/disappointing - разочарованный/разочаровывающий
+discuss - обсуждать
+divorced - разведенный
+end up - оказаться, явиться
+exam
+excited/exciting - в восторге, возбужден / возбуждающий
+exhausting - утомленный
+experience - опыт
+fascinated/fascinating - очарованный, увлеченный / очаровательный, увлекающий
+fault - вина
+fed up with - сыт по горло
+feel depressed - быть в депрессии
+feel sorry for - извиняться за
+fighting - драка
+footsteps - шаги
+frightened/frightening - напуган/пугающий
+get married
+give sb a ring
+	(== call sb on the phone) - позвонить кому-то
+give up (= stop doing sth) - бросить что-то, сдаться
+grade - оценка, этап
+have a drug problem - иметь проблемы с наркотиками
+headache - головная боль
+heartache - боль в сердце
+heavy - тяжелый
+hike - ходьба пешком на длинные дистанции
+hope - надежда
+horrible - ужасный
+hurt - раненый, поврежденный
+incredible - невероятный
+innocence - невинность
+instruction
+intelligent - образованный
+invite - приглашать
+lend - одолжить
+lie - ложь
+look forward to (doing sth) - ждать чего-то
+marathon - марафон
+marital status - семейное положение
+nurse - медсестра
+occupation - род занятости
+orders (follow orders) - приказы
+out of control - выходящий из под контроля
+permanent - постоянный
+physical activity
+piercings - пирсинги
+plan (ti do sth) - планировать
+play truant
+	(not go to school) - прогуливать
+post (letters/parcels) - отправлять по почте
+postcode
+problem
+promise - обещать
+primary school - начальная школа
+prison - тюрьма
+psychologist
+rebel (against sb or sth) - бунтовать
+relaxing - расслабляющий
+remarried - жениться вновь
+save money - копить деньги
+secret
+self-control - самоконтроль
+seriously
+shocked
+shocking
+signature - подпись
+situation
+spy story
+stand your ground - отстаивать свое
+steal - украсть, воровать
+sunshine - солнечный свет
+surprised/surprising - удивленный/удивляющий
+swearing - клятва
+take drugs - принимать наркотики
+tell (a secret/lie)
+therapy - терапевт
+tired of - уставший от чего-то
+tough - жесткий
+train - тренироваться
+troubled - в беде
+trust
+vet - ветеринар
+worried/worrying - обеспокоенный
+
+unit 6
 
