@@ -689,7 +689,7 @@ bullying - запугивать
 bully - тот, кто запугивает
 shoplifting - кража в магазине
 desperate - отчаяние
-get rid of - избавиться
+get rid of (it) - избавиться, выбросить
 play truant - прогуливать
 
 strict - строгая
@@ -1476,3 +1476,20 @@ mince - фаршированный
 reveals - обнаружить
 chimney - дымоход
 reindeer - северный олень
+
+
+shuffle - засовывать, тасовать
+	reshuffle - перетасовать
+as well - так же
+
+keep on == carry on == go on
+break down - сломать
+bring up - выставлять/вызывать на публику (вытаскивать на свет)
+playing up - делать не серьезно, дурачиться вместо работы
+erratically - хаотично
+(it) throw out - выбросить
+turn out??? == end result - в результате
+agree == go along with - согласиться с кем-то
+call someone in to - позвать
+break down - если про окно, то будет иметься ввиду механизм окна, а не стекло?
+
