@@ -236,7 +236,17 @@ pillar of Eternity
 sage - мудрец
 reduce - ослаблять
 redux - возвращающийся (Kerry redux? — Керри возвращается?)
-		
+
+--the/a моё
+
+артикли употребляются с предметами
+
+a/an					the						<нету>
+неизвестный предмет		известный предмет
+	(и только один)			(любое количество)
+
+
+
 --фразы вежливости
 Good luck
 What about you
@@ -1493,6 +1503,7 @@ agree == go along with - согласиться с кем-то
 call someone in to - позвать
 break down - если про окно, то будет иметься ввиду механизм окна, а не стекло?
 
+
 push it - задвигать до предела (Don't push it - хватить грузить меня?)
 
 raw == crude - сыро (о еде, даже прожаренное с кровью)
@@ -1501,7 +1512,23 @@ well-done - хорошо прожарено
 
 I have finished. == I am already. - я готов
 heat - жар
-	heater - батарея, например
+	heater - батарея (например)
 heat on - включить отопление
 amendment - изменение в законах (корректировка), чем-то официальном
 interested in, но fascinating by - интересоваться чем-то
+
+pick up (== go and get)
+give (me) a lift - подбросить
+drop (me) off - высадить кого-то (из машины например)
+set off == leave (for) - отправляться (He set off for work an hour ago.)
+	set off + time
+	set off + for + place
+hurry up - поторопиться
+hold up (== stuck) - застрять (... get hold up ...) - застрять
+
+on road (в дороге):
+	speed up a bit (== go a bit faster) - немного прибавить скорости
+	slow down (== go slower) - медленнее
+	cracking down on [me] (== getting strict)- быть строгим с (кем-то)
+	fill up - заправиться (как buy petrol)
+
