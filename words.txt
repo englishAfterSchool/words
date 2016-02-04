@@ -1453,7 +1453,7 @@ whose turn - чья очередь?
 ... slipping by - подскользнуться
 slip - скользить
 	slipping - скольжение
-come up with (an idea) - придумать
+come up with (an idea/products) - придумать (произвести)
 date - свидание
 date - устаревать
 	... will never date - никогда не выйдет из моды
@@ -1558,7 +1558,9 @@ lean - наклоняться, худой
 concession - уступка
 fond - нежный
 
-мнение:
+manufacture == made
+
+мнение (how you give opinion):
 1. strongly opinion
 	I am convicted that ...
 	It's really clear that ...
@@ -1572,3 +1574,29 @@ fond - нежный
 4. expressing concession
 	Although ...	- Although nuclear energy is clear, I wonder if it really safe.
 	In spite of the fact that ... - In spite of the fact that it's dangerous, a lot of young people still smoke.
+
+substitute == change - заместитель, замена
+subhuman - не человек, животное
+warranty - основание, гарантия
+schedule - график, план
+fit - подходящий по размеру
+
+I can swim == I know how to swim
+
+be up to (smth) == what have you done
+go over == review - обычно о известном предмете
+worked (smbd[them]) out == calculate - посчитать числа
+set up - назначить встречу, привести в порядок
+take (smdb) through (sth) == explain (smth) to (someone) - объяснить что-то кому-то
+	I'll take you through it one more ​time, then you can ​try it yourself.
+	take through - сделать до конца
+tied up - сильно занятой
+fit (me) in (today) - уделить время (мне)
+By the way - кстати
+be dealth with (smth) - поработать над чем-то
+	I dealth with deals.
+see to -  смотреть, наблюдать (о планах)
+	Вроде как: "Я посмотрю что с этим делать"?
+enquire (== inquire) - искать, спрашивать, узнавать
+
+vehicle - транспортное средство
