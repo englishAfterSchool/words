@@ -236,6 +236,8 @@ pillar of Eternity
 sage - мудрец
 reduce - ослаблять
 redux - возвращающийся (Kerry redux? — Керри возвращается?)
+solitude - одиночество
+chill - охлаждать, холодный/озябший, простуда/озноб
 
 --the/a моё
 
@@ -1531,4 +1533,25 @@ on road (в дороге):
 	slow down (== go slower) - медленнее
 	cracking down on [me] (== getting strict)- быть строгим с (кем-то)
 	fill up - заправиться (как buy petrol)
+
+
+eagerly - пылко, страстно
+glance - мельком (взглянуть мельком)
+firmly - надежно, твердо
+ought - долг (моральный)
+moustache - усы (мэсташ)
+slightly - слегка (slightly surprised)
+reply - ответ, отклик
+choker - то, что душит
+anxious - тревожный
+funeral - похороны
+violet - фиалка
+fair - красивая, белакурая
+nasty - противная
+hesitate - колебаться, сомневаться
+obedient - послушный
+fuse - плавкий предохранитель
+deliberately - преднамеренно
+whistle - свистеть
+lean - наклоняться, худой
 
