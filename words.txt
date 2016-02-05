@@ -238,6 +238,7 @@ reduce - ослаблять
 redux - возвращающийся (Kerry redux? — Керри возвращается?)
 solitude - одиночество
 chill - охлаждать, холодный/озябший, простуда/озноб
+rogue - жулик
 
 --the/a моё
 
@@ -1586,7 +1587,8 @@ I can swim == I know how to swim
 be up to (smth) == what have you done
 go over == review - обычно о известном предмете
 worked (smbd[them]) out == calculate - посчитать числа
-set up - назначить встречу, привести в порядок
+set up - назначить встречу, привести в порядок, установить что-то
+	set him up - поставить его на ноги
 take (smdb) through (sth) == explain (smth) to (someone) - объяснить что-то кому-то
 	I'll take you through it one more ​time, then you can ​try it yourself.
 	take through - сделать до конца
