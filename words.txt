@@ -1605,7 +1605,7 @@ enquire (== inquire) - искать, спрашивать, узнавать
 vehicle - транспортное средство
 persuade - убеждать
 mould - плесень
-nevertheless - тем не менее
+nevertheless - тем не менее, всё-таки
 establish - учреждать, устанавливать
 	establish contact
 
@@ -1614,3 +1614,6 @@ renewable - возобновляемый
 adopted - принятый, приемный
 	adopted child — приёмный ребёнок
 	adopted legislation — принятое законодательство
+indulge - потакать, позволять себе
+	Only rarely will she indulge in a glass of wine. — Только изредка она позволит себе стаканчик вина
+	indulging children - балование детей
