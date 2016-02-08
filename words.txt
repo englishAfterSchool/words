@@ -1620,3 +1620,8 @@ renewable - возобновляемый
 adopted - принятый, приемный
 	adopted child — приёмный ребёнок
 	adopted legislation — принятое законодательство
+former - создатель, разработчик, шаблон
+	
+former - бывший, прошлый, давний
+	former passage — предыдущий абзац
+	Of the two spellings, the former is more common. — Из двух вариантов написания первый является более распространённым
