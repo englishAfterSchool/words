@@ -1551,6 +1551,7 @@ fair - красивая, белакурая
 nasty - противная
 hesitate - колебаться, сомневаться
 obedient - послушный
+	obedience - подчинение
 fuse - плавкий предохранитель
 deliberately - преднамеренно
 whistle - свистеть
@@ -1608,3 +1609,8 @@ nevertheless - тем не менее
 establish - учреждать, устанавливать
 	establish contact
 
+humanity == mankind
+renewable - возобновляемый
+adopted - принятый, приемный
+	adopted child — приёмный ребёнок
+	adopted legislation — принятое законодательство
