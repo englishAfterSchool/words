@@ -229,6 +229,12 @@ auxiliary - помощник, вспомогательный
 participate - участвовать
 heist - грабеж, кража
 
+indulge - потакать, позволять себе
+	Only rarely will she indulge in a glass of wine. — Только изредка она позволит себе стаканчик вина
+	indulging children - балование детей
+debauch - гулянка, дебош, распущенность, соблазнять, разлагать (нравы)
+
+
 Название игр:
 pillar of Eternity
 	pillar - опора, столп, основа
@@ -1614,7 +1620,3 @@ renewable - возобновляемый
 adopted - принятый, приемный
 	adopted child — приёмный ребёнок
 	adopted legislation — принятое законодательство
-indulge - потакать, позволять себе
-	Only rarely will she indulge in a glass of wine. — Только изредка она позволит себе стаканчик вина
-	indulging children - балование детей
-debauch - гулянка, дебош, распущенность, соблазнять, разлагать (нравы)
