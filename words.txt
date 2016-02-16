@@ -1601,7 +1601,7 @@ manufacture == made
 substitute == change - заместитель, замена
 subhuman - не человек, животное
 warranty - основание, гарантия
-schedule - график, план
+schedule - график, план, список
 fit - подходящий по размеру
 
 I can swim == I know how to swim
