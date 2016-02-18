@@ -1661,6 +1661,7 @@ tennis player - тенисист
 goggles == glasses - очки
 goggles - очки с круглыми линзами
 goggle - вытаращенные глаза, изумление
+controversy - спор
 
 trunk - спортивные трусы, плавки
 	swimming trunk - плавки
