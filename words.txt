@@ -1712,6 +1712,6 @@ sum up - подводить итог
 4. to sum up
 5. finally
 
-assignment - задание
-ambiguously - неопределенно
+assignment - задание; командировка как задание
+ambiguously - неясно, неопределенно
 
