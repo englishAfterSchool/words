@@ -1691,3 +1691,27 @@ strip - обнажать (обнажать овощи == чистить и т.д
 
 stove - печка, кухонная плита
 
+Asking for an opinion.
+	1. Do you agree that ...
+	2. Do you think that
+	3. How do you feel about it? - что вы думаете об этом?
+Agreeing with opinion
+	1. You're quite right about ...
+	2. Of course ...
+Disagreeing with opinion
+	1. I'm sorry, but ...
+	2. I really can't agree. ...
+	3. You may have a point, but ...
+	
+
+sum up - подводить итог
+Порядок применения в тексте слов:
+1. first of all
+2. secondly
+3. also
+4. to sum up
+5. finally
+
+assignment - задание
+ambiguously - неопределенно
+
