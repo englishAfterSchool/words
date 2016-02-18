@@ -1715,4 +1715,5 @@ sum up - подводить итог
 
 assignment - задание; командировка как задание
 ambiguously - неясно, неопределенно
-
+abide - следовать чему-то, выносить (жизнь)
+	abide by a peaceful policy
