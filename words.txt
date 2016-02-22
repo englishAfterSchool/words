@@ -420,7 +420,7 @@ mature - взрослый
 adult - взрослый
 sophisticated - утонченная
 freckle - веснушка
-birthmark - ролинка
+birthmark - родинка
 wrinkle - морщина
 courage - отвага
 liquid - жидкость
