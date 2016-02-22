@@ -795,7 +795,7 @@ far			further/farther		the farthest
 если adj (прилагательное) заканчивается на -ly:
 	wisely		more wisely		the most wisely
 
-further - когда о обстрактном
+further - когда о об абстрактном
 farther - о расстоянии
 
 4)
@@ -852,7 +852,7 @@ kangaroo - кенгуру
 		recently/already/ever/never/just
 	... hasn't ... yet.
 
-Употребляются с времнми Perfect:	
+Употребляются с временами Perfect:	
 ... for ... - в течении
 ... since ... - с какого-то времени
 
@@ -863,7 +863,7 @@ for three years - в течении 3 лет
 flop == fail
 havoc == chaos
 apparently - видимо, вероятно
-upset - растроен
+upset - расстроен
 fire = sack = dismiss - увольнять
 spoilt - испорчена
 
@@ -901,7 +901,7 @@ use				useless
 help			helpful
 				helpless
 				
-moody - с переменчевым настроением
+moody - с переменчивым настроением
 
 easy going - добродушный
 improve - улучшать
@@ -1020,7 +1020,7 @@ toss a coin - подбросить монету
 ######9
 
 слова:
-customs - томожня
+customs - таможня
 seasick - морская болезнь
 speed boat - парус
 yacht - яхта
@@ -1240,7 +1240,7 @@ by for now - ну всё пока
 правило: passive voice
 	(на курсах только для времен:	
 		Present Simple (is), Past Simple (was/were), Present Perfect(has been), will Future(will be))
-	- действие над придметом (шар был отпущен)
+	- действие над предметом (шар был отпущен)
 by + person (с одушевленными) - ... сделан кем-то
 with + thing (с неодушевленными) - ... сделан чем-то
 образуется:
@@ -1319,7 +1319,7 @@ currently - сейчас
 слова:
 so far - пока ещё
 ceiling - потолок
-bake - выпикать в духовке
+bake - выпекать в духовке
 confidence - уверенность
 relative - родственники
 come round - заскочить в гости
