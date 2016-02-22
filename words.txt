@@ -250,7 +250,6 @@ sluggish - вялый, пассивный
 derivative - производный, вторичный, не оригинальный
 occasionally - иногда (от случая к случаю)
 	occasion - случай
-prohibition - запрет (запрет чего-то, любой запрет)
 	
 
 Название игр:
@@ -1653,6 +1652,7 @@ former - бывший, прошлый, давний
 jogging - бег
 sweets - сладости
 carbohydrates - углеводы
+supplement - добавка (напр. пищевая)
 
 tag question для may - это can?
 
@@ -1663,6 +1663,9 @@ tennis player - тенисист
 goggles == glasses - очки
 goggles - очки с круглыми линзами
 goggle - вытаращенные глаза, изумление
+racquet (== racket) - тенисная ракетка
+	racket - сильный шум, шумиха вокруг чего-то
+	run a racket — шантажировать
 controversy - спор
 
 trunk - спортивные трусы, плавки
@@ -1717,5 +1720,18 @@ sum up - подводить итог
 
 assignment - задание; командировка как задание
 ambiguously - неясно, неопределенно
+(отчётливо) distinctly == (понятно) clear == (о погоде) it is fine - ясно
+
 abide - следовать чему-то, выносить (жизнь)
 	abide by a peaceful policy
+
+prohibition - запрет (запрет чего-то, любой запрет)
+fairly - красиво, мило, должным образом, объективно
+			The story was told fairly and objectively. — История была рассказана честно и объективно.
+			The table was set fairly. — Стол был чудесно сервирован.
+	- чётко, ясно
+			I have fairly seen him. — Я отчётливо его разглядела.
+	- довольно; в некоторой степени
+			fairly easy problem — довольно простая задачка
+			
+infliction - причинение (страдания); наказание
