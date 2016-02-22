@@ -440,7 +440,7 @@ look:	at - смотреть на
 
 make up - мириться
 have a row = fall out - ссориться
-fallout - радиоактивнык осадки, последствия(плохие)
+fallout - радиоактивные осадки, последствия(плохие)
 role model - пример для подражания
 
 niece - племянница
@@ -499,7 +499,7 @@ ladder - лестница которую приставляют
 firefighters = fireman - пожарные
 
 правило: Adverbs (наречие)
-	образоются: Adjective + -ly == adverb
+	образуются: Adjective + -ly == adverb
 	quick + -ly == quickly (говорить как? - быстро)
 
 	с окончанием -y: angry + -ly == angrily
@@ -568,7 +568,7 @@ excitement - восторг
 go window shoping - глядеть на ветрины
 
 sugar cane - сахарный тростник
-consume - употреблять, поглащать
+consume - употреблять, поглощать
 beet - свекла
 tut - цык, выражение недовольства-нетерпеливости
 washing powder - стиральный порошек
@@ -637,7 +637,7 @@ chemist's = pharmacy = drug store - аптека
 dairy - молочная лавка, маслодельня
 DIY store - сделай сам магазин
 stall - ларек
-Stationery - концелярские товары
+Stationery - канцелярские товары
 
 spiky hair - торчащие волосы (?)
 foam - пена
@@ -646,7 +646,7 @@ earn - зарабатывать
 borrow (from) - одалживать
 lend to - одалживать кому-то
 pay back - вернуть долг
-currency - национальная волюта
+currency - национальная валюта
 bank note - бумажные деньги (в 1 или 2 слова)
 coin - монета
 spend on = waste on - пустая трата
@@ -658,7 +658,7 @@ bet ... on ... (money) - ставка на
 gambler - азартный игрок
 tip - чаевые
 demand - требовать
-carry - поддердживать
+carry - поддерживать
 tear - рвать
 generous - щедрый
 mean = tight-fisty = greed - жадность
@@ -686,9 +686,10 @@ think of			decide
 hate				been
 					gone
 					
-would - бы
-could - мог
-should - следует
+правило:
+	would - бы
+	could - мог
+	should - следует
 
 been to ... - уехал и вернулся
 gone to ... - уехал и остался		
@@ -696,14 +697,14 @@ gone to ... - уехал и остался
 bellman - зазывала
 quite - вполне, совсем
 ice-rink - ледяной коток
-rink - коток
+rink - каток
 devote to - посвятить чему-то ...
 employ - нанимать
 insane - душевнобольной
 headache - головная боль
 it drives me mad - это доводит меня до бешенства
 instant - мгновенный, миг, момент
-snap - щелчек
+snap - щелчок
 swear - ругаться, клясть, клясться
 thrillers - триллеры
 
