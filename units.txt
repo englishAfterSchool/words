@@ -581,7 +581,7 @@ trip - путешествие
 untidy - неаккуратный
 vibrant - дрожащий
 vitality - жизнеспособность, энергетика
-worried
+worried (adj)
 
 unit 7
 
