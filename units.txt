@@ -585,3 +585,122 @@ worried (adj)
 
 unit 7
 
+accident - несчастный случай
+account - счет, аккаунт
+accountant - бухгалтер
+advertise - рекламировать
+advertisement - рекламирование
+album - альбом
+alive - живой
+ambitious - амбициозный
+art - искусство
+artist
+attend - посещать
+bad-tempered - с плохим характером
+band - группа
+bass - басс
+bodyguard
+calm - спокойный
+camping
+career - карьера
+chaffeur - шофер
+chef - повар
+corridor
+courage - отвага
+danger
+decide - решать
+decision - решение
+decorate - украшать
+decorator - декаратор
+dietician (== dietitian) - диетолог
+difference - разница
+disaster - катастрофа
+disastrous - катастрофический
+drama queen - примадонна, истеричка
+drum - барабан
+easy-going - добрадушный, беззаботный
+electric - электрический, поразительный
+electrician - електрик
+employ - нанимать
+employment - трудовая занятость
+entourage - антураж
+explain
+explanation
+fame - слава
+famous - знаменитость
+film premiere
+fire (from a job) - увольнять
+flopped (been unsuccessful) - сломанный, неработающий
+friendly
+governed - руководить
+great granddaughter - правнучка
+guitar
+have a break - отдохнуть
+havoc (play havoc with sth) - хаос, разрушение, опустошение
+heir - наследник
+hire - брать на прокат
+imagination - воображение
+including - включающая
+industry
+influenced (by sb/sth) - влияющий
+interpret - переводить
+interpreter - переводчик
+invent - изобретать
+invitation - приглашение
+journalist - журналист
+keyboard
+kind - добрый
+kindness - доброта
+law - право, закон
+librarian - библиотекарь
+library
+lighting - освещение
+manicurist - маникюрщица
+member - участник
+misfortunes - невезение
+model - моделировать
+moody - с переменчивым настроением
+movie (= film)
+music business
+musical instrument
+musician - музыкант
+nervous breakdown - нервный срыв
+noisy
+novel - роман
+organization - организация
+organize - организовывать
+PA (personal assistant)
+paparazzi
+patient - спокойный
+patient - пациент
+perform - выступать, исполнять
+performance - представление
+personal trainer
+photographer
+piano
+politician - политик
+politics - политика
+principality - принципиальность (?), княжество
+private jet - личный реактивный ранец
+psychoanalysis - психоанализ
+reception - прием, встреча
+refer to - отношение к чему-то
+related - имеющий отношение к чему-то
+sack - мешок
+saxophone
+science - наука
+selfish - эгоист
+series - серии
+sidewalk (= pavement) - тратуар
+spoilt - испорченный
+staff - персонал
+temperamental - темпераментный
+ten pound note - десятифунтовая банкнота
+thoughtful - задумчив
+tragedy - трагедия
+tragic - трагичный
+trumpet - труба (муз. инструмент)
+unkind - недобрый
+upset - растроен
+
+unit 8
