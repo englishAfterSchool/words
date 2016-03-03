@@ -269,7 +269,7 @@ skew - косая, уклон, ассиметрия
 Can == Tin - консервная банка
 
 splint - мед. шина
-
+rubber - резина
 
 Название игр:
 pillar of Eternity
