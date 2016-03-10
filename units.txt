@@ -41,7 +41,7 @@ Guess what! - знаешь что
 guest - гость
 hairdresser - парикмахер
 a handful - горсть
-have something in common - есть что-то общее
+have something in common - есть (иметь) что-то общее
 hundred - сто
 hurt - боль, обида, вред
 impossible - невозможный
@@ -66,7 +66,7 @@ often
 pearl
 politician
 poster
-practise
+practise - практиковать
 prefer
 private
 province
@@ -691,16 +691,25 @@ saxophone
 science - наука
 selfish - эгоист
 series - серии
-sidewalk (= pavement) - тратуар
+sidewalk (= pavement) - тротуар
 spoilt - испорченный
 staff - персонал
 temperamental - темпераментный
-ten pound note - десятифунтовая банкнота
+ten pound note - десяти фунтовая банкнота
 thoughtful - задумчив
 tragedy - трагедия
 tragic - трагичный
 trumpet - труба (муз. инструмент)
 unkind - недобрый
-upset - растроен
+upset - расстроен
 
 unit 8
+
+ability - возможность, способность
+ache - боль, болеть
+agency - агенство
+ankle - лодыжка
+apologize - извеняться
+apply - подавать заявку
+application - заявка
+architect - архитектор
