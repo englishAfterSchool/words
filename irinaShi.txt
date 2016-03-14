@@ -84,3 +84,16 @@ a Turk, a Scot, an Italian		the Dutch - голландцы		странами
 																	b) родственные связи
 																		Aunt Martha, Sister Mary
 ------------------------------
+conditional
+	если, то будем что-то делать
+
+Conditional 1 (придаточные условия)
+	Если слышим союз НИКОГДА не употребляем will после него!!!
+	if/before/till(untill)/when
+	
+главное предложение + (союз + придаточное предложение)
+If you come to Moscow, + I will meet you.
+When he come to Moscow, + I will meet him.
+Before he arrives at the airport, + he will call me.
+He will not be able to call me + until he arrives at the airport.
+
