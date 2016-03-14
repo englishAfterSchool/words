@@ -92,8 +92,29 @@ Conditional 1 (придаточные условия)
 	if/before/till(untill)/when
 	
 главное предложение + (союз + придаточное предложение)
+... + will + v1 + (if + Present Simple)
+
+Используется:
+Действие которое произойдет реально в будущем. Оно реально.
+
 If you come to Moscow, + I will meet you.
 When he come to Moscow, + I will meet him.
 Before he arrives at the airport, + he will call me.
 He will not be able to call me + until he arrives at the airport.
+If the weather is fine, I will go to the beach.
+
+Conditional 2
+
+would - "бы", прошедшее время will
+
+(If + Past Simple,) + I would v1.
+If + Past Simple, + Present Simple.
+
+Используется:
+Происходит сейчас, повседневный факт.
+Нереальное действие, фантазия.
+
+If I had million dollars, I would ...
+If i had her phone number, I would call here.
+If the weather was fine right now I would go to the beach.
 
