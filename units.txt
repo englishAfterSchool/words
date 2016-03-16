@@ -1051,7 +1051,7 @@ throw away - выбросить прочь
 try on - примерять
 turn around - оборачитьваться
 turn off
-unlikely - маловероятный
+unlikely - маловероятный, вряд ли
 volcano
 put out - тушить
 
