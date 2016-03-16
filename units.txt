@@ -713,3 +713,85 @@ apologize - извеняться
 apply - подавать заявку
 application - заявка
 architect - архитектор
+assistance - помощь
+be on call - быть на связи, дежурить
+bahave - вести себя
+bill - счет
+blow your nose - высмаркиваться
+builder - строитель
+bully - тот, кто запугивает
+career - карьера
+chat - трендеть
+childcare - забота о ребенке
+country - деревня, страна; сельский
+coward - трус
+definition - определение
+detective - детектив
+development - развитие
+diarrhoea (diarrhea) - понос
+enclosed - вложен
+engineering - инженерия
+enquire - наводить справки
+equal opportunities - равные возможности
+ex-boyfriend - бывший
+fall in love - влюбиться
+farmer - фермер
+feed - кормить
+fire fighter - пожарный
+food poisoning - пищевое отравление
+gardener - содовник
+gender - пол
+gender gap - непонимание между полами
+glands - гланды
+hairdresser - парикмахер
+ignore - игнорировать
+inform - информировать
+interview - собеседование
+liquid - жидкость
+mechanic - механик
+message - сообщение
+nanny - няня
+nappy - подгузник
+necessary - необходимый
+night shift - ночная смена
+non-traditional - не традиционный
+obligation - обязанность
+opinion - точка зрения
+optician - окулист
+painter - художник
+plumber - сантехник
+possession - имущество
+prejudice - предубеждение
+prescribe - выписывать рецепт на лекарство
+prescription - рецепт на лекарство
+profession - профессия
+psychology - психология
+racism - рассизм
+reassure - уверять
+regret - сожалеть
+ruin - разрушен
+satisfaction - удовлетворение
+seat belt - ремень безопасности
+sexism - сексизм
+signature - подпись
+sneeze - чихать
+soldier - солдат
+sore throat - больное горло
+stay calm - оставаться спокойным
+stomach-ache - боль в животе/желудке
+strangely - странно
+surgery - хирургия
+swallow - глотать
+swollen - напухший
+symptom - симптом
+take care of - заботиться о
+taxi-driver
+temperature
+tough - жесткий
+traditionally - традиционно
+twist - вывихнуть
+unsocial
+workplace
+
+unit 9
+
