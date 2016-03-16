@@ -871,3 +871,189 @@ wood
 
 unit 10
 
+accurate - точный
+annoy - раздражать
+automated
+awarded - награжденный
+be broke (=have no money) - на мели (разорен)
+be related to (sb) - быть на связи с
+body
+bone
+borrow - одалживать
+briefcase - портфель
+cell
+century
+certain - определенный
+chemical
+chemist - химия
+climb - карабкаться
+cloth - ткань, тряпка
+commit - совершать
+company
+complain - жаловаться
+complaint - жалоба
+contain
+criminal - преступник
+cure - лекарство, курс лечения
+cut open - выскрывать
+develop - развитие
+dialogue
+discovered/discovery - открытый/открытие
+disease - болезнь
+DNA
+domestic - внутренний/национальный/домашний
+dream
+dream of - мечтать о
+electricity
+experiment
+fault - вина
+government official - правительственный чиновник
+graveyard - кладбище
+gun
+guilty - виновный
+heartbroken - убитый горем
+helicopter
+homesick - скучающий по дому
+hopeless - безнадежный
+human
+illegal
+imaging - образ, изображение
+immediately
+invention
+item
+keep a secret
+lie
+lift
+litter - мусор
+luggage - багаж
+machine
+make a complaint - подать жалобу
+match
+memory
+miracle - чудо
+monster
+novel (=book)
+operation
+paper mill - бумажная фабрика
+papyrus (пэпаирэс)
+passenger
+penicillin
+pick
+plastic
+plot - сюжет
+poet
+popularity
+prepare
+press
+produce/producer
+project
+published
+radium
+rarely
+recently - недавний
+result
+science fiction
+search engine
+structure
+successful - успешный
+suspect - подозрение
+technology
+the atom
+the truth
+translated
+unique
+weblink
+weight
+work of art
+worldwide - широкораспостраненный
+X-ray - ренген
+
+unit 11
+
+accept - принимать
+active
+afterwards - после того
+agree
+ambition
+ambitious
+ash
+at the last minute - в последнюю минуту
+ban - запрещен
+be made redundant - быть уволенным
+billion
+can't stand - не могу терпеть
+blocked
+break down - сломаться
+carry on - продолжать
+certain - точный, конкретный
+chatter - болтать
+cloud
+contaminated - зараженный/загрязненный
+control
+crazy
+crops - урожай
+crossroads - перекресток
+currently - прямо сейчас
+decision
+do well (=be successful) - преуспевать
+dream of something - мечтать о чем-то
+earth
+education
+erupt - извергаться
+eventually - в конце концов
+excitedly - в восторге
+expression - вырожение
+extinct - вымирающий
+fail
+famine - голод (глобальный)
+floor
+freeze
+frightening - пугающий
+geyser
+give away
+global
+greenhouse - теплица
+have a row (=argument) - ссориться
+heating - отопление
+housing - домохозяйство
+huge
+impressed - впечатлен
+junk - хлам
+landscape (design)
+leader - лидер
+lie down
+literature
+look for
+Look out! - осторожно!
+look up - искать в справочниках/словарях
+ordinary - обычный
+oven - духовка
+pick up
+plant
+possibility - возможность
+put off - откладывать
+recycle
+rock
+row - ряд
+run (a company)
+run out of
+second-hand
+shanty town - бараки, гетто
+shock
+shoot up - подстрелить
+so
+stranger - незнакомец
+such - такой
+sunlight
+take off - взлетать, снимать одежду
+a talk - разговор
+throw away - выбросить прочь
+try on - примерять
+turn around - оборачитьваться
+turn off
+unlikely - маловероятный
+volcano
+put out - тушить
+
+unit 12
+
