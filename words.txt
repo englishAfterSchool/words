@@ -1930,3 +1930,6 @@ Asking for explanations:
 	Could you explain a bit further ... ?
 	Would you like to add to your comments about ... ?
 
+tram - трамвай
+amuse - забавлять, развлекать
+	amusing - забавный
