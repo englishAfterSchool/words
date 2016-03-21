@@ -1920,3 +1920,13 @@ Interrupting politely:
 	May I ask a question?
 	Could I (please) ask ... ?
 	
+--ask questions
+Open question:
+	How ... ?
+	Why ... ?
+	For what reason ... ?
+Asking for explanations:
+	What exactly do you mean by ... ? - What exactly do you mean by <abstract mind> ?
+	Could you explain a bit further ... ?
+	Would you like to add to your comments about ... ?
+
