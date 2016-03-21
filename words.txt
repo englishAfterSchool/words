@@ -1743,6 +1743,7 @@ strip - обнажать (обнажать овощи == чистить и т.д
 
 stove - печка, кухонная плита
 
+--opinion
 Asking for an opinion.
 	1. Do you agree that ...
 	2. Do you think that
@@ -1757,7 +1758,8 @@ Disagreeing with opinion
 	
 
 sum up - подводить итог
-Порядок применения в тексте слов:
+
+--Порядок применения в тексте слов:
 1. first of all
 2. secondly
 3. also
@@ -1871,7 +1873,50 @@ sanctuary - святилище/храм/заповедник
 
 ДЛЯ ПРАКТИКИ МОЖНО ПОЧИТАТЬ ЖУРНАЛ The Times (не газета!) там используется 5000 популярных слов
 
+abbreviation - аббревиатура
+point out - указывать
+site - местоположение
+shot - снять видео/фото
+stage - помост, платформа
+set == setting - место действия
+	set - съемочная площадка?
+set - музыкальный номер
+on location <in California> - в месте ...
+gig (слэнг) - концерт, не классический (pop, rock)
+score - фоновая музыка
+rehearsal - (типа перепрослушивание) репетиция, повторение
+sill life - запечатлен (о картинах и фото)
+cast - актеры + актрисы? (в спектакле/фильме) 
+
 wind - наматывать
 	rewind - перемотка
+wind down - сводить на нет, исчезать (жаргонное расслабляться)
 departure - отъезд, отправление
 	The morning of our departure we...
+warden - смотритель/хранитель
+
+--refuse/accept offers
+Making offers:
+	Why don't I ... ? - Why don't I do smth?
+	I could ...
+	If you (do), I will ...
+Refusing offers:
+	I'm sorry, but I'd rather ...
+	No thanks, I really prefer ...
+Accepting offers:
+	I'd be pleased to ...
+	Fine, I agree to ...
+
+	
+indirect form - в прямой форме
+--ask polite questions
+Polite indirect questions:
+	I'd like to know ...
+	Could you tell me ...?
+	May I ask ... ?
+	Do you happen to know ... ?
+Interrupting politely:
+	Excuse me, but ...
+	May I ask a question?
+	Could I (please) ask ... ?
+	
