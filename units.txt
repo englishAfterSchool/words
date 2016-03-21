@@ -1,5 +1,89 @@
 unit 1
 
+advice
+agony aunt
+art gallery
+adventure
+bar
+blind date
+brave
+can
+casual
+Cheers!
+chewing gum
+club
+comfortable
+conference
+couple
+course
+date
+designer
+diary
+discover
+diving
+Don't mention it.
+downtown
+end
+environmental
+essay
+everyday
+exchange
+Excuse me!
+factory
+foreign
+funny
+go clubbing
+good fun
+good looking
+graduate - оканчивать учебное заведение, выпускник
+grown up
+guilty
+hairbrush
+hard
+Have a good weekend
+information
+It doesn't matter
+kid
+kind
+last
+lawyer - адвокат, юрист
+leave
+mean
+medicine
+midnight
+mouse mat
+Never mind
+No problem
+object
+outgoing
+pencil sharpener
+Pleased to meet you
+poor
+problem
+relationship
+retired
+ring
+rubber - резина, прорезинивать
+ruler - линейка, повелитель
+scissors - ножницы
+See you later
+separate
+share
+single
+snowboard
+sometimes
+star sign
+store
+successful
+sunglasses
+surfing
+theatre
+tissues
+twin
+vegetarian
+wallet
+wonderful
+
 unit 2
 
 abroad - всюду, за границей
@@ -1057,3 +1141,66 @@ put out - тушить
 
 unit 12
 
+autobiography
+break
+brief - краткий, лаконичный
+brought
+challenge
+climb
+Congratulations!
+continent
+copies
+cover - крышка, чехол, покрытие
+crowded
+daughter
+decorate
+delighted == happy - наслаждение, счастливый
+delivery
+dig
+dirty
+disguise - менять внешность
+explorer
+explore
+fed up - сыт по горло
+flat
+fallow
+footsteps
+fresh air
+frozen
+get used to - привыкнуть к
+hard
+Have a good trip!
+hero
+hide
+homeless
+honest
+hurt
+in somebody's footsteps - по чьим-то стопам
+income - доход
+journey
+let
+mend
+Oh, what a pity! - какая жалость.
+outdoor
+Pardon?
+peak (of mountain)
+physical education
+pretty (=quite)
+present - присутствовать
+reason
+record books - книга рекордов
+remind
+seat - сидение
+silly - глупый
+stay calm
+subway station (=underground station)
+succeed - преуспевать, достигать цели
+successful
+swear (=I promise)
+sympathetic - сочувствующий
+take drugs
+take it easy
+the North Pole
+toast - поджарить тост
+trip
+well-prepared
