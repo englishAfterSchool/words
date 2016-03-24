@@ -86,35 +86,83 @@ a Turk, a Scot, an Italian		the Dutch - голландцы		странами
 ------------------------------
 conditional
 	если, то будем что-то делать
+	союзы:
+		when
+		if
+		as soon as
+		before
+		till
+		until
 
-Conditional 1 (придаточные условия)
+--Conditional 1 (придаточные условия)
 	Если слышим союз НИКОГДА не употребляем will после него!!!
-	if/before/till(untill)/when
+	if/before/till(until)/when
 	
 главное предложение + (союз + придаточное предложение)
 ... + will + v1 + (if + Present Simple)
 
 Используется:
-Действие которое произойдет реально в будущем. Оно реально.
+	Действие которое произойдет реально в будущем. Оно реально.
 
 If you come to Moscow, + I will meet you.
-When he come to Moscow, + I will meet him.
+When he comes to Moscow, + I will meet him.
 Before he arrives at the airport, + he will call me.
 He will not be able to call me + until he arrives at the airport.
 If the weather is fine, I will go to the beach.
 
-Conditional 2
+--Conditional 2
 
-would - "бы", прошедшее время will
+would - "бы", как бы прошедшее время для will
 
-(If + Past Simple,) + I would v1.
-If + Past Simple, + Present Simple.
+(If + Past Simple,) + (I + would + v1).
+If + Past Simple, + would + Present Simple.
 
 Используется:
-Происходит сейчас, повседневный факт.
-Нереальное действие, фантазия.
+	Происходит сейчас, повседневный факт. Имеет ввиду настоящее время.
+	Нереальное действие, фантазия "если бы... , то бы ...".
 
-If I had million dollars, I would ...
+If I had million dollars, I would ... - если бы я имел (сейчас) милион, я бы купил дом
 If i had her phone number, I would call here.
-If the weather was fine right now I would go to the beach.
+If the weather was fine right now, I would go to the beach.
 
+--Conditional 3
+
+Используется:
+	О действии в прошлом которое было не реальным. И мы о нем сожалеем, о том что не сделали.
+	"Если бы да ка бы"
+
+If + ... + HAD + v3 + ... + I + would + have + v3 + ...
+If I/He/She... + Past Perfect (had + v3) + ... + would have + v3 + ...
+would + have - никогда не меняется на has, так как глагол составное (после would форма не меняется)
+	
+If the weather had been fine, I would have gone to the beach. - Если бы погода была хорошей, я бы на пляж пошла.
+If I had had more time yesterday I would have made more videos.
+If I hadn't had enough time, I wouldn't have made so many videos.
+Would you have made so many videos, If you had had enough time?
+If I + hadn't + talked + to many people, + I + wouldn't have + spoken perfect English.
+
+--Conditional с модальными глаголами
+
+Используется:
+	Без will но про будущее время.
+	
+		пр. время
+will	would
+can		could
+may		might
+must
+should
+
+could - мог бы
+might - может быть мог бы
+
+cond 1 (can == may)
+can: If I learn english, I can go abroad. (без will)
+
+cond 2 (could, might, would)
+If I had her number, I could call.
+If I learned english, I might pass this exam, but I...
+
+cond 3 (could, might, would)
+If I had had enough money the time, I could have bought that house.
+If I had bought a new camera five years ago, I might have started my youtube channel.

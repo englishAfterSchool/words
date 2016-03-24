@@ -280,6 +280,7 @@ otherwise - другой; по другому (говоря по другому 
 Pagination - нумерация страниц
 
 intend - намереваться
+enter the University - поступить в универ
 
 semicolon - ;
 comma - , 
