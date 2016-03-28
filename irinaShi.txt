@@ -188,7 +188,8 @@ I will be living living in Berlin during 5 month.
 
 will + have + v3(ed)
 
-I will have passed my exams by 5. - я сдам экзамены к пяти
+I will + have + passed + my exams by 5. - я сдам экзамены к пяти
+
 I will have flown to Berlin by Friday. - я прилечу в берлин к пятнице.
 We won't have come by 6 o'clock tomorrow.
 Will you train have come by 5 tomorrow?
@@ -200,7 +201,8 @@ Will you train have come by 5 tomorrow?
 
 Past Simple + ... + Past Perfect (had + v3) + ...
 
+(By the time I came home) + (the rain + had + already + stopped).
 
-By the time I came home + the rain + had + already + stopped.
 Yesterday, when I came into the train I understood that I had forgotten my passport.
 He had woken up before I came.
+
