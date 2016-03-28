@@ -1970,9 +1970,10 @@ comma - ","
 dash - "-" тире
 
 clause - статья
-	That Tuesday, which happens to be my birthday, is th only day when I am available to mmet.
-clause - вроде как ещё и такая вставка в предложение
 	
+clause - вроде как ещё и такая "вставка в предложение"
+	That Tuesday, which happens to be my birthday, is th only day when I am available to mmet.
+
 conjunction - связывание, сцепление
 
 data - произносится как "дата"
@@ -1986,4 +1987,5 @@ heavy - тяжелый
 substance - субстанция, вещество, содержание
 proper - присущий, правильный, должный
  от property
+plural - множественный
 
