@@ -133,7 +133,7 @@ If the weather was fine right now, I would go to the beach.
 
 If + ... + HAD + v3 + ... + I + would + have + v3 + ...
 If I/He/She... + Past Perfect (had + v3) + ... + would have + v3 + ...
-would + have - никогда не меняется на has, так как глагол составное (после would форма не меняется)
+	would + have - никогда не меняется на has, так как глагол составное (после would форма не меняется)
 	
 If the weather had been fine, I would have gone to the beach. - Если бы погода была хорошей, я бы на пляж пошла.
 If I had had more time yesterday I would have made more videos.
@@ -144,12 +144,12 @@ If I + hadn't + talked + to many people, + I + wouldn't have + spoken perfect En
 --Conditional с модальными глаголами
 
 Используется:
-	Без will но про будущее время.
+	Без will, но всеравно имеют ввиду будущее время.
 	
-		пр. время
-will	would
-can		could
-may		might
+наст. время		пр. время
+will			would
+can				could
+may				might
 must
 should
 
