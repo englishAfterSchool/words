@@ -1925,13 +1925,24 @@ Interrupting politely:
 --ask questions
 Open question:
 	How ... ?
-	Why ... ?
-	For what reason ... ?
+	Why ... ? - why do you like smth?
+	For what reason ... ? - For what reason do you do smth.
 Asking for explanations:
-	What exactly do you mean by ... ? - What exactly do you mean by <abstract mind> ?
+	What exactly do you mean by ... ? - What exactly do you mean by "abstract mind" ?
 	Could you explain a bit further ... ?
 	Would you like to add to your comments about ... ?
 
 tram - трамвай
 amuse - забавлять, развлекать
 	amusing - забавный
+
+First of all = firstly
+Second of all = secondly
+
+порядок слов в тексте:
+	First of all
+	Next
+	Then
+	In additional
+	Secondly
+	Finally
