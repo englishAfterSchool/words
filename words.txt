@@ -1941,10 +1941,10 @@ Second of all = secondly
 
 порядок слов в тексте:
 	First of all
+	Secondly
 	Next
 	Then
 	In additional
-	Secondly
 	Finally
 
 depends on - зависит от ...
