@@ -166,3 +166,41 @@ If I learned english, I might pass this exam, but I...
 cond 3 (could, might, would)
 If I had had enough money the time, I could have bought that house.
 If I had bought a new camera five years ago, I might have started my youtube channel.
+
+-------Future Continuos
+
+О действии которое будет длиться в будущем
+
+will + be + v-ing
+
+How long ... - признак этого времени.
+How long will you be dancing tomorrow?
+
+I + will be + travailing. - я буду путешествовать
+I will be standing in traffic jam tomorrow.
+I will be living living in Berlin during 5 month.
+
+-------Future Perfect
+
+Будущее завершенное: к какому-то времени я сделаю что-то.
+Действие уже завершится в будущем.
+Время редко используется, часто сокращается.
+
+will + have + v3(ed)
+
+I will have passed my exams by 5. - я сдам экзамены к пяти
+I will have flown to Berlin by Friday. - я прилечу в берлин к пятнице.
+We won't have come by 6 o'clock tomorrow.
+Will you train have come by 5 tomorrow?
+
+-------Past Perfect
+
+Предпрошедшее время. Говорит о действии совершившемся перед други действием в прошлом.
+Время редко используется, часто сокращается.
+
+Past Simple + ... + Past Perfect (had + v3) + ...
+
+
+By the time I came home + the rain + had + already + stopped.
+Yesterday, when I came into the train I understood that I had forgotten my passport.
+He had woken up before I came.
