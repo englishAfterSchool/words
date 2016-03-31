@@ -1967,6 +1967,7 @@ colon - ":"
 semicolon - ";"
 comma - ","
 dash - "-" тире
+dot - "."
 
 clause - статья
 	
