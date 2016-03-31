@@ -167,7 +167,7 @@ cond 3 (could, might, would)
 If I had had enough money the time, I could have bought that house.
 If I had bought a new camera five years ago, I might have started my youtube channel.
 
--------Future Continuos
+-------Future Continues
 
 О действии которое будет длиться в будущем
 
@@ -205,6 +205,10 @@ Past Simple + ... + Past Perfect (had + v3) + ...
 
 Yesterday, when I came into the train I understood that I had forgotten my passport.
 He had woken up before I came.
+
+-------Present Perfect Continues
+
+
 
 -------Как сказать время
 
