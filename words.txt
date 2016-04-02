@@ -285,6 +285,12 @@ enter the University - поступить в универ
 semicolon - ;
 comma - , 
 
+apparent - видимый, очевидный
+retain - удерживать
+solace - утешение, утешать; смягчение страданий
+	Quantum of Solace - квант милосердия
+
+
 Название игр:
 pillar of Eternity
 	pillar - опора, столп, основа
@@ -1866,7 +1872,7 @@ penitentiary - исправительный (лагерь)
 
 locked up - замкнут (замок)
 notorious - известный; печально известный, известный чем-то плохим
-inmate - обитатель
+inmate - обитатель; заключенный
 surely - конечно
 maritime - морской
 lighthouse - мояк
@@ -1974,13 +1980,13 @@ clause - статья
 clause - вроде как ещё и такая "вставка в предложение"
 	That Tuesday, which happens to be my birthday, is th only day when I am available to mmet.
 
+отличия that/which во вставках в предложение:
+	that - для важной инфы
+	which - для дополнительной, не важной
+
 conjunction - связывание, сцепление
 
 data - произносится как "дата"
-
-отличия that/which:
-that - для важной инфы
-which - для дополнительной, не важной
 
 mall - аллея, торговая аллея, торговый ряд
 heavy - тяжелый
