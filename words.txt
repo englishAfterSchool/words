@@ -152,7 +152,7 @@ proposal - предложение, план
 explicit - ясно, искренне
 Conclusion - вывод, следствие
 jealousy - ревность, зависть
-chart - схема, диаграма и т.д.
+chart - схема, диаграма, чертеж, график и т.д.
 attempt - попытка
 epoch - эпоха (ипок)
 retract - втягивать
@@ -1978,12 +1978,14 @@ dot - "."
 clause - статья
 	
 clause - вроде как ещё и такая "вставка в предложение"
-	That Tuesday, which happens to be my birthday, is th only day when I am available to mmet.
+	That Tuesday, which happens to be my birthday, is th only day when I am available to meet.
+	I don't trust that products that claim to contain all natural ingredients because that can mean almost anything.
 
 отличия that/which во вставках в предложение:
 	that - для важной инфы
 	which - для дополнительной, не важной
 
+	
 conjunction - связывание, сцепление
 
 data - произносится как "дата"
@@ -2003,3 +2005,32 @@ tabloid - формат газеты (малоформатная газета)
 impartial - непредвзятый
 slot - щель, выемка, паз
 slot - употребляется для обозначения промежутка (напр. промежуток времени)
+
+
+leak a story
+break a story - рассказать эксклюзивную историю
+make the headlines - написать заголовки газет
+run the news - запустить новости
+give an interview
+
+facility - возможность, отсутствие трудностей, льготы
+
+clutter - помехи, суета, шум (мельтешение??)
+fuss - суета, шумиха, протест
+clutter == fuss
+
+regular columnist - обычный журналист писатель колонок
+accused of - обвиняемый в
+rumour == rumor - сплетня, слух
+be about to separate - почти развелись
+	about - приблизительно
+about - повсюду, какое-то место
+	is about the garden
+
+going to (plans)
+will (prediction)
+
+might == could == possibly - неуверенность
+Maybe He does not come.
+He might tell us about his girl.
+
