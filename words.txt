@@ -294,7 +294,7 @@ apparent - видимый, очевидный
 retain - удерживать
 solace - утешение, утешать; смягчение страданий
 	Quantum of Solace - квант милосердия
-
+truncate - усекать, обрезать
 
 Название игр:
 pillar of Eternity
