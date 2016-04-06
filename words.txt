@@ -234,6 +234,9 @@ slippy - стройный, изящный, шустрый
 auxiliary - помощник, вспомогательный
 participate - участвовать
 	participle - причастие (часть речи)
+subject - подлежащее
+contracted form - сокращенная форма (I're not ...)
+	
 heist - грабеж, кража
 
 indulge - потакать, позволять себе
@@ -2030,8 +2033,9 @@ be about to separate - почти развелись
 about - повсюду, какое-то место
 	is about the garden
 
-going to (plans)
-will (prediction)
+будущее:
+	going to (plans)
+	will (prediction)
 
 might == could == possibly - неуверенность
 Maybe He does not come.
@@ -2040,7 +2044,6 @@ He might tell us about his girl.
 ---------Курс intermediate
 
 handout - распечатка (и рекламка); подояние
-subject - подлежащее
 orally - устно
 
 been in (Russia) - был в стране, и во время разговора в ней (напр. приехал второй раз?)
@@ -2053,3 +2056,7 @@ How is it going? - как дела?
 constantly - постоянно
 leave for (Gomel) - уходить по направлению к (Гомелю)
 prefer smth1 to smth2 - предпочитать что-то1 чему-то2
+achieve - достигать
+	achievement
+inland - внутренняя часть страны
+
