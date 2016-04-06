@@ -1549,8 +1549,8 @@ rough - бурный, грубый, дикий
 come you from - откуда вы?
 
 
-bet - могу поспорить
-significance - знание
+bet - могу поспорить (могу поставить на это)
+significance - значение
 Christianity - христианство
 Christians - христиане
 coincide - соответствовать, совпадать
