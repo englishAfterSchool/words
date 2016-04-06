@@ -1648,6 +1648,7 @@ concession - уступка
 fond - нежный
 
 manufacture == made
+convince - убеждать
 
 мнение (how you give opinion):
 1. strongly opinion
