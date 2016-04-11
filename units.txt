@@ -852,6 +852,7 @@ profession - профессия
 psychology - психология
 racism - рассизм
 reassure - уверять
+	sure - уверенный
 regret - сожалеть
 ruin - разрушен
 satisfaction - удовлетворение
