@@ -579,7 +579,7 @@ check in - регистрация
 client - клиент
 comedy - комедия
 community - сообщество
-contemporary - временный
+contemporary - современный, современник, сверстник
 cosmopolitan - многонациональный
 diverse - различный
 dorm - общага
@@ -1217,7 +1217,7 @@ corn - зерно
 estimate - оценивать
 go mad - сходить с ума
 goodwill - доброжелательный
-gorgeous - вычурный
+gorgeous - роскошный
 hang on - ждать
 hectic - лихорадочный
 humble - скромный
@@ -1225,7 +1225,7 @@ inconvenience - неудобство
 loo - туалет
 noticeable - заметный
 postage - почтовая отправка, почтовый тариф
-revolutionize - революцианирующий
+revolutionize - революцианировать
 skid - скат; скользить, заносить
 probe - зонд, проба
 stand for (sth) - защищать кого-то

@@ -303,6 +303,10 @@ insult - оскорблять, оскорбление
 	insulting - оскорбительно
 polish - польский, глянец, полировка	
 
+frock - платье
+shorts - шорты
+sweetheart - возлюбленный(ая)
+
 Название игр:
 pillar of Eternity
 	pillar - опора, столп, основа
@@ -2049,6 +2053,8 @@ might == could == possibly - неуверенность
 Maybe He does not come.
 He might tell us about his girl.
 
+meanwhile - пока, тем временем (в течении времени)
+
 ---------Курс intermediate
 
 handout - распечатка (и рекламка); подояние
@@ -2068,3 +2074,17 @@ achieve - достигать
 	achievement
 inland - внутренняя часть страны
 
+fried - жареный
+bride == marriageable == fiancée - невеста
+agriculture - сельское хозяйство
+chairman - главный где-то, председатель
+whoever - любой
+memorize - запоминать
+expense - расход
+	expend == spend - тратить
+
+(to be) off - понижать (как спускаться)
+I'm off. - я ушел
+to be out with - быть в ссоре
+day off - нерабочий день
+Mind your own business. - это не твоё дело
