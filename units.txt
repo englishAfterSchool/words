@@ -632,7 +632,7 @@ pleasure - удовольствие
 polite - вежливый
 population - население
 principle - принцип, директор
-quiz - викторина
+quiz - викторина, короткий тест
 rap
 receptionist - администратор
 romance - романс, романтика
