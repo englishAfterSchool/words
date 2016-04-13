@@ -206,7 +206,52 @@ Past Simple + ... + Past Perfect (had + v3) + ...
 Yesterday, when I came into the train I understood that I had forgotten my passport.
 He had woken up before I came.
 
+-------Present Perfect
+
+Действие завершилось только что в прошлом и результат его виден сейчас.
+Не употребляется с точной датой.
+
+Употребляется: если важен сам результат действия.
+
+Признаки:
+	today
+	this morning
+	this week
+	this month
+	this year
+	время которое мы определили для себя настоящим
+Запомнить! Если слово this - то Present Perfect!
+
+Признаки 2!!! already, just, yet - если они есть то точно Present Perfect
+
+... + have/has + V3
+
+I have finished.
+Have you seen this film?
+
+I have just cleaned my room.
+I have already bought a new dress.
+I have not bought food in the shop yet.
+
+He has bought food this week.
+He has bought food today.
+
 -------Present Perfect Continues
+
+О действии начавшемся в прошлом и ещё не завершившемся.
+
+Признаки времени: for, since, during
+
+How long + have you been doing it? - очень частая фраза, ЗАПОМНИТЬ!
+How long - обычно всегда с Present Perfect Continues
+
+... + have/has been + Ving
+
+I have been learning English for 3 years.
+You have been taking shower for 30 minutes already.
+I have been living in Berlin since last month.
+
+-------Past Perfect Continues
 
 
 

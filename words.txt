@@ -2088,3 +2088,8 @@ I'm off. - я ушел
 to be out with - быть в ссоре
 day off - нерабочий день
 Mind your own business. - это не твоё дело
+
+come true - сбыться
+lack - нехватка
+husband - муж
+seldom == rarely - редко
