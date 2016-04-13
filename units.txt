@@ -1234,3 +1234,5 @@ statement - заявление, формулировка
 take part - принимать участие
 take place - происходить
 wing - крыло
+observatory - пункт наблюдения
+go out with (sb) - иметь отношения с (кем-то)
