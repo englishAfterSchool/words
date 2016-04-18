@@ -2103,7 +2103,7 @@ husband - муж
 seldom == rarely - редко
 
 How long does it take? - как много времени это отнимает?
-wright (it) down - записать (это)
+write (it) down - записать (это)
 get to (Minsk) - добраться до (Минска)
 	вместо get можно использовать любой глагол движения
 Let's get together - давайте соберемся вместе
@@ -2117,3 +2117,9 @@ lobby - хол
 work on - работать над
 I'm thinking - можно употребить в Continues временах в значении "я обдумываю"
 
+expectancy == expectance - ожидание(ия) [noun]
+penniless - безденежный
+household - семейство, домашнее хозяйство
+goods - товары
+	household goods - хозяйственные товары
+noodle - лапша, олух
