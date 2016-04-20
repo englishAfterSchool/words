@@ -194,6 +194,28 @@ I will have flown to Berlin by Friday. - я прилечу в берлин к п
 We won't have come by 6 o'clock tomorrow.
 Will you train have come by 5 tomorrow?
 
+-------Future Perfect Continues
+
+О действии которое будущем, которое будет продолжаться и закончится в прошлом.
+
+Может использоваться совместно с другими временами:
+	He will have been waiting for more than one hour + when she finally calls him.
+		- действие продолжается до точки в будущем
+		
+	
+можно использовать с:
+	by next month
+	by next year
+	since 1994
+	for 5 months
+	etc
+
+will (not) + have + been + Ving
+
+By the end of next month, I will have been living in Rome for 18 years.
+How long have you been learning English by the end of this year?
+
+
 -------Past Perfect
 
 Предпрошедшее время. Говорит о действии совершившемся перед други действием в прошлом.
@@ -251,6 +273,9 @@ How long - обычно всегда с Present Perfect Continues
 I have been learning English for 3 years.
 You have been taking shower for 30 minutes already.
 I have been living in Berlin since last month.
+
+She has been a writer for 15 years. - она писатель уже 15 лет
+	(о состоянии, а не действии)
 
 -------Past Perfect Continues
 

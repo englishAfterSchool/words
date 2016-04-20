@@ -2115,7 +2115,8 @@ on top of that - сверх этого (напр. сверх дохода)
 master's degree - научная степень (напр. Аспирант)
 lobby - хол
 work on - работать над
-I'm thinking - можно употребить в Continues временах в значении "я обдумываю"
+I'm thinking - "я обдумываю"
+	(можно употребить в Continues временах)
 
 expectancy == expectance - ожидание(ия) [noun]
 penniless - безденежный
@@ -2124,3 +2125,6 @@ goods - товары
 	household goods - хозяйственные товары
 noodle - лапша, олух
 
+over there - вон там
+take (smth) out - достать (что-то), вынуть
+pull down - сносить (дома), сбрасывать
