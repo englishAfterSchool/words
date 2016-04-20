@@ -307,7 +307,7 @@ frock - платье
 shorts - шорты
 sweetheart - возлюбленный(ая)
 stir - шевелить/взмешивать
-
+intent - намерение; полный решимости (намеренный)
 
 Название игр:
 pillar of Eternity
@@ -2083,7 +2083,7 @@ achieve - достигать
 inland - внутренняя часть страны
 
 fried - жареный
-bride == marriageable == fiancée - невеста
+bride == marriageable (girl) == fiancée - невеста
 agriculture - сельское хозяйство
 chairman - главный где-то, председатель
 whoever - любой
@@ -2123,3 +2123,4 @@ household - семейство, домашнее хозяйство
 goods - товары
 	household goods - хозяйственные товары
 noodle - лапша, олух
+
