@@ -2147,11 +2147,13 @@ go for work
 	do + activity (yoga, gymnastics)
 	исключения: do boxing, do snowboarding == go snowboarding
 
-I'm into (smth-ing) - быть увлеченным чем-то (== interesting in)
+I'm into (smth-ing) - быть увлеченным чем-то (== I'm interested in)
 amateur - любитель
 shin pads - щитки на голень
 	shin - голень
 	pad - щиток
+ski pole - лыжная палка
+pole - палка, столб
 	
 pad - набивка (padding), тампон, подушечка
 loose-fitting - свободная одежда/чехол
@@ -2162,7 +2164,7 @@ yen == yens
 fraction - дроби
 
 Чтение чисел:
-	406 == four AND six (AND читается ТОЛЬКО после СОТЕН)
+	406 == four AND six (AND читается ТОЛЬКО после СОТЕН, после тысяч и т.д. - НЕТ)
 	$9.40 == nine dollars forty
 	1/4 - a quarter == one quarter (a == one)
 	3/4 - three quarters
@@ -2170,10 +2172,29 @@ fraction - дроби
 	7/8 - seven eights
 	12 1/2 - twelve and a half
 	12 1/6 - twelve and one sixths
-	1/9 - a nineth
+	1/9 - a ninth
 	6.2 - six point two
-	15/07/94 - the 15th of July, 1994 == July the 15th. 1994
+	1405 - тысячи НЕЛЬЗЯ называть почастям как даты (14 и 5)
+	
+	15/07/94:
+		1. the 15th of July, 1994
+		2. July the 15th. 1994
+	2002:
+		1. 2 thousand and 2
+		2. 10 oh (оу) 2
+		3. 20 zero 2 (вариант USA)
+		
+	Phone numbers:
+		01865-556800 - называть числа по порядку
+		17777 - one double seven double seven (для пар чисел)
 
+Правило. Время только 12 часовое. a.m. и p.m
+		
 laugh == laughter - смех
 ward == district
 anniversary - годовщина/юбилей
+herd of - слышать о (чем-то)
+boasted - хвастался
+tepee == wigwam
+beat - удар, бить, разбитый
+on train/bus/airplane - для транспорта
