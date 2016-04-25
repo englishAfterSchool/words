@@ -1249,3 +1249,7 @@ ward - район
 wedding anniversary - свадебная годовщина/юбилей
 yell - вопить
 zookeeper - смотретель зоопарка
+graduate - выпускник
+
+
+
