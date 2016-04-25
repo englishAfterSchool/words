@@ -2128,3 +2128,52 @@ noodle - лапша, олух
 over there - вон там
 take (smth) out - достать (что-то), вынуть
 pull down - сносить (дома), сбрасывать
+
+in advance - заранее
+prevent - предотвращать
+cheer (smbd) up - веселить кого-то?
+plait - коса волос
+to be good at - быть хорошим в чем-то
+deep sleep == crash out - отрубаться, заснуть
+cheerful - радостный
+yell - вопль, вопить
+have a night out - иметь ночную прогулку
+unwind == relax
+go for work
+
+правило, глаголы с играми:
+	play + game
+	go + -ing
+	do + activity (yoga, gymnastics)
+	исключения: do boxing, do snowboarding == go snowboarding
+
+I'm into (smth-ing) - быть увлеченным чем-то (== interesting in)
+amateur - любитель
+shin pads - щитки на голень
+	shin - голень
+	pad - щиток
+	
+pad - набивка (padding), тампон, подушечка
+loose-fitting - свободная одежда/чехол
+trainers == sneakers - кросовки
+pitch - шаг (промежуток между, уровень); какая-то площадка
+peny == pence
+yen == yens
+fraction - дроби
+
+Чтение чисел:
+	406 == four AND six (AND читается ТОЛЬКО после СОТЕН)
+	$9.40 == nine dollars forty
+	1/4 - a quarter == one quarter (a == one)
+	3/4 - three quarters
+	2/3 - two thirds
+	7/8 - seven eights
+	12 1/2 - twelve and a half
+	12 1/6 - twelve and one sixths
+	1/9 - a nineth
+	6.2 - six point two
+	15/07/94 - the 15th of July, 1994 == July the 15th. 1994
+
+laugh == laughter - смех
+ward == district
+anniversary - годовщина/юбилей

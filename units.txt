@@ -1236,3 +1236,16 @@ take place - происходить
 wing - крыло
 observatory - пункт наблюдения
 go out with (sb) - иметь отношения с (кем-то)
+
+unit 2
+
+fancy - причудливый, фантастический
+raiser - поднимать
+supportive - вспомогательный
+tip == advice
+treat - обращаться с кем-то, лечить
+unwind == relax
+ward - район
+wedding anniversary - свадебная годовщина/юбилей
+yell - вопить
+zookeeper - смотретель зоопарка
