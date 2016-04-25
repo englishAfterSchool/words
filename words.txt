@@ -1692,8 +1692,8 @@ fit - подходящий по размеру
 
 I can swim == I know how to swim
 
-be up to (smth) == what have you done
-go over == review - обычно о известном предмете
+be up to (smth) == делать что-то
+go over == review - обычно о известном предмете (Я иду посмотреть?)
 worked (smbd[them]) out == calculate - посчитать числа
 set up - назначить встречу, привести в порядок, установить что-то
 	set him up - поставить его на ноги
@@ -1864,7 +1864,7 @@ cramped - тесный
 face to face - иметь дело с чем-то...
 strike - забастовка
 
-take off - жаргонное "я ушел"
+take off == I'm off - жаргонное "я ушел"
 
 journey меньше по времени чем travel
 
@@ -2198,3 +2198,7 @@ boasted - хвастался
 tepee == wigwam
 beat - удар, бить, разбитый
 on train/bus/airplane - для транспорта
+costly == expensive - дорогой
+horrid - страшный
+arrogant - высокомерный
+take over - взять, захватить
