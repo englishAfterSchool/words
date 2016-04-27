@@ -980,7 +980,7 @@ hint - подсказка, намёк
 heaven - рай
 for ages - вечность
 for a while - некоторое время
-tick - галочка
+tick - галочка, отметить галочкой
 work long hours - работать много
 get on - ладить
 leisure - досуг
@@ -2202,3 +2202,17 @@ costly == expensive - дорогой
 horrid - страшный
 arrogant - высокомерный
 take over - взять, захватить
+
+sunbathing - загорают
+	sunbath - солнечная ванна
+palette - палитра
+masterpiece - шедевр
+sketch - эскиз, набросок
+
+draw - любое рисование
+paint - рисование ТОЛЬКО кистью
+lambs - ягнята
+godfather - крестный отец
+terrific - пугающий
+stared in it - снимался в этом (кино...)
+	star
