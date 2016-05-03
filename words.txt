@@ -1134,7 +1134,8 @@ cockpit - кабина экипажа
 aisle - проход
 bumpy - не ровный, тряский
 curious - любопытный
-ski slopes - лыжный спуск
+ski slopes - лыжный спуски (склоны)
+	slope - склон
 tender = gentle - нежный
 
 fabulous - сказочный
@@ -2195,7 +2196,9 @@ fraction - дроби
 
 Правило. Время только 12 часовое. a.m. и p.m
 		
-laugh == laughter - смех
+laugh - noun || verb
+laughter - noun
+
 ward == district
 anniversary - годовщина/юбилей
 herd of - слышать о (чем-то)
@@ -2236,18 +2239,19 @@ encourage - поощрять, награждать?
 farewell - прощание
 futility - бесполезность, тщетность
 
-... FOR five month
-... FOR six weeks
-... DURING the night
-... DURING the breakfast
-WHILE I was getting ready, I ...
-I met my wife WHILE I was at university.
+правило:
+	... FOR five month
+	... FOR six weeks
+	... DURING the night
+	... DURING the breakfast
+	WHILE I was getting ready, I ...
+	I met my wife WHILE I was at university.
 
 The meeting lasted from one to three. — Встреча продолжалась с часу до трёх.
 
 narration - повествование
 operating / surgical coat - докторский халат
 gown - халат, мантия, одевать
-injections/nyxis - укол
+injections/nyxis - укол (мед.)
 stab - удар ножом, укол чем-то
 
