@@ -351,6 +351,9 @@ constraint - принуждение
 engage - привлекать, вовлекать
 	engagement - встреча
 
+Oath - клятва
+	Oathbreaker - клятвопреступник
+
 
 --фразы вежливости
 Good luck
@@ -2176,6 +2179,7 @@ fraction - дроби
 	1/9 - a ninth
 	6.2 - six point two
 	1405 - тысячи НЕЛЬЗЯ называть почастям как даты (14 и 5)
+	1405 - one thousand four hundred and five
 	
 	15/07/94:
 		1. the 15th of July, 1994
@@ -2224,19 +2228,26 @@ only son - единственный сын (в семье)
 thoroughly (сзароли) - полностью
 	thorough - полный
 apart - отдельно, в сторону
-mistress - люовница
+mistress - хозяйка/женщина; любовница (редко?)
 influenza - грипп
 eyesight - зрение
 wound - рана, ранить
-encourage - поощерять, награждать?
+encourage - поощрять, награждать?
 farewell - прощание
 futility - бесполезность, тщетность
 
-for five month
-for six weeks
-during the night
-during the breakfast
+... FOR five month
+... FOR six weeks
+... DURING the night
+... DURING the breakfast
 WHILE I was getting ready, I ...
 I met my wife WHILE I was at university.
 
 The meeting lasted from one to three. — Встреча продолжалась с часу до трёх.
+
+narration - повествование
+operating / surgical coat - докторский халат
+gown - халат, мантия, одевать
+injections/nyxis - укол
+stab - удар ножом, укол чем-то
+

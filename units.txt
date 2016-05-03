@@ -1229,17 +1229,19 @@ postage - почтовая отправка, почтовый тариф
 revolutionize - революцианировать
 skid - скат; скользить, заносить
 probe - зонд, проба
-stand for (sth) - защищать кого-то
+stand for (sth) - выбирать что-то; защищать кого-то
 statement - заявление, формулировка
 take part - принимать участие
 take place - происходить
 wing - крыло
 observatory - пункт наблюдения
 go out with (sb) - иметь отношения с (кем-то)
+the UN - ООН
 
 unit 2
 
-fancy - причудливый, фантастический
+fancy - причудливый, фантастический, модный
+	I fancy you - ты мне нравишься
 raiser - поднимать
 supportive - вспомогательный
 tip == advice
@@ -1248,8 +1250,13 @@ unwind == relax
 ward - район
 wedding anniversary - свадебная годовщина/юбилей
 yell - вопить
-zookeeper - смотретель зоопарка
+zookeeper - смотритель зоопарка
 graduate - выпускник
+sick and tired == fed up with
+cheer (sb) up - веселить кого-то
+participate - участвовать
+
+unit 3
 
 
 
