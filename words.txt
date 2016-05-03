@@ -275,7 +275,7 @@ skew - косая, уклон, ассиметрия
 Can == Tin - консервная банка
 
 splint - мед. шина
-rubber - резина
+rubber - резина, прорезинивать, резиновый
 Deception - обман, жульничество
 
 Overcast - сплошная облачность; мрачный, хмурый
@@ -2254,4 +2254,13 @@ operating / surgical coat - докторский халат
 gown - халат, мантия, одевать
 injections/nyxis - укол (мед.)
 stab - удар ножом, укол чем-то
+
+
+redemption - выкуп, искупление
+
+to be allowed to (== can) - разрешать что-то
+
+have to == have got to == gotta - разговорный вариант
+	I gotta see a doctor.
+want to == wanna
 
