@@ -2264,3 +2264,4 @@ have to == have got to == gotta - разговорный вариант
 	I gotta see a doctor.
 want to == wanna
 
+oversleep - заспаться
