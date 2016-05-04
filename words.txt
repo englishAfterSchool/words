@@ -2259,6 +2259,8 @@ stab - удар ножом, укол чем-то
 redemption - выкуп, искупление
 
 to be allowed to (== can) - разрешать что-то
+Am I allowed to monetize videos or games that I don’t have access to?
+I am allowed to ...
 
 have to == have got to == gotta - разговорный вариант
 	I gotta see a doctor.
@@ -2266,3 +2268,5 @@ want to == wanna
 
 oversleep - заспаться
 from time to time - время от времени
+tightrope - натянутая веревка/канат
+deaf - глухая
