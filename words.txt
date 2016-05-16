@@ -116,7 +116,7 @@ suspicion - подозрение
 appreciate - оценивать
 align - выровнятьв линию, присоедениться
 hierarchy - иерархия
-either - любой из (из двух), так(ой) же, тоже
+either (айзее) - любой из (из двух), так(ой) же, тоже
 whether - ... ли (напр. был ли, whether he was or not)
 git - мерзавец
 maven - эксперт
@@ -310,6 +310,7 @@ stir - шевелить/взмешивать
 intent - намерение; полный решимости (намеренный)
 solitary - одинокий
 confine - граница
+entrance - вход
 
 Название игр:
 pillar of Eternity
@@ -2222,6 +2223,7 @@ sketch - эскиз, набросок
 
 draw - любое рисование
 paint - рисование ТОЛЬКО кистью
+
 lambs - ягнята
 godfather - крестный отец
 terrific - пугающий
@@ -2272,3 +2274,28 @@ oversleep - заспаться
 from time to time - время от времени
 tightrope - натянутая веревка/канат
 deaf - глухая
+
+
+put on weight - набрать вес (потолстеть)
+make someone think - заставить кого-то подумать
+I don't think we should
+
+
+Ответ на You must/must not:
+	Yes, I will
+	No, I won't
+	
+tag - бэйджик
+tray - поднос
+
+(to be) in charge of Ving == responsible for - обязан что-то делать (ответственнен)
+	I was in charge of logistics on the my expedition.
+	
+negotiation - переговоры
+revelation == eye-opener - откровение
+actually - на самом деле, как ни странно
+
+smart - горе (главное значение), толковый, опрятный, умный, сильная боль
+nowadays - наши дни
+suitable - пригодный
+bow - гнуть, наклонять; поклон
