@@ -94,7 +94,7 @@ admit - допускать, впускать
 cord - веревка
 Therefore - поэтому
 revise - проверять, исправлять
-define - определение
+define - определять
 enhance - повышать, улучшать
 council - совет, совещание (консилиум)
 appearance - внешний вид, появление
@@ -336,6 +336,7 @@ swarm - рой, стая, кишеть (масса кого-то?)
 assault - атаковать
 stellar - звездный
 wax - воск
+compendium - сборник
 
 Seduction - Соблазнение
 Intimidation - Запугивание 
@@ -2090,7 +2091,7 @@ achieve - достигать
 	achievement
 inland - внутренняя часть страны
 
-fried - жареный
+fried - жареный (кортошка фри?)
 bride == marriageable (girl) == fiancée - невеста
 agriculture - сельское хозяйство
 chairman - главный где-то, председатель
@@ -2299,3 +2300,27 @@ smart - горе (главное значение), толковый, опрят
 nowadays - наши дни
 suitable - пригодный
 bow - гнуть, наклонять; поклон
+
+
+hospitality - гостепреимство
+widely common - широко распостраненный
+neatly - аккуратно
+commonly - обычно
+It's not of peace of cake - это не просто сделать
+essential - обязательный
+saying - поговорка
+violate - нарушать
+show off == boast
+see out - провожать
+have (people) over == invite (people)
+starter - закуска, snack - больше как перекус?
+main course - главное блюдо
+beverages - оперетив
+rest - остаток, оставаться
+
+for side - на гарнир
+side dish - гарнир
+
+the worries of everyday life seem small - уменьшаются повседневные тревоги
+
+
