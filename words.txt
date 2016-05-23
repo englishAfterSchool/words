@@ -2153,7 +2153,7 @@ unwind == relax
 go for work
 
 правило, глаголы с играми:
-	play + game
+	play + team game
 	go + -ing
 	do + activity (yoga, gymnastics)
 	исключения: do boxing, do snowboarding == go snowboarding
