@@ -311,6 +311,8 @@ intent - намерение; полный решимости (намеренны
 solitary - одинокий
 confine - граница
 entrance - вход
+fascinate - восхищать
+	fascinating - обворожительный
 
 Название игр:
 pillar of Eternity
@@ -2322,5 +2324,17 @@ for side - на гарнир
 side dish - гарнир
 
 the worries of everyday life seem small - уменьшаются повседневные тревоги
+seem small - кажутся маленьким
 
+recipe (рэсипи) - рецепт
+right away == right now
+Would you mind - Вы не возражаете?
 
+Ещё одно будущее время:
+	(вопрос сделать нельзя, это НЕ модальный глагол)
+	I might move to Minsk. - Я может быть поеду в Минск.
+
+nil == zero
+catch plane, catch taxi, catch bus - сесть в транспорт
+get in the truc - сесть в грузовик
+omit == miss - пропускать

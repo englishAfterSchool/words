@@ -1293,15 +1293,15 @@ chopstick - палочка для еды
 cleanliness - чистоплотность
 driving licence - водительские права
 drop off - высадить (из машины), задремать, уменьшить
-engaged - занятый, помовленный
-extension (phone) - удлиннять, расширять
+engaged - занятый, помолвленный
+extension (phone) - удлинять, расширять, внутренняя телефонная связь
 fasten - скреплять/связывать
 guidebook - путеводитель
 heel - пятка, подлец
-host/hostess - хозяин/хозяцка
+host/hostess - хозяин/хозяйка
 loads of things == lots of things
 manners
-military service - военская обязанность/подготовка
+military service - воинская обязанность/подготовка
 potluck lunch - сборный обед (кто-что принес)
 pursue - гнаться, выполнять
 short-sleeved
@@ -1310,3 +1310,27 @@ spray
 stuffy - душный
 supply - запас
 vaccination - вакцинация
+
+unit 5
+
+confess - сознаваться
+depart - отправляться
+descent - спуск
+eastbound - движущийся на восток
+en-suit - смежная (комната, ванная)
+ferry - переправа, паром
+haircut - стрежка
+heaven - небо
+helipad - плащадка для вертолетов
+honeymoon - медовый месяц
+icy - ледяной
+laze - лентяйничать
+lightning - молния
+lowland - низменность
+must-dos
+potter - плохо работать, гончар
+rhino - носорог
+steak - стейк
+ton - тонна
+towel - полотенце
+vast - огромный (напр. пространство)
