@@ -1262,6 +1262,7 @@ unit 3
 
 beat - бить
 boast - хвастаться
+brush
 emperor - император
 eyesight - зрение
 fearless - бесстрашный
@@ -1285,7 +1286,7 @@ vineyard - виноградник
 unit 4
 
 banquet - банкет
-bow (бау)
+bow (бау) - поклон (bow to - кланяться кому-то)
 budget - бюджет
 business card - карточка/визитка
 casually - случайно
@@ -1310,6 +1311,33 @@ spray
 stuffy - душный
 supply - запас
 vaccination - вакцинация
+
+Noun			Verb
+be'haviour		be'have
+advice			advise
+invitation		invite
+meeting			meet
+relaxation		relax
+discussion		discuss
+refusal			refuse
+feeling			feel
+gift			give
+bow				bow
+prayer			pray
+invention		invent
+choice			choose
+
+Noun			Adjective
+nationality		national
+tradition		traditional
+profession		professional
+illness			ill
+value			valuable
+truth			truly/truthful (правдиво(ый))
+difference		different
+freedom			free
+culture			cultural
+responsibility	responsible
 
 unit 5
 

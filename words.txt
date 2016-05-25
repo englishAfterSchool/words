@@ -2269,9 +2269,13 @@ to be allowed to (== can) - разрешать что-то
 Am I allowed to monetize videos or games that I don’t have access to?
 I am allowed to ...
 
+Сокращения:
 have to == have got to == gotta - разговорный вариант
 	I gotta see a doctor.
 want to == wanna
+	I don't wanna be no nuisance woman.
+gonna - going to
+	I'm gonna put a new motor in it.
 
 oversleep - заспаться
 from time to time - время от времени
@@ -2288,6 +2292,8 @@ I don't think we should
 	Yes, I will
 	No, I won't
 	
+admission - вход, приём куда-то (в ВУЗ, на вечеринку)
+	admission fee — вступительный взнос
 tag - бэйджик
 tray - поднос
 
@@ -2334,7 +2340,10 @@ Would you mind - Вы не возражаете?
 	(вопрос сделать нельзя, это НЕ модальный глагол)
 	I might move to Minsk. - Я может быть поеду в Минск.
 
-nil == zero
+nil == zero (брит.)
 catch plane, catch taxi, catch bus - сесть в транспорт
 get in the truc - сесть в грузовик
 omit == miss - пропускать
+
+realize - понять, реализовать
+
