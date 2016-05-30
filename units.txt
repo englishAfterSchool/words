@@ -1279,7 +1279,7 @@ palace - дворец
 pigeon - голубь, лох
 sweetcorn - сахарная кукуруза
 thoroughly - полностью
-unless - за исключением, оговорка
+unless - за исключением (кроме), оговорка
 vine - вьющееся растение, виноград
 vineyard - виноградник
 
@@ -1356,9 +1356,43 @@ laze - лентяйничать
 lightning - молния
 lowland - низменность
 must-dos
-potter - плохо работать, гончар
+potter - капошиться, плохо работать, гончар
+	potter around - делать мелкую работу
 rhino - носорог
 steak - стейк
 ton - тонна
 towel - полотенце
 vast - огромный (напр. пространство)
+smooth - гладко
+
+sunny		snowing
+windy		fog
+snowy		storm
+ice			blowing
+wind		icy
+cloud		rain
+snow		cloudy
+shining		raining
+foggy		rainy
+sunshine
+thunder(storm)
+weather
+
+------------------
+make			do
+--				--
+up your mind	someone a favour
+a mess			the housework
+sure that		the washing up
+my bed			exercises
+friends with	my best
+a phone call	nothing
+a noise			the shopping
+a speech
+money
+a decision
+a complaint
+a profit
+progress
+------------------
+
