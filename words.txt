@@ -2296,6 +2296,7 @@ admission - вход, приём куда-то (в ВУЗ, на вечеринк
 	admission fee — вступительный взнос
 tag - бэйджик
 tray - поднос
+southern - живущий на юге
 
 (to be) in charge of Ving == responsible for - обязан что-то делать (ответственнен)
 	I was in charge of logistics on the my expedition.
@@ -2308,7 +2309,7 @@ smart - горе (главное значение), толковый, опрят
 nowadays - наши дни
 suitable - пригодный
 bow - гнуть, наклонять; поклон
-
+	bow to - куму-то
 
 hospitality - гостепреимство
 widely common - широко распостраненный
@@ -2325,6 +2326,7 @@ starter - закуска, snack - больше как перекус?
 main course - главное блюдо
 beverages - оперетив
 rest - остаток, оставаться
+pork - свинина
 
 for side - на гарнир
 side dish - гарнир
@@ -2346,4 +2348,45 @@ get in the truc - сесть в грузовик
 omit == miss - пропускать
 
 realize - понять, реализовать
+
+offence == offense - правонарушение, оскорбление
+bring over - переубедить; перенести (в другое место)
+
+
+elderly - пожилой
+spinster - прядильщица
+
+Про масло:
+	butter - то что намазывают
+	oil - жидкое
+	
+leave a job - уволиться с работы
+fire - увольнять кого-то за что-то
+on vacation - в отпуске
+I am on sick leave - Я на больничном
+
+guff - залив
+now on - с теперьшнего момента
+hop on - запрыгивать (напр. в транспорт)
+facing the front - по направлению вперёд (напр. седенья в поезде)
+smooth - гладко, без проблем
+call out - громко выкрикивать
+eastbound - двигающийся на восток
+give a hand == help
+pour - наливать
+
+Who does she look like? - На кого она похожа?
+Who looks like she? - Кто выглядит так же как она?
+
+hight - рост
+
+Пишутся с -ing после preposition:
+for
+at
+to	+ Ving
+in
+on
+
+Give it to her.
+Listen to him.
 
