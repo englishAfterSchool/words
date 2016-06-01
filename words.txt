@@ -313,6 +313,8 @@ confine - граница
 entrance - вход
 fascinate - восхищать
 	fascinating - обворожительный
+preposition - предлог, предложение
+preposition - часть речи to, in, on и т.д.
 
 Название игр:
 pillar of Eternity
@@ -497,7 +499,7 @@ tracksuit - спортивный костюм
 earring - сирёжка
 mature - взрослый
 adult - взрослый
-sophisticated - утонченная
+sophisticated - мудрая, утонченная
 freckle - веснушка
 birthmark - родинка
 wrinkle - морщина
@@ -2362,10 +2364,13 @@ spinster - прядильщица
 	
 leave a job - уволиться с работы
 fire - увольнять кого-то за что-то
+vocation - призвание, профессия
 on vacation - в отпуске
 I am on sick leave - Я на больничном
 
-guff - залив
+gulf - залив
+guff - болтавня (свой пример: заливать)
+
 now on - с теперьшнего момента
 hop on - запрыгивать (напр. в транспорт)
 facing the front - по направлению вперёд (напр. седенья в поезде)
@@ -2409,3 +2414,22 @@ on - положение на поверхности
 	on page, on the left (about road),
 	on the wall, on the third floor
 	
+evolve = develope
+
+Эпохи:
+before Christ (BC or B.C.)
+anno Domini (AD or A.D.)
+
+plain food - постная еда
+filling - что-то заполняющее: сытная еда, начинка
+topping - что-то сверху: начинка сверху, вздымающийся, верхушка, челка
+oatmeal - овсяная крупа
+	oatmeal porridge - овсяная каша
+	porridge - овсяная каша
+eel - угорь
+squid - кальмар
+herring - сельдь
+salmon - лосось
+shrimp - креветка
+tuna - тунец
+span - небольшой предмет, размер, расстояние, сфера деятельности
