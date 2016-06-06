@@ -819,7 +819,7 @@ get rid of (it) - избавиться, выбросить
 play truant - прогуливать
 
 strict - строгая
-guide - направлять
+guide - проводник, вести, направлять
 bleach - отбеливать
 obsession - одержимость
 pineapple - ананас
@@ -968,7 +968,7 @@ advertisement	advertise
 
 --noun			adjective
 mood			moody
-friend			unfriendly
+friend			(un)friendly
 fame			famous
 patience		patient
 happiness		happy
@@ -1101,7 +1101,8 @@ toss a coin - подбросить монету
 ######9
 
 слова:
-customs - таможня
+custom - таможня
+	customs official - работник таможни
 seasick - морская болезнь
 speed boat - парус
 yacht - яхта
@@ -1134,7 +1135,7 @@ hurricane - ураган
 overlook = face - выходить окнами на
 quit - бросить
 re-sigh - уходить в отставку
-excess baggage - сдавать багаж
+excess baggage - превышение багаж
 in order to - для того чтобы
 check in - регистрация
 cockpit - кабина экипажа
@@ -2015,6 +2016,7 @@ dash - "-" тире
 dot - "."
 
 clause - статья
+claim - требование, требовать
 	
 clause - вроде как ещё и такая "вставка в предложение"
 	That Tuesday, which happens to be my birthday, is th only day when I am available to meet.
@@ -2318,7 +2320,7 @@ widely common - широко распостраненный
 neatly - аккуратно
 commonly - обычно
 It's not of peace of cake - это не просто сделать
-essential - обязательный
+essential - необходимый
 saying - поговорка
 violate - нарушать
 show off == boast
@@ -2414,7 +2416,7 @@ on - положение на поверхности
 	on page, on the left (about road),
 	on the wall, on the third floor
 	
-evolve = develope
+evolve = develop
 
 Эпохи:
 before Christ (BC or B.C.)
@@ -2432,4 +2434,18 @@ herring - сельдь
 salmon - лосось
 shrimp - креветка
 tuna - тунец
+junk food - вредная еда
+
 span - небольшой предмет, размер, расстояние, сфера деятельности
+
+get fit - подгонка
+ointment - мазь
+cloakroom - раздевалка
+	cloak - плащ, мантия, личина
+change-room - примерочная
+household - домашний халат
+reclaim - перевоспитание, перевоспитывать
+	claim - требовать
+	
+How would you like the money? - какими купюрами отдать тебе деньги?
+

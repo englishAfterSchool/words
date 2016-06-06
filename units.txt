@@ -198,6 +198,7 @@ angry (with sb) - злой на кого-то
 apartment - квартира
 apologize - извиняться
 appointment - назначенная встреча
+	appointed - назначенные (прим. на должность)
 assassin - убийца (политический)
 bang - взорвать, стукнуть
 big spender - транжира
@@ -1355,7 +1356,7 @@ icy - ледяной
 laze - лентяйничать
 lightning - молния
 lowland - низменность
-must-dos
+must-dos - must do
 potter - капошиться, плохо работать, гончар
 	potter around - делать мелкую работу
 rhino - носорог
@@ -1365,6 +1366,7 @@ towel - полотенце
 vast - огромный (напр. пространство)
 smooth - гладко
 
+--weather
 sunny		snowing
 windy		fog
 snowy		storm
@@ -1376,7 +1378,6 @@ shining		raining
 foggy		rainy
 sunshine
 thunder(storm)
-weather
 
 ------------------
 make			do
