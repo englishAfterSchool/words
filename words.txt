@@ -316,6 +316,10 @@ fascinate - восхищать
 preposition - предлог, предложение
 preposition - часть речи to, in, on и т.д.
 
+reckless - необдуманный
+	reck of - беспокоиться о
+besides - кроме того
+
 Название игр:
 pillar of Eternity
 	pillar - опора, столп, основа
@@ -2179,7 +2183,7 @@ yen == yens
 fraction - дроби
 
 Чтение чисел:
-	406 == four AND six (AND читается ТОЛЬКО после СОТЕН, после тысяч и т.д. - НЕТ)
+	406 == four hundred AND six (AND читается ТОЛЬКО после СОТЕН, после тысяч и т.д. - НЕТ)
 	$9.40 == nine dollars forty
 	1/4 - a quarter == one quarter (a == one)
 	3/4 - three quarters
@@ -2435,6 +2439,7 @@ salmon - лосось
 shrimp - креветка
 tuna - тунец
 junk food - вредная еда
+curry - карри или блюдо с карри
 
 span - небольшой предмет, размер, расстояние, сфера деятельности
 
@@ -2449,3 +2454,5 @@ reclaim - перевоспитание, перевоспитывать
 	
 How would you like the money? - какими купюрами отдать тебе деньги?
 
+try out - проверять, пробовать
+clear up - выяснять, прояснять/пояснять
