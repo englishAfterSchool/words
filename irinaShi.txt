@@ -246,6 +246,7 @@ He had woken up before I came.
 Запомнить! Если слово this - то Present Perfect!
 
 Признаки 2!!! already, just, yet - если они есть то точно Present Perfect
+Have you EVER been ... ? - часто употребляют
 
 ... + have/has + V3
 
@@ -276,6 +277,18 @@ I have been living in Berlin since last month.
 
 She has been a writer for 15 years. - она писатель уже 15 лет
 	(о состоянии, а не действии)
+	
+-------отличие Present Perfect и Present Perfect Continues
+
+Основное правило:
+Present Perfect - действие началось в прошлом и закончилось до сразу до момента говорения и сейчас есть его результат.
+Present Perfect Continues - действие началось в прошлом и не закончилось в момент говорения.
+
+1. Если речь о собественном опыте, то используется Present Perfect
+	Я учился играть на гитаре.
+2. Если в предложении есть for или since:
+	I have worked for 4 years. - чтобы подчеркнуть событие - Present Perfect
+	I have been working for 4 years. - чтобы подчеркнуть длительность - Present Perfect Continues
 
 -------Past Perfect Continues
 
