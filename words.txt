@@ -2388,9 +2388,6 @@ pour - наливать
 repetition - повторение
 spare - запаска, запасной, запасать
 
-Who does she look like? - На кого она похожа?
-Who looks like she? - Кто выглядит так же как она?
-
 hight - рост
 
 Пишутся с -ing после preposition:
@@ -2477,4 +2474,8 @@ company - читается кАмпани
 
 air hostess - борт проводница
 flight attendant - борт проводник
+
+правило like/as
+
+
 
