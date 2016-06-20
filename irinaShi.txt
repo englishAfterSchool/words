@@ -286,7 +286,7 @@ Present Perfect Continues - действие началось в прошлом 
 
 1. Если речь о собественном опыте, то используется Present Perfect
 	Я учился играть на гитаре.
-2. Если в предложении есть for или since:
+2. Если в предложении есть for или since или БЕЗ for/since. Нужно УГАДАТЬ что употребить:
 	I have worked for 4 years. - чтобы подчеркнуть событие - Present Perfect
 	I have been working for 4 years. - чтобы подчеркнуть длительность - Present Perfect Continues
 
