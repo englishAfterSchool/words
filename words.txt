@@ -2524,6 +2524,7 @@ literal - дословный
 inanimate - неживой
 miss you - скучаю по тебе
 
+после них to не нужно:
 I would rather ... - лучше бы я ... (с I)
 You had better ... - лучше бы ты ... (с you)
 

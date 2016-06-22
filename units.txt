@@ -1509,7 +1509,7 @@ I tried to ... == I wanted to ...
 I tried counting sheep and drinking a milk
 --
 
-Без -ing и to
+Могут быть Без -ing и to
 --
 help (sb)
 let (sb)
@@ -1522,6 +1522,10 @@ make (sb)
 		We were made to work hard.
 	3. let не используется в passive, вместо него Allowed to:
 		She was allowed to leave.
+	4.
+		после них to не нужно:
+		I would rather ... - лучше бы я ... (с I)
+		You had better ... - лучше бы ты ... (с you)
 	
 -------------
 правило: инфинитив, герундии
