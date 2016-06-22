@@ -1418,8 +1418,10 @@ ultimate - конечный, максимальный
 upright - вертикальный, отвесный, прямой, честный
 varied - различный
 
--------------
+-------------Вопросы
+
 love (любить), prefer (предпочитать), enjoy (нравится, наслаждаться) - могут заменять like
+
 После глаголов предпочтения можно использовать:
 	verb + to + V
 	verb + -Ving
@@ -1445,4 +1447,104 @@ How would you like the money? - какими купюрами отдать те�
 I like it very much. - мне это нравится очень.
 What does she like? - что она любит?
 
+How are you doing? == How are you?
+How is it going? - как дела?
+How do you do? - как ты?
+What are you? - какая твоя профессия?
+
+-------------Герундии, инфинитив, и без них
+Ving				V + to
+--
+adore				advise (sb)
+can't stand			allow (sb)
+don't mind			ask (sb)
+enjoy				beg (sb)
+finish				encourage (sb)
+look forward to		expect (sb)
+					help (sb)
+					invite (sb)
+					need (sb)
+					order (sb)
+					remind (sb)
+					tell (sb)
+					want (sb)
+					warn (sb)
+					would like (sb)
+					agree
+					choose
+					dare
+					decide
+					expect
+					forget
+					help
+					hope
+					learn
+					manage
+					need
+					offer
+					promise
+					refuse
+					seem
+					want
+					would hate/like/love/prefer
+
+Ving или V + to (оба)
+--
+begin
+continue
+hate
+like
+love
+prefer
+start
+remember
+stop
+try
+
+I remember smth == I have a memory now of a past
+I remembered to (do smth) == I reminded (sb) to (do smth)
+I stopped drinking ... == I gave up the habit
+I stopped to drink ... == I stopped doing smth else in order to have a ...
+I tried to ... == I wanted to ...
+I tried counting sheep and drinking a milk
+--
+
+Без -ing и to
+--
+help (sb)
+let (sb)
+make (sb)
+
+Исключения:
+	1. go + -ing используется обычно для спорта и активности:
+		I go shopping. I go swimming.
+	2. В passive времени made используют с to:
+		We were made to work hard.
+	3. let не используется в passive, вместо него Allowed to:
+		She was allowed to leave.
+	
+-------------
+правило: инфинитив, герундии
+Gerund (-ing)		Infinitive (to)		Infinitive (без to и -ing)
+
+love				want				can
+like				hope				could
+enjoy				would like			must
+prefer				would love			may
+look forward to		be going			might
+finish				forget
+began		-		began
+start		-		start
+continue	-		continue
+think of			decide
+hate				been
+					gone
+					
+правило:
+	would - бы
+	could - мог
+	should - следует
+
+been to ... - уехал и вернулся
+gone to ... - уехал и остался		
 -------------

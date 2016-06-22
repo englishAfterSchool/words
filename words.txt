@@ -2487,6 +2487,7 @@ quit - уволиться самому (уйти с работы)
 
 speak to - обычно для официальных разговоров
 tell to - обычно не официальная (болтать)
+
 naughty - капризный
 put up with - смириться с
 widower - вдовец
@@ -2518,3 +2519,16 @@ put up (with) - смериться с
 take away - убирать
 idiomatic - переносный (напр. смысл)
 literal - дословный
+
+
+inanimate - неживой
+miss you - скучаю по тебе
+
+I would rather ... - лучше бы я ... (с I)
+You had better ... - лучше бы ты ... (с you)
+
+that's it == that's all - это всё! (конец)
+
+ripe - спелый
+soil == ground - почва
+adore - обожать
