@@ -121,6 +121,9 @@ If + Past Simple, + would + Present Simple.
 Используется:
 	Происходит сейчас, повседневный факт. Имеет ввиду настоящее время.
 	Нереальное действие, фантазия "если бы... , то бы ...".
+	
+При этом: were заменяет все was (хотя в разговорном можно использовать was)
+	If I were a rich man...
 
 If I had million dollars, I would ... - если бы я имел (сейчас) милион, я бы купил дом
 If i had her phone number, I would call here.
