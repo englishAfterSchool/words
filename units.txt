@@ -4,7 +4,7 @@ advice
 agony aunt
 art gallery
 adventure
-bar
+bar - какая-то полоса материи (брусок, планка); запирать на засов; запрещать
 blind date
 brave
 can
@@ -1552,3 +1552,6 @@ hate				been
 been to ... - уехал и вернулся
 gone to ... - уехал и остался		
 -------------
+
+unit 7
+

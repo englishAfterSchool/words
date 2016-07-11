@@ -2499,6 +2499,7 @@ get back to - перезвонить
 
 discount of/at 2% - скидка на 2%
 allow discount - предлагать скидку
+
 trapeze artist - воздушный гимнаст
 lack of == lick of
 head over heels - вверх тормашками
@@ -2525,8 +2526,8 @@ inanimate - неживой
 miss you - скучаю по тебе
 
 после них to не нужно:
-I would rather ... - лучше бы я ... (с I)
-You had better ... - лучше бы ты ... (с you/he и т.д.)
+	I would rather ... - лучше бы я ... (с I)
+	You had better ... - лучше бы ты ... (с you/he и т.д.)
 
 that's it == that's all - это всё! (конец)
 
@@ -2572,3 +2573,62 @@ refugees - беженцы
 	refugee
 drought - засуха
 disillusioned - расстроенный, разочарованный
+
+
+(дописать)
+Правило: Должен быть сделать (probability, possibility)
+0. Сама вероятность выражается через:
+	must 100% вероятность события (примерная)
+	might 80%
+	may 70%
+	could 60%
+1. Present
+	He must be at work. - Он должно быть на работе.
+2. Continues
+	must/could/may/might + be + Ving
+	She could be having a shower. - Должно быть (сейчас) она принимает душ.
+	He might be coming.
+3. Past (have после модальных)
+	... + must/may... + have + V3(ed) + ...
+	You + must + have + met my brother. - должно быть ты встречал моего брата?
+	Примечание: have не меняется на has с he/she/it
+4. Отрицание
+	В отрицательных ТОЛЬКО одно can't - для всех: must/may и т.д.
+	He can't be at work.
+
+route taxi - маршрутное такси
+meantime - тем временем
+resentment - негодование
+get a life - попробуй жить! живи! будь активнее в жизни!
+pull yourself together - собирались
+soaking wet - промокший насквозь
+crutches - костыли
+
+get in touch == keep in touch
+offensive - оскорбительный
+
+Правило: Дача согласие/несогласия
+	I like ice-cream. - So do I. (я тоже)
+	I don't like ice-cream. - Neither do I. (я тоже нет)
+	
+	I am a teacher. - So I am. (я тоже)
+	I am not a teacher. - Neither am I. (я тоже нет)
+	
+	I like ice-cream. - I don't. или But I don't.
+	I don't like. I do. или But I do.
+	
+Из текста о внешности:
+	bring up - воспитывать
+	up bringing - воспитание
+	crows feet - гусиные лапки (морщинки)
+	forensic artist - судебный художник
+	nerve racking - нервно
+	showed up - показать
+	warehouse - склад
+	drafting board - доска для рисования
+	jaw - подбородок (нижняя челюсть)
+	chin - подбородок (на месте бороды)
+	protrude (vb) - выдвигать вперед
+	prominent (adj) - выступающая (вперед)
+	kind of - слово-паразит в США, перевод: "вроде как" - I kind of have a ...
+	
