@@ -1449,7 +1449,7 @@ What does she like? - что она любит?
 
 How are you doing? == How are you?
 How is it going? - как дела?
-How do you do? - как ты?
+How do you do? - как дела?
 What are you? - какая твоя профессия?
 
 -------------Герундии, инфинитив, и без них

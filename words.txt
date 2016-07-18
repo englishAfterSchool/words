@@ -2617,6 +2617,22 @@ offensive - оскорбительный
 	I like ice-cream. - I don't. или But I don't.
 	I don't like. I do. или But I do.
 	
+	I have got BMW.
+		+ so have I
+		- (But) I haven't
+		
+	I have never seen the sea.
+		+ Neither have I
+		- But I have
+		
+	I can't drive.
+		+ Neither can I.
+		- (But) I can.
+	
+	Универсальные ответы, могут заменять то что выше (разговорный вариант):
+		My too. - Я тоже.
+		My neither. - Я тоже нет.
+	
 Из текста о внешности:
 	bring up - воспитывать
 	up bringing - воспитание
@@ -2631,4 +2647,26 @@ offensive - оскорбительный
 	protrude (vb) - выдвигать вперед
 	prominent (adj) - выступающая (вперед)
 	kind of - слово-паразит в США, перевод: "вроде как" - I kind of have a ...
+
+
+Handy capped == disabled - недееспособный, инвалид (вежливое обращение в отличии от invalid)
+craze - мания
+reckon - подсчитывать (второе значение)
+I can't bear it. - Я не могу это выносить
+	bear - нести, относится
+	How does your story bear on this case? — Какое отношение имеет ваша история к данному случаю?
+ask for ... - просить о ...
+
+chop - резать на куски, рубить
+thigh - бедро
+cello (селоу) == violoncello - виолончель
+sort of == some how - вроде как, как-то?
+	I'm sort of like of football. - Я в какой-то степени люблю футблов.
+scholarship - стипендия на образование
+town hall == city hall - администрация района
+traffic lights - светофор
+estate - имущество, поместье/имение
+engines == cars - иногда заменяет слово cars
+shopping spree == spending spree???
+
 	
