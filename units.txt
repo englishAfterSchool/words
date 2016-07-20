@@ -1399,6 +1399,7 @@ progress
 
 unit 6
 
+anchovy
 cynical - циничный
 focal point - фокусная точка
 grateful - благодарный
@@ -1407,11 +1408,11 @@ grumble == complain
 kettle - чайник, часы, котел
 lane (road) - узкая дорога
 notice board - доска объявлений
-orchestra - оркестр
+orchestra (оркистр) - оркестр
 promotion - продвижение
 put the world to rights - решать международные проблемы (шутливо)
 rave - рёв, бешенство, бред
-succeed - следовать, достигать, приуспевать
+succeed - следовать, достигать, преуспевать
 tasteless - безвкусный
 truly - правдиво
 ultimate - конечный, максимальный
@@ -1448,11 +1449,12 @@ I like it very much. - мне это нравится очень.
 What does she like? - что она любит?
 
 How are you doing? == How are you?
-How is it going? - как дела?
-How do you do? - как дела?
+How is it going? == How do you do? - как дела?
 What are you? - какая твоя профессия?
 
 -------------Герундии, инфинитив, и без них
+Запоминать нужно гл. с -ing или без всего. Потому что чаще всего гл. пишут с to
+
 Ving				V + to
 --
 adore				advise (sb)
@@ -1554,4 +1556,38 @@ gone to ... - уехал и остался
 -------------
 
 unit 7
+
+amazingly - удивительно, поразительно
+application - заявка
+back off == retreat - отступать
+come across == find
+crane - кран
+CV == curriculum vitae
+descendant - потомок
+end up (with) - закончить; найти себя
+	Показывает что случается в результате процесса. - you're going to end up with all kinds of health problems
+	Показать позитивный или негативный результат. - We ended up with over twenty thousand dollars in sales.
+genuine
+girder
+hand down - передавать по наследству
+heavyweight - полный (излишний вес)
+in charge - заведующий
+indoors - внутри дома
+outdoors
+of course
+interpersonal - меж личностный
+ironworker - металург
+journalism - журналистика
+just in case - на всякий случай
+make unconscious == knock out
+lay off == make redundant - сокращать
+	redundant - излишний
+put (sb) through - соединять кого-то по телефону
+recapture - пере захватывать, возвращать себе
+resignation - отказ от должности
+retire
+retirement
+take (sth) away == remove
+take up
+widespread
 

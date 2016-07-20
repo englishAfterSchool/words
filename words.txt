@@ -2445,7 +2445,7 @@ ointment - мазь
 cloakroom - раздевалка
 	cloak - плащ, мантия, личина
 change-room - примерочная
-household - домашний халат
+household - домочадцы
 reclaim - перевоспитание, перевоспитывать
 	claim - требовать
 	
@@ -2465,7 +2465,7 @@ floods - наводнение
 knoked out - нокаут
 sink - тонуть
 hairstyle - прическа
-widespread - обширный
+widespread - обширный, широко распостраненный
 lay-off - остановка производства, забастовка, увольнение из-за остановки производства
 labour - труд в том числе по принуждению
 elect - избирать
@@ -2515,8 +2515,7 @@ wear and tear == depreciation - усушка и утряска / износ
 came across == meet
 safe rope - страховочная веревка
 carry on == go on
-to end up/in - находить себя
-put up (with) - смериться с
+put up (with) - смириться с
 take away - убирать
 idiomatic - переносный (напр. смысл)
 literal - дословный
