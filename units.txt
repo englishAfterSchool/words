@@ -1563,6 +1563,7 @@ back off == retreat - отступать
 come across == find
 crane - кран
 CV == curriculum vitae
+championship - чемпионат
 descendant - потомок
 end up (with) - закончить; найти себя
 	Показывает что случается в результате процесса. - you're going to end up with all kinds of health problems
@@ -1580,15 +1581,18 @@ ironworker - металлург
 journalism - журналистика
 just in case - на всякий случай
 make unconscious == knock out
-	unconscious - не осознающий
-lay off == make redundant - сокращать
+	unconscious - не осознающий, без сознательный
+lay off == make redundant - сокращать по работе
 	redundant - излишний
 put (sb) through - соединять кого-то по телефону
+put up with == tolerant - мириться с
 recapture - пере захватывать, возвращать себе
 resignation - отказ от должности
 retire
 retirement
+sacrifice
 take (sth) away == remove
 take up
 widespread
 -------------
+applicant - претендент
