@@ -1560,7 +1560,7 @@ unit 7
 amazingly - удивительно, поразительно
 application - заявка
 back off == retreat - отступать
-come across == find
+come across == find == meet
 crane - кран
 CV == curriculum vitae
 championship - чемпионат
