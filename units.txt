@@ -1567,8 +1567,8 @@ descendant - потомок
 end up (with) - закончить; найти себя
 	Показывает что случается в результате процесса. - you're going to end up with all kinds of health problems
 	Показать позитивный или негативный результат. - We ended up with over twenty thousand dollars in sales.
-genuine
-girder
+genuine - истинный
+girder - балка
 hand down - передавать по наследству
 heavyweight - полный (излишний вес)
 in charge - заведующий
@@ -1576,10 +1576,11 @@ indoors - внутри дома
 outdoors
 of course
 interpersonal - меж личностный
-ironworker - металург
+ironworker - металлург
 journalism - журналистика
 just in case - на всякий случай
 make unconscious == knock out
+	unconscious - не осознающий
 lay off == make redundant - сокращать
 	redundant - излишний
 put (sb) through - соединять кого-то по телефону
@@ -1590,4 +1591,4 @@ retirement
 take (sth) away == remove
 take up
 widespread
-
+-------------
