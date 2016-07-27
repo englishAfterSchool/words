@@ -1580,6 +1580,7 @@ interpersonal - меж личностный
 ironworker - металлург
 journalism - журналистика
 just in case - на всякий случай
+mayor - мэр
 make unconscious == knock out
 	unconscious - не осознающий, без сознательный
 lay off == make redundant - сокращать по работе
