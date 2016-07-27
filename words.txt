@@ -319,6 +319,7 @@ preposition - часть речи to, in, on и т.д.
 reckless - необдуманный
 	reck of - беспокоиться о
 besides - кроме того
+suspense - неизвестность
 
 Название игр:
 pillar of Eternity
@@ -537,6 +538,8 @@ nephew - племянник
 	His wife _works_ in an office, _doesn't_she_?
 	I _passed_ an exam, _didn't_I_?
 	You _don't_ understand it, _do_you_?
+Исключение: am not заменяется на are not (не касается am БЕЗ not)
+	I am a boy, aren't I?
 	
 grumpy - угрюмая
 
@@ -803,6 +806,7 @@ thrillers - триллеры
 	2. Запланированные действия (наверное сделаю, собираюсь, вероятно будет)
 		be(am/are/is) going to + ... (We’re going to get married in June)
 			- собираюсь что-то сделать, очевидное действие в будущем
+			going to go to == going to (опускается часть с повторным go to)
 	3. Точные планы (запланированные, точно сделаю)
 		используется Present Continuous - planed action
 	4. Если разговор о расписании, план действий (timetables)
@@ -2438,6 +2442,7 @@ shrimp - креветка
 tuna - тунец
 junk food - вредная еда
 curry - карри или блюдо с карри
+oyster - устрица
 
 span - небольшой предмет, размер, расстояние, сфера деятельности
 
@@ -2669,4 +2674,35 @@ estate - имущество, поместье/имение
 engines == cars - иногда заменяет слово cars
 shopping spree == spending spree???
 
+
+ribbon - лента
+crayon - цветной карандаш, мелок
+pecan - орех "пекан"
+consists of ... - состоит из
+
+
+hair do == hair style
+far too much/many - даже слишком много
+as much/many as - также много как (используется при сравнении)
+	I have sth as much as you.
+neglected - заброшенный
+deduce == pursue
+
+indirect question:
+	Для построения: вопрос + whether или if + прямой порядок слов (который в этом предложении воспринимается вопросом)
+	indirect question - прямой порядок слов в вопросительном предложении (как в Simple времени)
+	I would like to know ...
+	I wonder ...
+	I'm into ...
+	+ whether/if
+	+ direct word order
 	
+	(это ВСЁ вопросы на которые НАДО давать ответ)
+	I'm into whether he lives in Minsk or ... ?
+	I wonder if he works abroad?
+	Do you know where he lives? - тоже indirect question
+	Can you tell as if there are restaurant?
+
+	Можно просто сказать утвердительное предложение с вопросительной интонацией.
+	Как в русском. Это тоже indirect question.
+
