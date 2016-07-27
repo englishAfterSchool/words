@@ -1592,7 +1592,9 @@ retire
 retirement
 sacrifice
 take (sth) away == remove
-take up
+take up (gymnastics) == do (smth) - заниматься курсами/чем-то - делать курсы
 widespread
 -------------
 applicant - претендент
+find by chance - Найти случайно
+come across == meet

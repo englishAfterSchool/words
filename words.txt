@@ -2518,7 +2518,7 @@ hand in - собрать
 hand down == pass down - передать по наследству
 girders - балка
 wear and tear == depreciation - усушка и утряска / износ
-came across == meet
+come across == meet
 safe rope - страховочная веревка
 carry on == go on
 put up (with) - смириться с
