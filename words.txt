@@ -2684,7 +2684,7 @@ consists of ... - состоит из
 hair do == hair style
 far too much/many - даже слишком много
 as much/many as - также много как (используется при сравнении)
-	I have sth as much as you.
+	I have sth as much/many as you.
 neglected - заброшенный
 deduce == pursue
 
