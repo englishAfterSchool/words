@@ -1599,11 +1599,12 @@ widespread
 applicant - претендент
 find by chance - Найти случайно
 come across == meet, иметь что-то общее, find
+-------------
 
 unit 8
 
 AIDS - acquired immune deficiency syndrome
-	acquired - преобритенный
+	acquired - приобретенный
 	deficiency - дефицит
 appeal - апелляция, призыв, просьба
 belief
@@ -1619,7 +1620,7 @@ fit together (a jigsaw)
 get rid == discard
 growl - рычать
 heart attack
-hospice - гостинница
+hospice - гостиница
 hound == pursue
 housing - расселение
 incredibly
@@ -1704,3 +1705,35 @@ stool - табурет, скамейка
 stir - шевелить, мешать (еду)
 cash dispenser - банкомат
 	dispenser - автомат (напр. торговый)
+-------------
+	
+unit 9
+
+complexion - вид (чей-то), вид кожи лица
+conscious - сознательный
+contented - довольный
+curly - кудрявый
+daydream - мечта, мечтать
+deal with (sth)
+envy - зависть, тот кому завидуют, завидовать
+generation
+hand-me-down - вещь передаваемая по наследству, поддержанная
+in front of
+in the meantime
+nun - монахиня, грелка
+plaster - штукатурка, пластырь
+put off (doing sth) == postpone - откладывать
+	postpone - откладывать
+relieved - помогающий
+	relieve - помогать
+resentment - негодование
+reunion - воссоединение
+take care of (sb)
+talkative
+ups and downs - подъемы и спуски
+-------------
+preparation
+consonant - согласный звук
+vowel - гласный звук
+suitcase - чемодан
+brunette
