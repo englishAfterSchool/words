@@ -320,6 +320,7 @@ reckless - необдуманный
 	reck of - беспокоиться о
 besides - кроме того
 suspense - неизвестность
+Aid - помогать
 
 Название игр:
 pillar of Eternity
