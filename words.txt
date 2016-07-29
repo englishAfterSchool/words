@@ -2688,6 +2688,7 @@ as much/many as - также много как (используется при 
 neglected - заброшенный
 deduce == pursue
 
+правило:
 indirect question:
 	Для построения: вопрос + whether или if + прямой порядок слов (который в этом предложении воспринимается вопросом)
 	indirect question - прямой порядок слов в вопросительном предложении (как в Simple времени)
@@ -2706,3 +2707,35 @@ indirect question:
 	Можно просто сказать утвердительное предложение с вопросительной интонацией.
 	Как в русском. Это тоже indirect question.
 
+
+правило:
+	There is ...
+	There was ...
+	There has just been a president in the USA.
+	Has there ...
+	
+kick - пинок ногой
+hug - обнимать
+arm - вся рука
+
+kiss sth goodbye - махнуть рукой
+hit the roof == be furious
+kick the habit == give up habit - бросить привычку
+
+deli - гастроном
+couch potato - диванный картофель
+No way! - ни за что
+kind of ... - вроде того
+anything good on tonight - что-нибудь хорошего сегодня ночью
+
+What's on (TV/cinema/theater) - часть в скобках опускается
+
+Dunno - don't know
+string - нить, шнурок, струна и т.д.
+floss - нить, пух
+dental floss - зубная нить
+
+What are you up to? - что ты будешь делать?
+	
+правило:
+indirect speech == reported speech - косвенная речь (в архиве)

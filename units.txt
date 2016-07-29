@@ -1598,4 +1598,5 @@ widespread
 -------------
 applicant - претендент
 find by chance - Найти случайно
-come across == meet
+come across == meet, иметь что-то общее, find
+
