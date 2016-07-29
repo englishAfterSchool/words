@@ -1737,3 +1737,4 @@ consonant - согласный звук
 vowel - гласный звук
 suitcase - чемодан
 brunette
+look over - осмотреть
