@@ -2581,7 +2581,6 @@ drought - засуха
 disillusioned - расстроенный, разочарованный
 
 
-(дописать)
 Правило: Должен быть сделать (probability, possibility)
 0. Сама вероятность выражается через:
 	must 100% вероятность события (примерная)
@@ -2617,11 +2616,11 @@ offensive - оскорбительный
 	I like ice-cream. - So do I. (я тоже)
 	I don't like ice-cream. - Neither do I. (я тоже нет)
 	
-	I am a teacher. - So I am. (я тоже)
+	I am a teacher. - So am I. (я тоже)
 	I am not a teacher. - Neither am I. (я тоже нет)
 	
 	I like ice-cream. - I don't. или But I don't.
-	I don't like. I do. или But I do.
+	I don't like. - I do. или But I do.
 	
 	I have got BMW.
 		+ so have I

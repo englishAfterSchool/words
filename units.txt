@@ -1637,7 +1637,7 @@ prisoner of conscience - узник совести
 prize - награда
 psychiatrist
 put pressure on (sb)
-ragged - нервный
+rugged == ragged - неровный, жесткий
 rescue
 sanity
 shelter
@@ -1738,3 +1738,36 @@ vowel - гласный звук
 suitcase - чемодан
 brunette
 look over - осмотреть
+-------------
+
+unit 10
+
+can't bear (sth)
+cast - кидать, лить, выполнять
+ceiling - потолок
+chemistry - химия
+compose - сочинять
+conductor - дирижер
+dust - пылить
+explosive - взрывчатый
+hippie - хиппи
+immaculate - непорочный, чистый, опрятный
+make up == invent
+memorabilia - памятные вещи
+out-of-work - безработный
+ponytail - прическа хвостик
+reckon == think
+redecorate
+rugged == ragged - неровный, жесткий
+shopping spree == spending spree
+teapot - чайник
+teacup
+traffic warden - дорожный инспектор
+unconventional - нетрадиционный
+	convene - собирать
+underwear - нижнее белье
+unlikely - маловероятный, ненравящийся
+waiting room
+-------------
+lung - легкое
+
