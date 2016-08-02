@@ -1655,7 +1655,7 @@ I'm at Alex house - я у Алекса
 fluid == liquid
 Let's == let us
 embassy - посольство
-jigsaw - пазл
+jigsaw - пазл, лобзик
 windfall - неожиданный доход
 tempt - соблазн
 tempting - заманчиво

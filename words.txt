@@ -320,7 +320,7 @@ reckless - необдуманный
 	reck of - беспокоиться о
 besides - кроме того
 suspense - неизвестность
-Aid - помогать
+Aid - помогать, помощь
 
 Название игр:
 pillar of Eternity
@@ -2548,7 +2548,7 @@ I'm at Alex house - я у Алекса
 fluid == liquid
 Let's == let us
 embassy - посольство
-jigsaw - пазл
+jigsaw - пазл, лобзик
 windfall - неожиданный доход
 tempt - соблазн
 tempting - заманчиво
@@ -2736,6 +2736,30 @@ floss - нить, пух
 dental floss - зубная нить
 
 What are you up to? - что ты будешь делать?
-	
+
 правило:
-indirect speech == reported speech - косвенная речь (в архиве)
+indirect (reported) speech == reported speech - косвенная речь (в архиве)
+	Present -> Past
+	Past -> Past Perfect
+	will/can -> would/could
+	should/might/could -> should/might/could
+	Если есть when/which/what/... то они становятся на место if/whether, есть нету, то that и его можно опустить
+
+правило:
+complex object
+	I want you to ...
+	I beg you to be here.
+	I ask him to ...
+	The postman told me _not_ to sign. (отрицание)
+	
+groom == bridegroom - жених, мужчина
+mutual - взаимный
+mutual understanding - взаимное понимание
+have a baby - рождать ребенка
+cot - детская краватка
+midwife - окушерка
+mournes - люди присутствующие на похоронах
+coffin - гроб
+bouquet == bunch
+get past - пройти
+aid
