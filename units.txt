@@ -1773,3 +1773,65 @@ lung - легкое
 
 unit 11
 
+bread - борода
+bite
+campsite - полаточный лагерь
+cartoonist - аниматор
+childbearing - деторождение
+childbirth - роды
+cope - справляться, покров
+couch potato - лентяй
+crate - ящик, емкость
+cross off (from a list) - зачеркнуть
+crucify - распинать
+deduce - делать вывод
+deli == delicatessen
+dental floss
+drop (sb) a line
+grab - хватать
+halfway - половина пути
+handheld - ручной
+H-bomb - водородная бомба
+hit the roof == be furious
+hug
+in fact - фактически
+lick - лизать, ударять
+litter - мусор на дороге
+neglect - пренебрежении
+nevertheless - тем не менее
+outlive - пережить
+range - ряд
+slipper - тапочки
+smart == well-dressed
+stressed - сдавленный, ударенный
+wipe out == destroy, смывать
+
+unit 12
+
+byway - неглавная дорога
+coffin - гроб
+commemorate - почтить
+cot - детская краватка
+dismantle - разбирать, раздевать
+groom - жених, мужчина
+hearing aid == hearing device
+highway - большая дорога
+juicy - сочный
+kneel - стать на колени
+liar - лжец
+lifeboat - спас. шлюпка
+mainland - большая земля
+manage to do (sth) - справляться с
+midwife - акушерка
+mourner - люди на похоронах
+muffled - завернутый, приглушенный звук
+naught - ничто
+overhead - надземный
+proposal - предложение, план
+scarf - шарф
+scribble - набрежно (писать)
+subside - опускаться, понижать
+sweep up - почистить
+take (sth) back
+widow - вдова
+
