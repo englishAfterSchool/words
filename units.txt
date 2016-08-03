@@ -1773,7 +1773,7 @@ lung - легкое
 
 unit 11
 
-bread - борода
+beard - борода
 bite
 campsite - полаточный лагерь
 cartoonist - аниматор
@@ -1805,6 +1805,17 @@ slipper - тапочки
 smart == well-dressed
 stressed - сдавленный, ударенный
 wipe out == destroy, смывать
+-------------
+measure - мера
+alongside - близко
+Who are you talk about?
+	point at
+	speak to
+	dance with
+	talk about
+	think about
+let (sb) down - подвести, разочаровать
+come on - выходить, наступать
 
 unit 12
 
@@ -1834,4 +1845,15 @@ subside - опускаться, понижать
 sweep up - почистить
 take (sth) back
 widow - вдова
-
+-------------
+persuade - убеждать
+deny - отрицать
+использование married:
+	married a plumber - замужем за сантехником
+	we got married
+	My sister is married to a really nice guy.
+	divorced используется как и married
+back on
+down on
+on with
+up with

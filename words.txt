@@ -2247,7 +2247,6 @@ godfather - крестный отец
 terrific - пугающий
 stared in it - снимался в этом (кино...)
 	star
-Where were you born? - фразы о рождении обычно в Past Continues
 only son - единственный сын (в семье)
 
 thoroughly (сзароли) - полностью
@@ -2509,7 +2508,7 @@ discount of/at 2% - скидка на 2%
 allow discount - предлагать скидку
 
 trapeze artist - воздушный гимнаст
-lack of == lick of
+lack of
 head over heels - вверх тормашками
 
 take up (courses/smth) - заниматься курсами/чем-то == do (smth) - делать курсы
@@ -2759,7 +2758,7 @@ mutual understanding - взаимное понимание
 have a baby - рождать ребенка
 cot - детская краватка
 midwife - окушерка
-mournes - люди присутствующие на похоронах
+mourners - люди присутствующие на похоронах
 coffin - гроб
 bouquet == bunch
 get past - пройти
