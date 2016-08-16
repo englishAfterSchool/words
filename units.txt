@@ -1785,7 +1785,7 @@ crate - ящик, емкость
 cross off (from a list) - зачеркнуть
 crucify - распинать
 deduce - делать вывод
-deli == delicatessen
+deli == delicatessen - гастроном
 dental floss
 drop (sb) a line
 grab - хватать
@@ -1825,7 +1825,8 @@ commemorate - почтить
 cot - детская краватка
 dismantle - разбирать, раздевать
 groom - жених, мужчина
-hearing aid == hearing device
+hearing aid == hearing device - слуховой аппарат
+	aid- помощь
 highway - большая дорога
 juicy - сочный
 kneel - стать на колени
@@ -1834,7 +1835,7 @@ lifeboat - спас. шлюпка
 mainland - большая земля
 manage to do (sth) - справляться с
 midwife - акушерка
-mourner - люди на похоронах
+mourner - люди на похоронах (плакальщик)
 muffled - завернутый, приглушенный звук
 naught - ничто
 overhead - надземный
