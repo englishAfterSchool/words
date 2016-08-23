@@ -1841,7 +1841,7 @@ naught - ничто
 overhead - надземный
 proposal - предложение, план
 scarf - шарф
-scribble - набрежно (писать)
+scribble - небрежно (писать)
 subside - опускаться, понижать
 sweep up - почистить
 take (sth) back
@@ -1858,3 +1858,62 @@ back on
 down on
 on with
 up with
+
+---Незаконченный курс upper-intermediate
+
+unit 7
+
+affair - дело, случай, любовный роман
+alongside - рядом
+appropriate - подходящий
+arranged marriage - запланированный брак
+call up - вызывать/призывать (основные значения); звонить по телефону, призывать на воинскую службу
+	I called him up - Я позвонила ему по телефону
+	call up memories - вызывать из памяти (вспоминать)
+beneficial - выгодный, благотворный/целительный
+chaperon(e) - сопровождать/сопровождающая, компаньЁНКА
+charge - зарядка/заряжать, цена, подопечный/попечение, обвинение/обвиняемый, атака
+clue - моток, улика, нить суждения
+contribute - вносить, способствовать
+correspondence - соответствие
+	correspond - соответствовать
+designated - определяемый
+	designate as - определять как
+	designate for - предназначать для
+engagement - встреча, свидание, обязательство
+environmentally friendly - дружественный к окружающим
+erode == destroy
+exaggerated
+	exaggerate - преувеличивать, увеличивать
+flood (фладс)
+forfeit - штраф, поплатиться чем-либо, проиграть
+haunt = pursue == chase
+impersonal - безличный
+knackered == exhausted, кстрированный (о животном)
+	knacker - живодер (стукальщик молотком для убоя???)
+know-how - умение
+lax - слабый, лосось/лососевый
+matter - вещество, материал, вопрос/причина/основание
+	matter - иметь значение
+	mattering wound — гноящаяся рана
+	as a matter a fact
+outweigh - перевешивать
+perk - кофе/варить кофе, побочный доход
+	perk up - поднимать (часть тела, дух, уровень красоту)
+permitted
+	permit - разрешать
+respond
+	respond to - отвечать на, подходить чему-то
+(for the) sake (of) id
+snail - улитка
+sponge - губка, работать губкой
+spontaneous
+strapped - связанный
+stated - заявленный, установленный
+subtle - тонкий (искусный)
+titbit - лакомый кусок
+tuition - обучение
+understated - заниженный
+	understate - приуменьшить
+wits - разум, остроумие
+worship - поклоняться
