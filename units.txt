@@ -1877,7 +1877,7 @@ clue - моток, улика, нить суждения
 contribute - вносить, способствовать
 correspondence - соответствие
 	correspond - соответствовать
-designated - определяемый
+designated - объявленный, определяемый
 	designate as - определять как
 	designate for - предназначать для
 engagement - встреча, свидание, обязательство
