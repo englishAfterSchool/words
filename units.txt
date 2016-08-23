@@ -1893,6 +1893,7 @@ knackered == exhausted, кстрированный (о животном)
 	knacker - живодер (стукальщик молотком для убоя???)
 know-how - умение
 lax - слабый, лосось/лососевый
+means - средство, способ
 matter - вещество, материал, вопрос/причина/основание
 	matter - иметь значение
 	mattering wound — гноящаяся рана
@@ -1903,7 +1904,7 @@ perk - кофе/варить кофе, побочный доход
 permitted
 	permit - разрешать
 respond
-	respond to - отвечать на, подходить чему-то
+	respond to - отвечать на
 (for the) sake (of) id
 snail - улитка
 sponge - губка, работать губкой
@@ -1917,3 +1918,9 @@ understated - заниженный
 	understate - приуменьшить
 wits - разум, остроумие
 worship - поклоняться
+-------------
+disapprove - осуждать
+confide in - верить в
+confide to - вверять что-то
+look up in - искать в
+look up to - уважать кого-то
