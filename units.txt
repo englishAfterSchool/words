@@ -1920,7 +1920,13 @@ wits - разум, остроумие
 worship - поклоняться
 -------------
 disapprove - осуждать
+mild - мягкий
+bound - граница, скачок
+
+bound up with - связанный с (чем-то)
+bound up in - быть занятым в (чем-то)
 confide in - верить в
 confide to - вверять что-то
 look up in - искать в
 look up to - уважать кого-то
+	looking up - улучшается (состояние)
