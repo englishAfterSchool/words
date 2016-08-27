@@ -93,6 +93,7 @@ certain - точно
 admit - допускать, впускать
 cord - веревка
 Therefore - поэтому
+Therefor - для этого
 revise - проверять, исправлять
 define - определять
 enhance - повышать, улучшать
