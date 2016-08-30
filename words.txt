@@ -2765,3 +2765,30 @@ coffin - гроб
 bouquet == bunch
 get past - пройти
 aid
+
+из Гарри Поттера
+	orphan - сирота
+		orphanage - приют сирот, сиротство
+	neffy == nephew (ласковое)
+	Whatsoever - любой, никакой
+	On the loose - на свободе
+	go rigid - окаменеть
+		rigid - жесткий
+	to have a fit == faint - чувсвовать плохо, падать в обморок
+	Divination == prediction
+	Oaf == awkward
+	brute == beast
+	repel - отгонять
+	Linger - медлить
+	Limb - конечности
+	Peaky - изможденный
+	Foulest == disgusting
+		Foul - грязный
+	betray
+	sack == fire
+	strut about - расхаживать хвастаясь
+		strut - хвастаться
+	Crikey - оба на
+	mercy == kindness
+	
+	
