@@ -2776,7 +2776,7 @@ aid
 	On the loose - на свободе
 	go rigid - окаменеть
 		rigid - жесткий
-	to have a fit == faint - чувсвовать плохо, падать в обморок
+	to have a fit == faint - чувствовать плохо, падать в обморок
 	Divination == prediction
 	Oaf == awkward
 	brute == beast
