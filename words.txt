@@ -2795,4 +2795,13 @@ aid
 	shriek == yell
 	shack - хижина
 	spine - хребет
-	
+
+conceal (консил) - скрывать
+	council (коэнсэл) - совет
+inferiority - низкое качество
+gear - механизм
+persevere - упорствовать
+overdraw - превысить кредит/что-то
+overdue - просроченный, опаздывающий
+receipt (рисит) - квитанция
+carrot - морковь
