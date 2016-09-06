@@ -1915,7 +1915,7 @@ subtle - тонкий (искусный)
 titbit - лакомый кусок
 tuition - обучение
 	tutor - репетитор
-understated - заниженный
+understated - не заявленный, заниженный
 	understate - приуменьшить
 wits - разум, остроумие
 worship - поклоняться
