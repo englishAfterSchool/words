@@ -2921,7 +2921,7 @@ carrot - морковь
 	oscillate - качать
 	emaciated (имэисиэйт) == exhausted
 	contemplative - задумчивый
-	peregrination - поездка
+	peregrination - поездка, изучение
 	manifest - явный, обнародовать
 	solicitude - забота
 	cod - треска, ловить треску
