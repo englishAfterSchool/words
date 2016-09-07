@@ -2846,3 +2846,68 @@ carrot - морковь
 	thee - тебе, тебя, тобой
 	decree - декрет
 
+из A fog in santone
+	overcoat == coat
+	wanly - бледно, изнуренно
+	crooked - согнутый
+	tangle == tangle up - спутанный, путать/впутывать
+	draw - натягивать
+	juggle - жонглировать
+	absorbedly - увлеченно
+	pasteboard - картон, картонный
+	sweep - простираться, мести
+	contracted - сжатый, контрактный
+	linger - медлить, засиживаться
+	winding - извилина, извилистый
+	malarial - малярийный
+	deleterious - вредоносный
+	Litmus - лакмус
+	recite - декламировать
+	thrust - укол, колоть, пихать
+	tubercle - мелкий клубень
+	ravage - разрушение, разрушать
+	thence - оттуда, отсюда
+	wooer - поклонник
+	dumb - немой
+	pathetic - печально-задумчивый
+	wraith - являющийся дух
+	egregious - абсолютный
+	folly - неосмотрительность
+	inhale - вдыхать
+		hale - здоровье
+	exhale - выдыхать
+	handy - подручный, сподручный
+	beneficent - благотворный
+	muriate - соль (соляно-кислая)
+	wander - скитаться
+	tortuous - извилистый
+	gasp - задыхаться, удушье
+	garrote - удавка
+	rattle - греметь
+	strain - напряжение
+	phthisical - туберкулезный
+	recover - возвращать
+	sufficiently - достаточно
+	lean - наклон
+	freemasonry - братские
+	formality - формальная
+	introduction - введение
+	hemorrhage == haemorrhage - кровотечение
+	pulmonary - легочный
+	catarrh - простуда
+	remark - замечать, замечание
+	wheeze - хрипеть
+	hack - ударять, рубить
+	considerable - важный
+	gait - темп, походка
+	peg - гвоздь
+	entertain - развлекать
+	infernal - адский
+	respiration - дыхание
+	jag - зазубрина, вырезать
+	expense - расход, цена
+	whisker - борода, усы (кошки)
+	line up - строить
+	glittering - сверкающий
+	bartender - бармен
+	
