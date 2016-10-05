@@ -373,7 +373,6 @@ drown - тонуть
 
 precisely - определенно, точно
 
-
 --фразы вежливости
 Good luck
 What about you
