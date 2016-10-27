@@ -324,6 +324,7 @@ besides - кроме того
 suspense - неизвестность
 Aid - помогать, помощь
 concern - проблема, вопрос который надо решить
+application == request - просьба
 
 Название игр:
 pillar of Eternity
