@@ -301,7 +301,7 @@ terrorist
 thief
 throw - бросать
 thump (of the heart) - удар (сердца)
-tile - заглавие
+tile - плитка
 together - вместе
 tragically - трагично
 translation - перевод
