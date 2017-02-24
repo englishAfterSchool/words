@@ -519,7 +519,7 @@ out of control - выходящий из под контроля
 permanent - постоянный
 physical activity
 piercings - пирсинги
-plan (ti do sth) - планировать
+plan (to do sth) - планировать
 play truant
 	(not go to school) - прогуливать
 post (letters/parcels) - отправлять по почте
@@ -931,7 +931,8 @@ plan
 pollute - загрязнен
 pond - пруд
 pros and cons - за и против
-put sb off sth (=stop sb liking sth) - разлюбить кого-то
+put sb off sth (=stop sb liking sth) - разлюбить/расхотеть что-то/кого-то
+	Jan was talking about her operation and it put me off my food.
 readjust - приводить в порядок
 refer to - относится к чему-то
 retired - вышедший в отставку
@@ -944,7 +945,7 @@ save
 settle - остепениться
 snack - закуска
 stressful - стрессовый
-sunburnt - обоженный солнцем
+sunburnt - обожженный солнцем
 tablet - таблетка
 Take care! - береги себя
 the bush (= African/Australi countryside) - сельская местность
@@ -981,7 +982,7 @@ complaint - жалоба
 contain
 criminal - преступник
 cure - лекарство, курс лечения
-cut open - выскрывать
+cut open - вскрывать
 develop - развитие
 dialogue
 discovered/discovery - открытый/открытие
@@ -1135,7 +1136,7 @@ take off - взлетать, снимать одежду
 a talk - разговор
 throw away - выбросить прочь
 try on - примерять
-turn around - оборачитьваться
+turn around - оборачиваться
 turn off
 unlikely - маловероятный, вряд ли
 volcano
@@ -1348,16 +1349,16 @@ descent - спуск
 eastbound - движущийся на восток
 en-suit - смежная (комната, ванная)
 ferry - переправа, паром
-haircut - стрежка
+haircut - стрижка
 heaven - небо
-helipad - плащадка для вертолетов
+helipad - площадка для вертолетов
 honeymoon - медовый месяц
 icy - ледяной
 laze - лентяйничать
 lightning - молния
 lowland - низменность
 must-dos - must do
-potter - капошиться, плохо работать, гончар
+potter - копошиться, плохо работать, гончар
 	potter around - делать мелкую работу
 rhino - носорог
 steak - стейк
@@ -1633,7 +1634,7 @@ nearly
 pay-rise - повышение зарплаты
 pour - литься
 prisoner of conscience - узник совести
-	conscience - совесть
+	conscience (коншинс) - совесть
 prize - награда
 psychiatrist
 put pressure on (sb)
@@ -1859,7 +1860,11 @@ down on
 on with
 up with
 
----Незаконченный курс upper-intermediate
+---Курс upper-intermediate
+
+unit 1
+
+
 
 unit 7
 
