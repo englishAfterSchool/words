@@ -1964,15 +1964,17 @@ extensively - сильно
 filler
 fleck - пятно, покрываться пятнами
 get down to business
-gobbled up
+gobbled up - жадно глотать
+	gobble - глотать
 jute bag
+	jute - джут
 lethal
 loss - потеря
 make the big time
 maze - лабиринт, путаница, приводить в замешательство
 merchant - торговец, коммерческий
 misleading - обманчивый
-mouldings
+mouldings - отливка
 mugged
 must-see
 nurdle
@@ -1981,8 +1983,8 @@ ouch - ой
 outskirts - окраина
 	outskirt - граничить
 outstanding - выдающийся (напр. писатель), торчащий
-overbroad
-overland
+overboard - за борт
+overland - по суше, сухопутный
 parkland - парк
 partying
 pellet - шарик, катышек, делать катышек
@@ -1997,7 +1999,7 @@ second thoughts
 self-catering
 	catering - ресторанное обслуживание
 set off for (somewhere)
-sloshing
+sloshing - хлюпанье
 soiling - загрязнение
 spine - хребет, основа
 spurn - отвергать с презрением, презрительный отказ
@@ -2008,6 +2010,7 @@ sushi
 swirling - кружение
 terrace - терраса
 throwaway society
+	throwaway - одноразовый, расточительный
 tourist spots
 trade link
 travel bug
