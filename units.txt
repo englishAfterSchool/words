@@ -1891,7 +1891,7 @@ get the better of smth - победить кого-то
 granted - 
 grab == grasp
 hang out
-have a lot on - иметь много всего
+have a lot on - иметь много всего в
 	I just have a lot on my mind. - У менять просто много всего в голове.
 heartbroken - убитый горем
 hit on - совпадать по (какому-то признаку), (попадать в цель при поиске)
@@ -1970,7 +1970,7 @@ jute bag
 	jute - джут
 lethal
 loss - потеря
-make the big time
+make the big time - добиться успеха
 maze - лабиринт, путаница, приводить в замешательство
 merchant - торговец, коммерческий
 misleading - обманчивый
