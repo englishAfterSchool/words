@@ -1941,6 +1941,79 @@ unbelievable
 vivid - яркий
 wandering - блуждающий
 
+unit 2
+
+at stake - поставить на карту
+backpacker - пеший турист
+best-selling
+bike ride
+biodegrade
+choking
+clogging - засорять (засорение?)
+coastal - береговой
+	coastline - береговая линия
+combs - комбинация
+consequences
+countless
+culprit - виновный, преступник
+debris - обломки
+decade
+devastating - опустошительный, потрясающий
+do away with (something)
+extensively - сильно
+filler
+fleck - пятно, покрываться пятнами
+get down to business
+gobbled up
+jute bag
+lethal
+loss - потеря
+make the big time
+maze - лабиринт, путаница, приводить в замешательство
+merchant - торговец, коммерческий
+misleading - обманчивый
+mouldings
+mugged
+must-see
+nurdle
+obscenity - непристойность
+ouch - ой
+outskirts - окраина
+	outskirt - граничить
+outstanding - выдающийся (напр. писатель), торчащий
+overbroad
+overland
+parkland - парк
+partying
+pellet - шарик, катышек, делать катышек
+Pharaohs - фараоны
+pleased with (smbd)
+pristine - древние, изначальный
+roadworks - дорожные работы
+sat nav
+scuba diving
+	scuba - акваланг
+second thoughts
+self-catering
+	catering - ресторанное обслуживание
+set off for (somewhere)
+sloshing
+soiling - загрязнение
+spine - хребет, основа
+spurn - отвергать с презрением, презрительный отказ
+staggered
+stroll - прогулка, прогуливаться
+stung - прош. время от sting
+sushi
+swirling - кружение
+terrace - терраса
+throwaway society
+tourist spots
+trade link
+travel bug
+turquoise - бирюза
+uneventful
+
 
 unit 7
 
