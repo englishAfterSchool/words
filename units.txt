@@ -1885,10 +1885,11 @@ fend for himself - постоять за себя
 fortnight - две недели
 fortune teller - предсказатель
 foul play - подлая игра
+	foul - грязный, грязное
 freak - чудить
 get it - понимать это, получить нагоняй
 get the better of smth - победить кого-то
-granted - 
+granted - принимать как должное
 grab == grasp
 hang out
 have a lot on - иметь много всего в
@@ -1959,11 +1960,11 @@ culprit - виновный, преступник
 debris - обломки
 decade
 devastating - опустошительный, потрясающий
-do away with (something)
+do away with (something) - разделаться с ...
 extensively - сильно
 filler
 fleck - пятно, покрываться пятнами
-get down to business
+get down to business - взяться за дело
 gobbled up - жадно глотать
 	gobble - глотать
 jute bag
@@ -1992,10 +1993,10 @@ Pharaohs - фараоны
 pleased with (smbd)
 pristine - древние, изначальный
 roadworks - дорожные работы
-sat nav
+sat nav - спутникавая навигация
 scuba diving
 	scuba - акваланг
-second thoughts
+second thoughts - пересмотренные соображения
 self-catering
 	catering - ресторанное обслуживание
 set off for (somewhere)
