@@ -1879,7 +1879,7 @@ drop in - зайти, вклиниться
 fall asleep
 fans - фанаты?
 fateful - пророческий, роковой, важный (судьбоносный)
-feel up to smth - быть в состоянии
+feel up to smth - быть в состоянии для ...
 fend for himself - постоять за себя
 	fend - предотвращать
 fortnight - две недели
@@ -1950,7 +1950,7 @@ best-selling
 bike ride
 biodegrade
 choking
-clogging - засорять (засорение?)
+clogging - засорять (засорение? засоряли (мешали))
 coastal - береговой
 	coastline - береговая линия
 combs - комбинация
