@@ -2018,6 +2018,66 @@ travel bug
 turquoise - бирюза
 uneventful
 
+unit 3
+
+alighted
+ambulance
+anchorage
+avalanche
+cameraman
+character trait
+	trait - черта
+clinging
+	cling - цепляться
+clutch - захват, хватать/сжимать
+cons
+constituent
+disbelief - недоверие
+drift - гнать, смещаться, перемещение
+dull
+dummy
+elk
+emaciated
+feebly
+gossip
+haunted - посещающий?
+in connection with (smth)
+incident
+lay bar == reveal
+limelight
+lure - соблазн, приманка, завлекать
+newly build
+	newly - вновь
+nutrition
+overcoat
+overhead
+page-turner
+play (something) out
+plunged
+poor state
+possessiveness
+property tycoon
+	tycoon - магнат
+safety precaution
+	precaution - предосторожность
+scrape
+sensuous
+sinister
+snowmobile - снегоход
+speculation - размышление, спекуляция
+stench - вонь
+stunt - трюк, проявлять ловкость; остановка в росте, останавливать рост
+stuntman - каскадер
+sublime - величайший, великое
+synopses
+tenants
+top of her class
+towed
+transcend - переступать пределы
+	transcendent - за пределами (сущ)
+What a drug!
+windscreen - переднее стекло, ветровое стекло
+
 unit 7
 
 affair - дело, случай, любовный роман
