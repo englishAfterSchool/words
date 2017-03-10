@@ -2069,7 +2069,7 @@ stench - вонь
 stunt - трюк, проявлять ловкость; остановка в росте, останавливать рост
 stuntman - каскадер
 sublime - величайший, великое
-synopses
+synopses - краткое изложение, конспект???
 tenants
 top of her class
 towed
@@ -2077,6 +2077,51 @@ transcend - переступать пределы
 	transcendent - за пределами (сущ)
 What a drug!
 windscreen - переднее стекло, ветровое стекло
+
+unit 4
+
+arbitrary
+atheist
+authentic
+bearable - сносный
+blissful
+Bon appetit!
+breathtaking
+breeds
+bungee jumping
+credible - надежный
+diehard - жизнестойкий
+dyslexic
+farce - фарс; фарш, фаршировать
+fiendish
+fluttering
+hatched
+hoax
+hypotheses == hypothesis - гипотеза
+implausible
+insomniac
+it suits you
+justified
+	justify - оправдывать, доказывать
+loathe
+lousy
+mundane
+naturist
+plausible
+probable - вероятный
+scalding
+squashed
+stranded
+tampered
+	tamper (with) - подделывать, портить
+teetotaller
+thick - жирный, густой; чаща, пекло, разгар
+unanimously - единогласно
+	unanimous - единогласный
+unsuspecting - доверчивый
+urgent
+white lie - невинная ложь, ложь во спасение
+
 
 unit 7
 
