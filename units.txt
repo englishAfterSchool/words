@@ -1976,7 +1976,7 @@ maze - лабиринт, путаница, приводить в замешат�
 merchant - торговец, коммерческий
 misleading - обманчивый
 mouldings - отливка
-mugged
+mugged - ограбленный
 must-see
 nurdle
 obscenity - непристойность
@@ -2021,48 +2021,51 @@ uneventful
 unit 3
 
 alighted
-ambulance
-anchorage
-avalanche
-cameraman
+	alight - горящий
+	alight (with) - выходить
+ambulance - госпиталь
+anchorage - якорная стоянка
+avalanche - лавина
+cameraman - фотограф
 character trait
 	trait - черта
 clinging
 	cling - цепляться
 clutch - захват, хватать/сжимать
 cons
-constituent
+constituent - компонент, образующий
 disbelief - недоверие
 drift - гнать, смещаться, перемещение
-dull
-dummy
-elk
-emaciated
-feebly
-gossip
-haunted - посещающий?
+dull - тупой (в т.ч. глупый), притуплять, оглушать
+dummy - макет
+elk - лось
+emaciated - истощенный
+feebly - слабо
+gossip - сплетня, болтать
+haunted - посещаемый (в т.ч. приведениями)?, испуганный
 in connection with (smth)
-incident
+incident - инцидент, свойственный
 lay bar == reveal
-limelight
+limelight - свет в театре (друммондов свет), цент внимания, быть в центре внимания
 lure - соблазн, приманка, завлекать
 newly build
 	newly - вновь
-nutrition
-overcoat
-overhead
-page-turner
-play (something) out
-plunged
+nutrition - питание
+overcoat - пальто
+overhead - надземный
+page-turner - ?
+play (something) out - сыграть (это) 
+	I had to play it out
+plunged - нырять, погружение
 poor state
 possessiveness
 property tycoon
 	tycoon - магнат
 safety precaution
 	precaution - предосторожность
-scrape
-sensuous
-sinister
+scrape - скрести
+sensuous - чувственный
+sinister - злой
 snowmobile - снегоход
 speculation - размышление, спекуляция
 stench - вонь
@@ -2071,47 +2074,54 @@ stuntman - каскадер
 sublime - величайший, великое
 synopses - краткое изложение, конспект???
 tenants
-top of her class
-towed
+	tenant - наниматель, нанимать
+top of her class - ?
+towed - протянутый
+	tow - трос
+	tow - тянуть
 transcend - переступать пределы
 	transcendent - за пределами (сущ)
-What a drug!
+What a drug! - ?
 windscreen - переднее стекло, ветровое стекло
 
 unit 4
 
-arbitrary
+arbitrary - произвольный
 atheist
 authentic
 bearable - сносный
-blissful
+blissful - блаженный
+	bliss - блаженство
 Bon appetit!
-breathtaking
-breeds
-bungee jumping
+breathtaking - захватывающий
+breeds - род, племя; размножаться
+bungee jumping - ?
 credible - надежный
 diehard - жизнестойкий
-dyslexic
+dyslexic - диалектик
 farce - фарс; фарш, фаршировать
-fiendish
+fiendish - демонический
 fluttering
-hatched
-hoax
+	flutter - дрожание, махать
+hatched - ?
+hoax - обман, разыгрывать
 hypotheses == hypothesis - гипотеза
-implausible
-insomniac
-it suits you
+implausible - невероятный
+insomniac - человек страдающий бессонницей
+it suits you - ?
 justified
 	justify - оправдывать, доказывать
-loathe
-lousy
-mundane
+loathe - чувствовать отвращение
+lousy - вшивый
+	to be lousy with — кишмя кишеть
+mundane - мирской, светский
 naturist
-plausible
+plausible - благовидный
 probable - вероятный
-scalding
-squashed
+scalding - жгучий, обваривание
+squashed - раздавленный
 stranded
+	strand - прибрежная полоса, садиться на мель
 tampered
 	tamper (with) - подделывать, портить
 teetotaller
@@ -2119,7 +2129,7 @@ thick - жирный, густой; чаща, пекло, разгар
 unanimously - единогласно
 	unanimous - единогласный
 unsuspecting - доверчивый
-urgent
+urgent - срочный, неотложный
 white lie - невинная ложь, ложь во спасение
 
 
