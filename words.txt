@@ -3015,3 +3015,6 @@ carrot - морковь
 	frown - смотреть неодобрительно
 	forehead - лоб
 	
+sustain - поддерживать (вымысле помогать или морально)
+swing it == be good at it???
+conquer

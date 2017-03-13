@@ -889,6 +889,7 @@ atmosphere
 awful - ужасный
 be bothered - лень???; докучать
 be determined to do something - быть приверженным чему-то
+	(быть решительным в намерении сделать что-то?)
 be in control (of a situation) - руководить чем-то
 brochure - брошура
 buffet car (on a train) - вагон-ресторан
@@ -1889,7 +1890,8 @@ foul play - подлая игра
 freak - чудить
 get it - понимать это, получить нагоняй
 get the better of smth - победить кого-то
-granted - принимать как должное
+granted
+	to take for granted - принимать как должное
 grab == grasp
 hang out
 have a lot on - иметь много всего в
@@ -1950,7 +1952,8 @@ best-selling
 bike ride
 biodegrade
 choking
-clogging - засорять (засорение? засоряли (мешали))
+clogging - 
+	clog - засорять (засорение? засоряли (мешали))
 coastal - береговой
 	coastline - береговая линия
 combs - комбинация
@@ -2053,12 +2056,12 @@ newly build
 nutrition - питание
 overcoat - пальто
 overhead - надземный
-page-turner - ?
+page-turner - абстрактно, как изменяющий со временем???
 play (something) out - сыграть (это) 
 	I had to play it out
 plunged - нырять, погружение
 poor state
-possessiveness
+possessiveness - собственничество
 property tycoon
 	tycoon - магнат
 safety precaution
@@ -2081,7 +2084,7 @@ towed - протянутый
 	tow - тянуть
 transcend - переступать пределы
 	transcendent - за пределами (сущ)
-What a drug! - ?
+What a drug! - ничего себе!
 windscreen - переднее стекло, ветровое стекло
 
 unit 4
@@ -2095,7 +2098,8 @@ blissful - блаженный
 Bon appetit!
 breathtaking - захватывающий
 breeds - род, племя; размножаться
-bungee jumping - ?
+bungee jumping
+	bungee - пружинный механизм
 credible - надежный
 diehard - жизнестойкий
 dyslexic - диалектик
@@ -2103,12 +2107,12 @@ farce - фарс; фарш, фаршировать
 fiendish - демонический
 fluttering
 	flutter - дрожание, махать
-hatched - ?
+hatched - заштрихованный
 hoax - обман, разыгрывать
 hypotheses == hypothesis - гипотеза
 implausible - невероятный
 insomniac - человек страдающий бессонницей
-it suits you - ?
+it suits you - это тебе подходит
 justified
 	justify - оправдывать, доказывать
 loathe - чувствовать отвращение
@@ -2124,7 +2128,7 @@ stranded
 	strand - прибрежная полоса, садиться на мель
 tampered
 	tamper (with) - подделывать, портить
-teetotaller
+teetotaller - трезвенник
 thick - жирный, густой; чаща, пекло, разгар
 unanimously - единогласно
 	unanimous - единогласный
