@@ -2149,10 +2149,10 @@ aspiration - сильное желание достич чего-то
 burden - груз, грузить
 	burden with - обременять ...
 conscientious - сознательный, честный
-council estate
+council estate - муниципалитет
 	estate - поместье, имение, имущество; положение в обществе
 cruising speed - крейсерская скорость
-draw attention to
+draw attention to - обратить внимание на
 dreadful - ужасный
 entrepreneur - предприниматель, владелец цырка
 exploit - деяние, эксплуатировать
@@ -2160,16 +2160,16 @@ fatigue - усталость, утомлять
 hang about - слоняться
 jamming session
 landing card
-make a success of
+make a success of - приходить к успеху (в чем-то)
 mentoring
-my pleasure
+my pleasure - мне очень приятно
 overrun - перерасход, переходить пределы
 primarily - первоначально
 put your food in it
 reconcile - мирить
 rugby
-scared stiff
-	stiff - жесткий
+scared stiff - сильно перепугался
+	stiff - жесткий, крепкий
 sitting up
 	sit up - сидеть выпрямившись
 skim-read
