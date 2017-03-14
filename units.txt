@@ -2153,11 +2153,11 @@ council estate
 	estate - поместье, имение, имущество; положение в обществе
 cruising speed - крейсерская скорость
 draw attention to
-dreadful
+dreadful - ужасный
 entrepreneur - предприниматель, владелец цырка
 exploit - деяние, эксплуатировать
-fatigue
-hang about
+fatigue - усталость, утомлять
+hang about - слоняться
 jamming session
 landing card
 make a success of
