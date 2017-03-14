@@ -2059,7 +2059,8 @@ overhead - надземный
 page-turner - абстрактно, как изменяющий со временем???
 play (something) out - сыграть (это) 
 	I had to play it out
-plunged - нырять, погружение
+plunged
+	plunge - нырять, погружение
 poor state
 possessiveness - собственничество
 property tycoon
@@ -2078,7 +2079,7 @@ sublime - величайший, великое
 synopses - краткое изложение, конспект???
 tenants
 	tenant - наниматель, нанимать
-top of her class - ?
+top of her class - лучшая в своем классе
 towed - протянутый
 	tow - трос
 	tow - тянуть
@@ -2098,8 +2099,8 @@ blissful - блаженный
 Bon appetit!
 breathtaking - захватывающий
 breeds - род, племя; размножаться
-bungee jumping
-	bungee - пружинный механизм
+bungee jumping - штука с пружиной на которой прыгают
+	bungee - пружинный механизм?
 credible - надежный
 diehard - жизнестойкий
 dyslexic - диалектик
@@ -2136,7 +2137,55 @@ unsuspecting - доверчивый
 urgent - срочный, неотложный
 white lie - невинная ложь, ложь во спасение
 
+unit 5
 
+a good talking to
+against the odds
+apps - дополнения, приложения
+aspect - аспект, выражение лица, направление
+	humorous aspect — забавное выражение лица
+	The house has a southern aspect. — Фасад дома выходит на южную сторону.
+aspiration - сильное желание достич чего-то
+burden - груз, грузить
+	burden with - обременять ...
+conscientious - сознательный, честный
+council estate
+	estate - поместье, имение, имущество; положение в обществе
+cruising speed - крейсерская скорость
+draw attention to
+dreadful
+entrepreneur - предприниматель, владелец цырка
+exploit - деяние, эксплуатировать
+fatigue
+hang about
+jamming session
+landing card
+make a success of
+mentoring
+my pleasure
+overrun - перерасход, переходить пределы
+primarily - первоначально
+put your food in it
+reconcile - мирить
+rugby
+scared stiff
+	stiff - жесткий
+sitting up
+	sit up - сидеть выпрямившись
+skim-read
+	skim - скользить
+	skim milk — снимать сливки с молока
+sponge cake - бисквит
+sulk - плохое настроение, быть в плохом настроении
+torchbearer - факельщик (дословно), вдохновитель
+turning point
+variety - многообразие, различие
+vision - зрение, проницательность
+	man of vision — проницательный человек
+wheelchair - инвалидная колсяска
+placement - помещение, определение на должность
+	placement agency — агентство по найму
+	
 unit 7
 
 affair - дело, случай, любовный роман
