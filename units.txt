@@ -2149,7 +2149,7 @@ apps - дополнения, приложения
 aspect - аспект, выражение лица, направление
 	humorous aspect — забавное выражение лица
 	The house has a southern aspect. — Фасад дома выходит на южную сторону.
-aspiration - сильное желание достич чего-то
+aspiration - сильное желание достичь чего-то
 burden - груз, грузить
 	burden with - обременять ...
 conscientious - сознательный, честный
@@ -2187,7 +2187,7 @@ turning point
 variety - многообразие, различие
 vision - зрение, проницательность
 	man of vision — проницательный человек
-wheelchair - инвалидная колсяска
+wheelchair - инвалидная коляска
 placement - помещение, определение на должность
 	placement agency — агентство по найму
 	
