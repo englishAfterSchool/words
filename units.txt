@@ -2024,8 +2024,10 @@ uneventful
 unit 3
 
 alighted
-	alight - горящий
-	alight (with) - выходить
+	alight - выходить
+		to alight at a station — выходить на станции
+	alight (with) - горящий
+		The sky was alight with stars. — В небе горели звёзды.
 ambulance - госпиталь
 anchorage - якорная стоянка
 avalanche - лавина
