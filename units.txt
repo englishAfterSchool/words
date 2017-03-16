@@ -2048,7 +2048,7 @@ emaciated - истощенный
 feebly - слабо
 gossip - сплетня, болтать
 haunted - посещаемый (в т.ч. приведениями)?, испуганный
-in connection with (smth)
+in connection with (smth) - в связи с
 incident - инцидент, свойственный
 lay bar == reveal
 limelight - свет в театре (друммондов свет), цент внимания, быть в центре внимания
