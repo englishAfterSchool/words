@@ -2119,6 +2119,7 @@ it suits you - это тебе подходит
 justified
 	justify - оправдывать, доказывать
 loathe - чувствовать отвращение
+	He loathes working.
 lousy - вшивый
 	to be lousy with — кишмя кишеть
 mundane - мирской, светский
@@ -2131,6 +2132,7 @@ stranded
 	strand - прибрежная полоса, садиться на мель
 tampered
 	tamper (with) - подделывать, портить
+	to tamper with a document
 teetotaller - трезвенник
 thick - жирный, густой; чаща, пекло, разгар
 unanimously - единогласно
