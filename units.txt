@@ -2139,8 +2139,8 @@ white lie - невинная ложь, ложь во спасение
 
 unit 5
 
-a good talking to
-against the odds
+a good talking to - хороший выговор в связи с ...
+against the odds - вопреки всему
 apps - дополнения, приложения
 aspect - аспект, выражение лица, направление
 	humorous aspect — забавное выражение лица
@@ -2165,7 +2165,8 @@ mentoring
 my pleasure - мне очень приятно
 overrun - перерасход, переходить пределы
 primarily - первоначально
-put your food in it
+put your food in it - сглупить
+	I've really put my foot in it this time. I didn't realize that was her husband!
 reconcile - мирить
 rugby
 scared stiff - сильно перепугался
