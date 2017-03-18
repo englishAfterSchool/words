@@ -2832,6 +2832,7 @@ carrot - морковь
 	truce - перемирие
 	page - паж
 	shire - графство, жители графства
+	succeed - наследовать
 	commoner - член общества, простолюдин
 	lad - мальчик
 	hit back - давать сдачи
@@ -2862,6 +2863,18 @@ carrot - морковь
 	thou - ты
 	thee - тебе, тебя, тобой
 	decree - декрет
+	
+	rigid - жесткий
+	leniency - мягкость/снисходительность
+	scrapper - драчун
+	glen - горная долина
+	garrison - гарнизон
+	brigand - бандит
+	quell - подавлять, успокаивать
+	convene - созывать
+	outnumber - превосходить численно
+	embrace - воспользоваться, обнимать
+	condemn - порицать, приговаривать к, обрекать
 
 из A fog in santone
 	overcoat == coat
