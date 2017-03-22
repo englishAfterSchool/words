@@ -2169,7 +2169,7 @@ mentoring
 my pleasure - мне очень приятно
 overrun - перерасход, переходить пределы
 primarily - первоначально
-put your food in it - сглупить
+put your foot in it - сглупить
 	I've really put my foot in it this time. I didn't realize that was her husband!
 reconcile - мирить
 rugby
@@ -2191,6 +2191,53 @@ wheelchair - инвалидная коляска
 placement - помещение, определение на должность
 	placement agency — агентство по найму
 	
+unit 6
+
+ailing - нездоровый
+appeal - призыв
+attachment - привязанность
+bitterly
+blend
+booming - ?
+burgled
+	burgle - красть со взломом помещения
+catering college
+	catering - рестаранное обслуживание
+comfy == comfortable
+criticism
+dominance
+drop out of
+dustman - мусорщик
+employee welfare
+	welfare - благоденствие
+enthusiasm
+expand - растягиваться в размере, увеличиваться
+fattening - ?
+	fatten - делать более питательным
+fierce - жестокий
+hesitation
+hold-ups
+	hold-up - вооруженное ограбление
+irresistible - неотразимый, непреодолимый
+lounge
+make it big
+network - сеть
+numerous - множественный, гармоничный
+offhand - импровизированный, грубый
+out of curiosity - из любопытства
+overnight success
+	overnight - происходивший накануне вечером или ночью
+overwhelmed
+	overwhelm - ошеломлять
+point and click graphics
+policy - политика
+profitability
+sleek - гладкий, лоснящийся
+tribute - дань
+vicar - приходской священник
+vitally - жизненно важно
+zipping - ?
+
 unit 7
 
 affair - дело, случай, любовный роман
