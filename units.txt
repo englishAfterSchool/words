@@ -2296,6 +2296,9 @@ understated - не заявленный, заниженный
 	understate - приуменьшить
 wits - разум, остроумие
 worship - поклоняться
+
+ageing
+
 -------------
 disapprove - осуждать
 mild - мягкий
