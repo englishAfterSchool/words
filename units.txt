@@ -2297,7 +2297,9 @@ understated - не заявленный, заниженный
 wits - разум, остроумие
 worship - поклоняться
 
-ageing
+ageing - старение
+anxious
+
 
 -------------
 disapprove - осуждать
