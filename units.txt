@@ -2202,7 +2202,7 @@ booming - ?
 burgled
 	burgle - красть со взломом помещения
 catering college
-	catering - рестаранное обслуживание
+	catering - ресторанное обслуживание
 comfy == comfortable
 criticism
 dominance
@@ -2299,7 +2299,32 @@ worship - поклоняться
 
 ageing - старение
 anxious
-
+cast my vote
+commitments - обязательства
+crazy about - без ума от
+cultural values - культурные ценности
+denial - отказ
+designated area - обозначенный район
+fond - нежный
+madly in love - безумно влюблен
+miraculously - чудным образом
+mutter - бормотание, бормотать
+not keen on - не в восторге от
+out of breath - запыхался
+out of order - не в порядке
+paid-up - оплаченный
+passionate - страстный
+refusal - отказ
+sake of smbd
+shrugged
+	shrug - пожимать (плечами)
+sizeable - порядочного размера
+spoilt for choice - избалован шансом?
+thick as planks - тупой как пробка
+	planks - планка, доска, класть доски
+understatement - преуменьшение
+well off - состоятельный
+youth - юность
 
 -------------
 disapprove - осуждать
@@ -2314,3 +2339,41 @@ confide to - вверять что-то
 look up in - искать в
 look up to - уважать кого-то
 	looking up - улучшается (состояние)
+
+unit 8
+
+adjacent - расположенный рядом
+afterthought - запоздалая мысль
+arrogant
+authorities - власти
+beyond description - чрезвычайно
+bonfire - костер
+bullies - хулиганы
+camouflage
+cement
+co-star - актер-звездна совместно с кем-то
+comforting - утешительный
+competitive - соперничающий
+completely - вполне
+conceited - самодовольный
+conservancy - охрана природы
+downpour - ливень
+hard luck story - жалостливая история
+	hard luck - неудача
+laughing matter - повод для шуток
+listed building - историческое здание
+marvelous == marvellous - изумительный
+nostril - ноздря
+profusely - обильно
+pruner - подрезчик дерева, секатор
+real estate agent
+	real estate - недвижемое имущество
+self-important - с большим самомнением
+skyline - горизонт
+soak
+solitude
+split-level home
+	split-level - на разных уровнях
+thank goodness - слава богу
+workmanship - мастерство
+worn - потрепанный
