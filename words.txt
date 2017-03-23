@@ -2875,7 +2875,40 @@ carrot - морковь
 	outnumber - превосходить численно
 	embrace - воспользоваться, обнимать
 	condemn - порицать, приговаривать к, обрекать
-
+	ruthless - безжалостный
+	avenge of - отомстить за
+	avenge on - отомстить (кому-то)
+	cavalry - кавалерия
+	spear - копье, пронзать
+	flee - убегать
+	thy - твой
+	homage - почтение
+	arse - зад
+	foregone - прошлый
+	nonetheless - несмотря на
+	live up to - оправдывать надеждый, жить по принципам, быть достойным
+	hereditary - наследственный
+	outmatch - превосходить
+	cordial - сердечный
+	flank - бок, боковой, быть сбоку
+	insolent - высокомерный
+	loose - свободный, отпускать тетиву
+	infantry - пехота
+	inasmuch as - так как
+	squabble - мелкая сора
+	allegiance - верность
+	conscription - воинская повинность
+	mere - всего лишь, болото
+	barn - амбар
+	heathen - язычник
+	bribe - подкуп
+	ruse - уловка, прием
+	upstart - выскочка, вскакивать
+	embroidery - вышивание
+	tuck - поджать
+	slaughter - забой, убой
+	rot - гниение, гнить
+	
 из A fog in santone
 	overcoat == coat
 	wanly - бледно, изнуренно
