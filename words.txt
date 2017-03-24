@@ -2908,6 +2908,16 @@ carrot - морковь
 	tuck - поджать
 	slaughter - забой, убой
 	rot - гниение, гнить
+	prevail - победить
+	replenishes
+	shepherd
+	renowned
+	jeopardy
+	
+	
+	
+	
+	
 	
 из A fog in santone
 	overcoat == coat
