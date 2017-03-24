@@ -2217,7 +2217,7 @@ fattening - ?
 fierce - жестокий
 hesitation
 hold-ups
-	hold-up - вооруженное ограбление
+	hold-up - вооруженное ограбление, задержка
 irresistible - неотразимый, непреодолимый
 lounge
 make it big
@@ -2356,6 +2356,7 @@ comforting - утешительный
 competitive - соперничающий
 completely - вполне
 conceited - самодовольный
+	conceit - самомнение
 conservancy - охрана природы
 downpour - ливень
 hard luck story - жалостливая история
@@ -2363,8 +2364,10 @@ hard luck story - жалостливая история
 laughing matter - повод для шуток
 listed building - историческое здание
 marvelous == marvellous - изумительный
+	marvel - чудо
 nostril - ноздря
 profusely - обильно
+	profuse - обильно
 pruner - подрезчик дерева, секатор
 real estate agent
 	real estate - недвижемое имущество
