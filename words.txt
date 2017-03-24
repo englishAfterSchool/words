@@ -2910,14 +2910,25 @@ carrot - морковь
 	rot - гниение, гнить
 	prevail - победить
 	replenishes
-	shepherd
-	renowned
-	jeopardy
-	
-	
-	
-	
-	
+		replenish - пополнять
+	shepherd - пастух
+	renowned - знаменитый
+	jeopardy - опасность
+	wage - расплата
+	bid - предложение цены
+		the highest bid
+	pledge - залог
+	nest - гнездо
+	scheming - замышляющий
+		scheme - интрига, замышлять, план
+	martyr - мученик
+	deceive - обманывать
+	taint - оттенок (негативный), пятно, придавать оттенок
+	treason - предательство
+	purify - очищать
+	morrow - завтра
+	numb - онемение, вызывать онемение
+	endorsement - одобрение
 	
 из A fog in santone
 	overcoat == coat
