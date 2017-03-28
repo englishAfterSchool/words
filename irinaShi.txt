@@ -309,6 +309,13 @@ Before Mark came to this company + he had been working just 5 years.
 
 What's the time? - Какое время?
 
+Если время до 30 мин какого-то часа, то используется It's ... past ...
+иначе It's ... to ...
+
+one oh seven p.m. (1:07)
+three eighteen a.m. (3:18)
+eighteen minutes past three (3:18)
+
 It's 7.
 It's half past seven. (7:30)
 It's a quarter past seven. (7:15)
@@ -320,7 +327,7 @@ It's midnight. - полночь
 It's noon. - полдень
 
 a second
-a minute (минет)
+a minute (минэт)
 an hour (ауэр)
 a day
 a week
