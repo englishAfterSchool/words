@@ -2206,9 +2206,9 @@ catering college
 comfy == comfortable
 criticism
 dominance
-drop out of
+drop out of - выпадать из (напр. бросить учебу)
 dustman - мусорщик
-employee welfare
+employee welfare - соц. обеспечение
 	welfare - благоденствие
 enthusiasm
 expand - растягиваться в размере, увеличиваться
@@ -2225,7 +2225,7 @@ network - сеть
 numerous - множественный, гармоничный
 offhand - импровизированный, грубый
 out of curiosity - из любопытства
-overnight success
+overnight success - неожиданный испех (проснулся после ночи успешным)
 	overnight - происходивший накануне вечером или ночью
 overwhelmed
 	overwhelm - ошеломлять
@@ -2299,7 +2299,7 @@ worship - поклоняться
 
 ageing - старение
 anxious
-cast my vote
+cast my vote - проголосовать, поделиться мнением
 commitments - обязательства
 crazy about - без ума от
 cultural values - культурные ценности
