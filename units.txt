@@ -2225,7 +2225,7 @@ network - сеть
 numerous - множественный, гармоничный
 offhand - импровизированный, грубый
 out of curiosity - из любопытства
-overnight success - неожиданный испех (проснулся после ночи успешным)
+overnight success - неожиданный успех (проснулся после ночи успешным)
 	overnight - происходивший накануне вечером или ночью
 overwhelmed
 	overwhelm - ошеломлять
@@ -2380,3 +2380,87 @@ split-level home
 thank goodness - слава богу
 workmanship - мастерство
 worn - потрепанный
+
+unit 9
+
+auction - аукцион
+big-headed - заносчивый
+bloke - парень
+blouse - блузка
+boiling-hot - ужасно жарко
+bored stiff - сильная скука
+brand-new - совершенно новый
+breadwinner - кормилец
+bygone era
+cabinet
+car boot sales
+cleverly
+clumsy
+colleagues
+coolest
+cosy
+cottage
+council worker
+courtship
+cutlery
+dead easy
+devotes
+distressing
+ecstatic
+era
+factual
+fantasy world
+fittings
+flat cap
+freezing cold
+fridge freezer
+get in touch
+giggling
+gone to a lot of trouble
+great big
+halcyon time
+hand-picked
+haven
+hectic
+hours on end
+immaculate
+insanely
+lab
+ladylike
+like-minded
+lose touch
+marking time
+meet up
+mod cons
+nostalgic
+nosy
+opposing views
+ordeal
+pantry
+patronized
+pencil skirt
+pinny
+protective
+quaint
+re-creation
+retro
+revolves around
+ruled
+sandcastles
+scald
+school reunion
+schoolmate
+seaside
+self-obsessed
+sighing
+sing-song
+sitting room
+solely
+sound asleep
+source
+teased
+top hat
+twee
+waistcoat
+wasteful
+wide awake
