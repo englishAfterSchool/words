@@ -2028,7 +2028,7 @@ alighted
 		to alight at a station — выходить на станции
 	alight (with) - горящий
 		The sky was alight with stars. — В небе горели звёзды.
-ambulance - госпиталь
+ambulance - скорая помощь
 anchorage - якорная стоянка
 avalanche - лавина
 cameraman - фотограф
@@ -2197,15 +2197,11 @@ ailing - нездоровый
 appeal - призыв
 attachment - привязанность
 bitterly
-blend
-booming - ?
 burgled
 	burgle - красть со взломом помещения
 catering college
 	catering - ресторанное обслуживание
 comfy == comfortable
-criticism
-dominance
 drop out of - выпадать из (напр. бросить учебу)
 dustman - мусорщик
 employee welfare - соц. обеспечение, благосостояние трудящихся
@@ -2215,12 +2211,11 @@ expand - растягиваться в размере, увеличиватьс�
 fattening - ?
 	fatten - делать более питательным
 fierce - жестокий
-hesitation
 hold-ups
 	hold-up - вооруженное ограбление, задержка
 irresistible - неотразимый, непреодолимый
-lounge
-make it big
+lounge - гостинная
+make it big - разбогатеть, добиться своего
 network - сеть
 numerous - множественный, гармоничный
 offhand - импровизированный, грубый
@@ -2298,7 +2293,6 @@ wits - разум, остроумие
 worship - поклоняться
 
 ageing - старение
-anxious
 cast my vote - проголосовать, поделиться мнением
 commitments - обязательства
 crazy about - без ума от
@@ -2316,8 +2310,7 @@ paid-up - оплаченный
 passionate - страстный
 refusal - отказ
 sake of smbd
-shrugged
-	shrug - пожимать (плечами)
+shrug - пожимать (плечами)
 sizeable - порядочного размера
 spoilt for choice - избалован шансом?
 thick as planks - тупой как пробка
@@ -2344,13 +2337,10 @@ unit 8
 
 adjacent - расположенный рядом
 afterthought - запоздалая мысль
-arrogant
 authorities - власти
 beyond description - чрезвычайно
 bonfire - костер
 bullies - хулиганы
-camouflage
-cement
 co-star - актер-звездна совместно с кем-то
 comforting - утешительный
 competitive - соперничающий
@@ -2373,8 +2363,6 @@ real estate agent
 	real estate - недвижемое имущество
 self-important - с большим самомнением
 skyline - горизонт
-soak
-solitude
 split-level home
 	split-level - на разных уровнях
 thank goodness - слава богу
@@ -2392,75 +2380,48 @@ bored stiff - сильная скука
 brand-new - совершенно новый
 breadwinner - кормилец
 bygone era
-cabinet
-car boot sales
-cleverly
-clumsy
-colleagues
-coolest
-cosy
-cottage
+    bygone - прошлый, устаревший
+clumsy - неповоротливый, невоспитанный
+cosy - уютный
 council worker
-courtship
-cutlery
-dead easy
-devotes
-distressing
-ecstatic
-era
-factual
-fantasy world
-fittings
-flat cap
-freezing cold
-fridge freezer
-get in touch
-giggling
+courtship - ухаживание
+cutlery - столовые приборы
+dead easy - просто
+distressing - печальный
+ecstatic - в экстазе (noun)
+flat cap - плоская крышка
+fridge freezer - холодильник с морозилкой
 gone to a lot of trouble
-great big
-halcyon time
-hand-picked
-haven
-hectic
-hours on end
-immaculate
-insanely
-lab
-ladylike
-like-minded
-lose touch
-marking time
-meet up
-mod cons
-nostalgic
-nosy
-opposing views
-ordeal
-pantry
-patronized
-pencil skirt
-pinny
-protective
-quaint
-re-creation
-retro
-revolves around
-ruled
-sandcastles
-scald
-school reunion
-schoolmate
-seaside
-self-obsessed
-sighing
-sing-song
-sitting room
-solely
-sound asleep
-source
-teased
-top hat
-twee
-waistcoat
-wasteful
-wide awake
+    We've _gone to a lot of trouble_ here with these broadcasts
+        - много проблем
+    You've _gone to a lot of trouble_ to meet me.
+        - много усилий
+halcyon time - тихие времена
+hours on end - часов подряд
+like-minded - единомышленник
+marking time - топтаться на месте
+meet up - встретиться
+mod cons - современные удобства
+nosy - с хорошим нюхом, носатый
+opposing views - противоположные мнения
+ordeal - испытания
+pantry - кладовая
+patronized - опекаемый
+pencil skirt - узкая прямая юбка
+pinny - передник
+quaint - чудной привлекательный
+re-creation - имитация
+revolves around - кртиться вокруг
+school reunion - встреча выпускников
+seaside - побережье
+self-obsessed - самовлюбленный
+sing-song - спеть песню
+sitting room - гостинная
+solely - единственно
+sound asleep - крепко спать
+teased - дразнили
+top hat - шляпа цилиндр
+twee - свестящий звук; изысканный
+waistcoat - жилет
+wasteful - расточительный
+wide awake - бодрствующий
