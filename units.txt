@@ -2390,6 +2390,7 @@ dead easy - просто
 distressing - печальный
 ecstatic - в экстазе (noun)
 flat cap - плоская крышка
+	cap - шапка, крышка, одевать шапку
 fridge freezer - холодильник с морозилкой
 gone to a lot of trouble
     We've _gone to a lot of trouble_ here with these broadcasts
