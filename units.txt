@@ -2426,3 +2426,39 @@ twee - свистящей звук; изысканный
 waistcoat - жилет
 wasteful - расточительный
 wide awake - бодрствующий
+
+unit 10
+
+ammunition - боеприпасы, оружие, защита (все военное)
+atrocity - жестокость, жесть
+bead, beads - шарик, бусы, бисер
+buffalo - буйвол, пугать, сбивать с толку
+childminder - няня
+clash - лязг, сталкиваться
+encountered
+	encounter - встретить, встреча
+ensued
+	ensue - происходить
+face the fact - считаться с фактом
+finding my feet - встать на ноги???
+flared
+	flare - вспышка, вспыхивать
+foible - слабость, часть клинка от середины до конца
+goes to their heads - ударило/пришло им в голову
+hazardous - опасный
+heart-to-heart
+hostility - враждебность
+hostilities - военные действия
+impassable - непроходимый
+livestock - домашний скот, паразиты
+manual skills - мастерство ручного труда
+mosquito
+on its last legs - на последнем издыхании
+overcome - преодолеть; изнурять; овладеть
+plague - эпидемия, заражать, изводить
+putting on a brave face
+scarce - недостаточный, дефицитный
+tamed
+	tame - прирученный
+tension - напряжение
+wilderness - дикая местность
