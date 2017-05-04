@@ -3180,3 +3180,16 @@ petty - мелкий, мелочный, недалекий человек
 	abdominal - брюшной
 	jiffy - миг
 	
+internship - интернатура
+abundance - изобилие
+hygiene - гигиена
+pedestrian - пешеход
+
+Sebaceous glands - сальные железы
+kidney - почка
+liver - печень
+
+the other days - some days ago
+yeast - дрожжи
+fertilizer - удобрение
+contest == rivalry - соперничество
