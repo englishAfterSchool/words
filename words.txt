@@ -3195,3 +3195,4 @@ fertilizer - удобрение
 contest == rivalry - соперничество
 state worker - гос. рабочий
 Hollow Crown - пустая корона
+last - длиться
