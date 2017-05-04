@@ -3193,3 +3193,5 @@ the other days - some days ago
 yeast - дрожжи
 fertilizer - удобрение
 contest == rivalry - соперничество
+state worker - гос. рабочий
+Hollow Crown - пустая корона
