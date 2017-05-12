@@ -3196,3 +3196,30 @@ contest == rivalry - соперничество
 state worker - гос. рабочий
 Hollow Crown - пустая корона
 last - длиться
+
+12 Years a Slave
+	Y'all
+	shucks - шелуха, очищать от шелухи
+	overly - через-мерно
+	gracious - милостив
+	take into consideration
+	graciousness - доброта
+	circus - круг, площадь
+	merry - веселый; оживленный; черешня
+	confounding - путать (смешивать), смешивание
+	aide - консультант, ответственный сотрудник
+	renowned - знаменитый
+	practitioner - практикующий
+	prestidigitation - показывание фокусов
+	thither - в той стороне, туда
+	procuring - добывание, добывать, поставщик
+	sufficient - достаточный
+	undeniable - несомненно
+	libation - выпивка
+	detain - задерживать
+	rags - тряпки
+	tatter - тряпка, рвать
+	gratitude - благодарность
+	venture - авантюра
+	redeem - выкупать
+	
