@@ -3196,6 +3196,7 @@ contest == rivalry - соперничество
 state worker - гос. рабочий
 Hollow Crown - пустая корона
 last - длиться
+Barley - петрушка
 
 12 Years a Slave
 	Y'all
