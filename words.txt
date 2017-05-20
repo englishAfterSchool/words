@@ -3214,7 +3214,7 @@ Barley - петрушка
 	practitioner - практикующий
 	prestidigitation - показывание фокусов
 	thither - там, туда, до тех пор
-	procuring - добывание, добывать, поставщик
+	procure - добывать, поставлять, поставщик
 	sufficient - достаточный
 	undeniable - несомненно
 	libation - выпивка
