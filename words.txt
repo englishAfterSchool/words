@@ -3262,6 +3262,7 @@ Barley - петрушка
 	flush - прилив, заполненный, приливать
 		Make them boards flush.
 	yearling's coat
+		yearling - первогодка
 	better for (someone) - лучше для (кого-то)
 	keg - бочонок, желудь
 	commence - начинать, начинаться
