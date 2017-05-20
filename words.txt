@@ -3262,7 +3262,7 @@ Barley - петрушка
 	flush - прилив, заполненный, приливать
 		Make them boards flush.
 	yearling's coat
-	better for
+	better for (someone) - лучше для (кого-то)
 	keg - бочонок, желудь
 	commence - начинать, начинаться
 	putting - толкание
@@ -3305,7 +3305,7 @@ Barley - петрушка
 	consign - поручать; передавать
 	damnation - проклятие
 	smite - бить, карать
-	porch - крыльцо, подъезд, веранда, болкон
+	porch - крыльцо, подъезд, веранда, балкон
 	whoa - тпру
 	beguile - развлекать; отвлекать
 	proceeds - доход
