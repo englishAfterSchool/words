@@ -3236,6 +3236,7 @@ Barley - петрушка
 	snivelling - распускать слюни, всхлипывать
 	wench - девка (в плохом смысле)
 	fiddle - зуд, надувать, тратить попусту
+		fiddle - скрипка, скрипач
 	dawdle - лодырь, бездельничать
 	carpenter - плотник
 	patty - пирожок, котлета
@@ -3277,7 +3278,6 @@ Barley - петрушка
 	menfolk - мужчины семьи или соц. группы
 	out-pick
 	righteous - праведный
-	fiddle - скрипка
 	merriment - веселье
 	vigor == vigour - энергия
 	sundry - различный
@@ -3313,7 +3313,7 @@ Barley - петрушка
 	deposit - отдавать на хранение
 	inviolable - нерушимый
 	baptize - крестить, нарекать
-	hallelujah
+	hallelujah - аллилуйя
 	respite - передышка, дать отсрочку
 	frankly - откровенно, публично
 	righteousness - справедливость
@@ -3329,7 +3329,7 @@ Barley - петрушка
 	beseeching - упрашивающий, молящий
 	shingle - щепка, дощечка
 	accusation - обвинений
-	interfere
+	interfere - помехи, мешать; оспаривать
 	haste - спешка
 	abduction - похищение
 	
