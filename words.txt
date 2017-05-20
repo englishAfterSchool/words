@@ -3201,7 +3201,7 @@ Barley - петрушка
 
 12 Years a Slave
 	Y'all
-	shucks - шелуха, очищать от шелухи
+	shuck - шелуха, очищать от шелухи
 	overly - через-мерно
 	gracious - милостив
 	take into consideration
