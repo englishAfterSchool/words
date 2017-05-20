@@ -3335,3 +3335,5 @@ Barley - петрушка
 	haste - спешка
 	abduction - похищение
 	
+    hustle (vb or noun) - толкотня (основное), спешка
+		haste (noun) - спешка
