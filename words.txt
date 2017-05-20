@@ -3204,7 +3204,8 @@ Barley - петрушка
 	shuck - шелуха, очищать от шелухи
 	overly - через-мерно
 	gracious - милостив
-	take into consideration
+	take into consideration - принимать во внимание
+		take into - принимать в
 	graciousness - доброта
 	circus - круг, площадь
 	merry - веселый; оживленный; черешня
