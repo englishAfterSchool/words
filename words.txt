@@ -3279,7 +3279,7 @@ Barley - петрушка
 	out-pick
 	righteous - праведный
 	merriment - веселье
-	vigor == vigour - энергия
+	vigor == vigour - сила, энергия
 	sundry - различный
 		sundries - всякая всячина
 	retrieve - вернуть обратно, доставать, извлекать
