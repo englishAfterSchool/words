@@ -2462,3 +2462,42 @@ tamed
 	tame - прирученный
 tension - напряжение
 wilderness - дикая местность
+
+unit 11
+
+alimentary tract - пищеварительный тракт
+auditory - слуховой
+bacteria
+bearer - носильщик
+bookcase - книжный шкаф
+cable - канат, кабель; привязывать
+catchphrase - популярная фраза
+claim form
+cliff
+data packets
+denomination
+densely - густо, плотно
+dependence - зависимость
+devise - изобретать, разрабатывать; завещание
+doing the rounds
+dream home
+earworm
+end point
+excreted
+	excrete
+flatpack
+follicle mite
+genius
+globe - сфера, иметь форму сферы
+grin
+groans
+	groan - стон, скрип; стонать, скрипеть
+hairbands
+harmless - безвредный
+	harmlessly
+helpline - телефон доверия
+host - куча; толпа; хозяин; принимать гостей, быть хозяином
+hypothetical
+in the wake of (smth)
+
+
