@@ -2471,9 +2471,7 @@ bearer - носильщик
 bookcase - книжный шкаф
 cable - канат, кабель; привязывать
 catchphrase - популярная фраза
-claim form
 cliff
-data packets
 denomination - обозначение
 densely - густо, плотно
 dependence - зависимость
@@ -2511,7 +2509,7 @@ pet - домашнее животное; любимец
 puzzle over - ломать голову
 robust - крепкий, здоровый; сильный
 scrap - обломок (кусок), отправлять на слом; драка, драться
-soundscape
+soundscape - звуковое окружение в которое погружаются
 susceptible - восприимчивый, впечатлительный
 tedious - нудный, утомительный
 tolerate - допускать, терпеть
