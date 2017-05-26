@@ -2481,6 +2481,7 @@ earworm - прилипчивая песня
 excreted
 	excrete (vb) - выделять, извергать
 follicle mite
+	mite (маит) - клещ, маленькая вещь, лепта
 genius - гений, дух
 	the genius of the time — дух времени
 globe - сфера, иметь форму сферы
