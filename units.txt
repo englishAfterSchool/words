@@ -2489,7 +2489,7 @@ flatpack
 follicle mite
 genius
 globe - сфера, иметь форму сферы
-grin
+grin - скалиться
 groans
 	groan - стон, скрип; стонать, скрипеть
 hairbands
@@ -2502,8 +2502,28 @@ in the wake of (smth) - по пятам
 	in the wake of smb - по пятам
 leap year
 meme
-mailboggling
+mindboggling == mind-boggling - потрясающий
+	boggle - изумлять; колебаться
 monk - монах
 multiplies (малтиплайс)
 munch - чавкать
+natural disaster
+painstakingly
+pathway - тропа; траектория
+pet - домашнее животное; любимец
+	pet son — любимый сын
+	pet name — ласковое имя, прозвище
+printing press
+puzzle over
+robust - крепкий, здоровый; сильный
+scrap - обломок (кусок), отправлять на слом; драка, драться
+skin cells
+soundscape
+susceptible
+symphonies
+tedious
+tolerate
+torn
+transcribed
+
 
