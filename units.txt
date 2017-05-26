@@ -2467,7 +2467,6 @@ unit 11
 
 alimentary tract - пищеварительный тракт
 auditory - слуховой
-bacteria
 bearer - носильщик
 bookcase - книжный шкаф
 cable - канат, кабель; привязывать
@@ -2475,31 +2474,27 @@ catchphrase - популярная фраза
 claim form
 cliff
 data packets
-denomination
+denomination - обозначение
 densely - густо, плотно
 dependence - зависимость
 devise - изобретать, разрабатывать; завещание
 doing the rounds
-dream home
-earworm
-end point
+earworm - прилипчивая песня
 excreted
-	excrete - выделять, извергать
-flatpack
+	excrete (vb) - выделять, извергать
 follicle mite
-genius
+genius - гений, дух
+	the genius of the time — дух времени
 globe - сфера, иметь форму сферы
 grin - скалиться
 groans
 	groan - стон, скрип; стонать, скрипеть
-hairbands
+hairbands - резинка, обруч и т.д. для волос
 harmless - безвредный
 	harmlessly
 helpline - телефон доверия
 host - куча; толпа; хозяин; принимать гостей, быть хозяином
-hypothetical
-in the wake of (smth) - по пятам
-	in the wake of smb - по пятам
+in the wake of (smth) == in the wake of smb - по пятам
 leap year
 meme
 mindboggling == mind-boggling - потрясающий
@@ -2507,23 +2502,20 @@ mindboggling == mind-boggling - потрясающий
 monk - монах
 multiplies (малтиплайс)
 munch - чавкать
-natural disaster
 painstakingly
+	painstaking - старание, старательный
 pathway - тропа; траектория
 pet - домашнее животное; любимец
 	pet son — любимый сын
 	pet name — ласковое имя, прозвище
-printing press
-puzzle over
+puzzle over - ломать голову
 robust - крепкий, здоровый; сильный
 scrap - обломок (кусок), отправлять на слом; драка, драться
-skin cells
 soundscape
-susceptible
-symphonies
-tedious
-tolerate
-torn
+susceptible - восприимчивый, впечатлительный
+tedious - нудный, утомительный
+tolerate - допускать, терпеть
 transcribed
+	transcribe - переписывать
 
 
