@@ -2471,10 +2471,8 @@ bearer - носильщик
 bookcase - книжный шкаф
 cable - канат, кабель; привязывать
 catchphrase - популярная фраза
-cliff
 denomination - обозначение
 densely - густо, плотно
-dependence - зависимость
 devise - изобретать, разрабатывать; завещание
 doing the rounds
 earworm - прилипчивая песня
@@ -2553,8 +2551,6 @@ pavements - тратуар, мостовая
 peace and quiet
 poring
 prioritize - отдавать предпочтение
-quarrel
-recharge
 ripen - созревать, делать зрелым
 rottenly - мерзко
 	rotten - гнилой
