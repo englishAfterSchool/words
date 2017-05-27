@@ -2488,10 +2488,11 @@ groans
 	groan - стон, скрип; стонать, скрипеть
 hairbands - резинка, обруч и т.д. для волос
 harmless - безвредный
-	harmlessly
+	harmlessly - безвредно
 helpline - телефон доверия
 host - куча; толпа; хозяин; принимать гостей, быть хозяином
 in the wake of (smth) == in the wake of smb - по пятам
+	wake - след
 leap year
 meme
 mindboggling == mind-boggling - потрясающий
@@ -2529,7 +2530,7 @@ degree course
 dress rehearsal
 elderly - пожилой
 en route - по дороге; в пути
-enroll - становиться членом группы, вносить список
+enroll - становиться членом группы, вносить в список
 exhilarating - веселящий, бодрящий
 follow on (smbd's) footsteps
 follow my nose
