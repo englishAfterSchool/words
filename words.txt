@@ -3333,8 +3333,19 @@ Barley - петрушка
 	shingle - щепка, дощечка
 	accusation - обвинений
 	interfere - помехи, мешать; оспаривать
-	haste - спешка
 	abduction - похищение
-	
     hustle (vb or noun) - толкотня (основное), спешка
 		haste (noun) - спешка
+
+
+Правило:
+	well - action
+	good - object
+	
+Norse mythology - скандинавская мифология
+envious - завистливый
+imply - подразумевать
+blossom - цветение, цвести
+schizophrenia
+sect - секта
+	sectarian - member of a sect

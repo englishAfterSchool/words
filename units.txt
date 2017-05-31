@@ -2478,7 +2478,7 @@ doing the rounds
 earworm - прилипчивая песня
 excreted
 	excrete (vb) - выделять, извергать
-follicle mite
+follicle mite - железа
 	mite (маит) - клещ, маленькая вещь, лепта
 genius - гений, дух
 	the genius of the time — дух времени
@@ -2523,34 +2523,40 @@ basics - основы
 beautician - косметолог
 bits and pieces - разные мелочи, обрывки
 break the ice - сломать лёд ( как в рус.)
-centenary - век, 100 фунтов веса
-cerebral abscess
+centenary == century - век, 100 фунтов веса
+cerebral abscess == brain abscess
+	cerebral - мозговой
+	abscess - гной
 committee - комиссия, куратор
-degree course
-dress rehearsal
+degree course - курс обучения для получения степени
+dress rehearsal - генеральная репециция
 elderly - пожилой
 en route - по дороге; в пути
 enroll - становиться членом группы, вносить в список
 exhilarating - веселящий, бодрящий
 follow on (smbd's) footsteps
-follow my nose
-frantic - безумие, яростный
+follow my nose - положиться на чутье
+	I should follow my nose.
+frantic - яростный (в ярости)
 getting me down
 healer - целитель
 horrendous - страшный
-I got the bug
+I got the bug - подцепить, подсесть (в т.ч. на наркоту)
+	I got the bug. - Я подцепил заразу
 it hit me like a ton of bricks
 ladybird - божья коровка
-late developer
+late developer - ребенок с запоздалым развитием
 leisure time
 lunacy - безумие, лунатизм
-music therapy
-national assistance
+national assistance - государственная помощь
 old bat - зануда, старый ворчун, карга
 overpowering - непреодолимый, неотразимый
 pavements - тратуар, мостовая
-peace and quiet
-poring
+peace and quiet - тишина и спокоствие
+poring - размышляла, изучала
+	pore - изучать, обдумывать
+	pore - скважина
+	pore - пора (кожи т.д.), пустота (пористое что-то)
 prioritize - отдавать предпочтение
 ripen - созревать, делать зрелым
 rottenly - мерзко
@@ -2559,5 +2565,6 @@ scandalous
 snatch - хватание, хватать
 stand on my own two feet
 strawberry - клубника
-such a pain
+such a pain - такой занозой
+	You are such a pain
 vital - жизненно
