@@ -2529,7 +2529,7 @@ cerebral abscess == brain abscess
 	abscess - гной
 committee - комиссия, куратор
 degree course - курс обучения для получения степени
-dress rehearsal - генеральная репециция
+dress rehearsal - генеральная репетиция
 elderly - пожилой
 en route - по дороге; в пути
 enroll - становиться членом группы, вносить в список
@@ -2551,8 +2551,8 @@ lunacy - безумие, лунатизм
 national assistance - государственная помощь
 old bat - зануда, старый ворчун, карга
 overpowering - непреодолимый, неотразимый
-pavements - тратуар, мостовая
-peace and quiet - тишина и спокоствие
+pavements - тротуар, мостовая
+peace and quiet - тишина и спокойствие
 poring - размышляла, изучала
 	pore - изучать, обдумывать
 	pore - скважина
