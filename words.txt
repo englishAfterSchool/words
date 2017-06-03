@@ -3227,7 +3227,8 @@ Barley - петрушка
 	redeem - выкупать
 	line up - выстраиваться в линию
 	cast down - расстроен, опущен
-	better off - лучше
+	better off - лучше, богаче
+		to be better off than so many of her friends 
 	cravat - широкий галстук
 	carryall - большая сумка
 	sturdy - крепкий
