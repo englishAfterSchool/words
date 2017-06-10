@@ -2459,7 +2459,7 @@ plague - эпидемия, заражать, изводить
 putting on a brave face
 scarce - недостаточный, дефицитный
 tamed
-	tame - прирученный
+	tame - прирученный, приручать
 tension - напряжение
 wilderness - дикая местность
 
