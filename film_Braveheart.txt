@@ -1,0 +1,103 @@
+Braveheart
+	noble - дворянин
+	shank - нога, голень, вести
+	truce - перемирие
+	page - паж
+	shire - графство, жители графства
+	succeed - наследовать
+	commoner - член общества, простолюдин
+	lad - мальчик
+	hit back - давать сдачи
+	nah (наэ) - нет
+	da == десткое dad
+	benediction - благословение
+	remedy - исправлять, лекарство
+	lift up - воодушевлять
+	countenance - одобрять, выражение лица, спокойствие
+	supervise - смотреть
+	rival - соперник
+	conceive - понимать
+	all along - всегда
+	grovel - ползать
+	grant - дарить
+	reluctant - неохотный
+	uproot - вырывать с корнем
+	reinstation == reinstatement - восстановление
+	breed - племя, род
+	fetch - достать что-то
+	contender - претендент
+	lull - временный перерыв, успокаивать
+	aye (аи) - утвердительный ответ
+	shaky - трясущийся
+	work up - делать что-то
+	raise - растить, поднимать
+	lassie - девчонка
+	thou - ты
+	thee - тебе, тебя, тобой
+	decree - декрет
+	rigid - жесткий
+	leniency - мягкость/снисходительность
+	scrapper - драчун
+	glen - горная долина
+	garrison - гарнизон
+	brigand - бандит
+	quell - подавлять, успокаивать
+	convene - созывать
+	outnumber - превосходить численно
+	embrace - воспользоваться, обнимать
+	condemn - порицать, приговаривать к, обрекать
+	ruthless - безжалостный
+        ruth - сочувствие
+	avenge of - отомстить за
+	avenge on - отомстить (кому-то)
+	cavalry - кавалерия
+	spear - копье, пронзать
+	flee - убегать
+	thy - твой
+	homage - почтение
+	arse - зад
+	foregone - прошлый
+	nonetheless - несмотря на
+	live up to - оправдывать надеждый, жить по принципам, быть достойным
+	hereditary - наследственный
+	outmatch - превосходить
+	cordial - сердечный
+	flank - бок, боковой, быть сбоку
+	insolent - высокомерный
+	loose - свободный, отпускать тетиву
+	infantry - пехота
+	inasmuch as - так как
+	squabble - мелкая сора
+	allegiance - верность
+	conscription - воинская повинность
+	mere - всего лишь, болото
+	barn - амбар
+	heathen - язычник
+	bribe - подкуп
+	ruse - уловка, прием
+	upstart - выскочка, вскакивать
+	embroidery - вышивание
+	tuck - поджать
+	slaughter - забой, убой
+	rot - гниение, гнить
+	prevail - победить
+	replenishes
+		replenish - пополнять
+	shepherd - пастух
+	renowned - знаменитый
+	jeopardy - опасность
+	wage - расплата
+	bid - предложение цены
+		the highest bid
+	pledge - залог
+	nest - гнездо
+	scheming - замышляющий
+		scheme - интрига, замышлять, план
+	martyr - мученик
+	deceive - обманывать
+	taint - оттенок (негативный), пятно, придавать оттенок
+	treason - предательство
+	purify - очищать
+	morrow - завтра
+	numb - онемение, вызывать онемение
+	endorsement - одобрение
