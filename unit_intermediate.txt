@@ -1,0 +1,649 @@
+unit 1
+
+assassinate - убивать
+benefit - выгода, польза
+bright - ярко
+commercialized - прибыльный
+corn - зерно
+estimate - оценивать
+go mad - сходить с ума
+goodwill - доброжелательный
+gorgeous - роскошный
+hang on - ждать
+hectic - лихорадочный
+humble - скромный
+inconvenience - неудобство
+loo - туалет
+noticeable - заметный
+postage - почтовая отправка, почтовый тариф
+revolutionize - революцианировать
+skid - скат; скользить, заносить
+probe - зонд, проба
+stand for (sth) - выбирать что-то; защищать кого-то
+statement - заявление, формулировка
+take part - принимать участие
+take place - происходить
+wing - крыло
+observatory - пункт наблюдения
+go out with (sb) - иметь отношения с (кем-то)
+the UN - ООН
+
+unit 2
+
+fancy - причудливый, фантастический, модный
+	I fancy you - ты мне нравишься
+raiser - поднимать
+supportive - вспомогательный
+tip == advice
+treat - обращаться с кем-то, лечить
+unwind == relax
+ward - район
+wedding anniversary - свадебная годовщина/юбилей
+yell - вопить
+zookeeper - смотритель зоопарка
+graduate - выпускник
+sick and tired == fed up with
+cheer (sb) up - веселить кого-то
+participate - участвовать
+loose-fitting - свободная одежда/чехол
+race about - спортивная пробежка
+
+unit 3
+
+beat - бить
+boast - хвастаться
+brush
+emperor - император
+eyesight - зрение
+fearless - бесстрашный
+hang out (== relax) informal - тусоваться
+homesick - скучающий по дому
+heart failure - сердечная недостаточность
+honour - слава, честь
+influenza - грипп
+lifelike - жизненно
+masterpiece - шедевр
+necklace - ожерелье, бусы
+only (child) - единственный (ребенок)
+palace - дворец
+pigeon - голубь, лох
+sweetcorn - сахарная кукуруза
+thoroughly - полностью
+unless - за исключением (кроме), оговорка
+vine - вьющееся растение, виноград
+vineyard - виноградник
+
+unit 4
+
+banquet - банкет
+bow (бау) - поклон (bow to - кланяться кому-то)
+budget - бюджет
+business card - карточка/визитка
+casually - случайно
+chopstick - палочка для еды
+cleanliness - чистоплотность
+driving licence - водительские права
+drop off - высадить (из машины), задремать, уменьшить
+engaged - занятый, помолвленный
+extension (phone) - удлинять, расширять, внутренняя телефонная связь
+fasten - скреплять/связывать
+guidebook - путеводитель
+heel - пятка, подлец
+host/hostess - хозяин/хозяйка
+loads of things == lots of things
+manners
+military service - воинская обязанность/подготовка
+potluck lunch - сборный обед (кто-что принес)
+pursue - гнаться, выполнять
+short-sleeved
+skewer - шампур
+spray
+stuffy - душный
+supply - запас
+vaccination - вакцинация
+
+Noun			Verb
+be'haviour		be'have
+advice			advise
+invitation		invite
+meeting			meet
+relaxation		relax
+discussion		discuss
+refusal			refuse
+feeling			feel
+gift			give
+bow				bow
+prayer			pray
+invention		invent
+choice			choose
+
+Noun			Adjective
+nationality		national
+tradition		traditional
+profession		professional
+illness			ill
+value			valuable
+truth			truly/truthful (правдиво(ый))
+difference		different
+freedom			free
+culture			cultural
+responsibility	responsible
+
+unit 5
+
+confess - сознаваться
+depart - отправляться
+descent - спуск
+eastbound - движущийся на восток
+en-suit - смежная (комната, ванная)
+ferry - переправа, паром
+haircut - стрижка
+heaven - небо
+helipad - площадка для вертолетов
+honeymoon - медовый месяц
+icy - ледяной
+laze - лентяйничать
+lightning - молния
+lowland - низменность
+must-dos - must do
+potter - копошиться, плохо работать, гончар
+	potter around - делать мелкую работу
+rhino - носорог
+steak - стейк
+ton - тонна
+towel - полотенце
+vast - огромный (напр. пространство)
+smooth - гладко
+
+--weather
+sunny		snowing
+windy		fog
+snowy		storm
+ice			blowing
+wind		icy
+cloud		rain
+snow		cloudy
+shining		raining
+foggy		rainy
+sunshine
+thunder(storm)
+
+------------------
+make			do
+--				--
+up your mind	someone a favour
+a mess			the housework
+sure that		the washing up
+my bed			exercises
+friends with	my best
+a phone call	nothing
+a noise			the shopping
+a speech
+money
+a decision
+a complaint
+a profit
+progress
+------------------
+
+unit 6
+
+anchovy
+cynical - циничный
+focal point - фокусная точка
+grateful - благодарный
+gravitate - притягиваться
+grumble == complain
+kettle - чайник, часы, котел
+lane (road) - узкая дорога
+notice board - доска объявлений
+orchestra (оркистра) - оркестр
+promotion - продвижение
+put the world to rights - решать международные проблемы (шутливо)
+rave - рёв, бешенство, бред
+succeed - следовать, достигать, преуспевать
+tasteless - безвкусный
+truly - правдиво
+ultimate - конечный, максимальный
+upright - вертикальный, отвесный, прямой, честный
+varied - различный
+
+-------------Вопросы
+
+love (любить), prefer (предпочитать), enjoy (нравится, наслаждаться) - могут заменять like
+
+После глаголов предпочтения можно использовать:
+	verb + to + V
+	verb + -Ving
+	И без них: She loves the flowers he gave her. - Ей нравятся цветы, которые он ей подарил.
+would - прошедшая форма will == хотел бы
+
+Do you like traveling? - ты любишь путешествовать?
+What is she like? - какая она (из себя)?
+Would you like coffee? - не желаете (хотели бы?) вы кофе
+
+What does she look like? - как она выглядит? (обычно)
+How does she look? - как она выглядит? (прямо сейчас)
+
+Who is she look like? - На кого она похожа?
+How is she? - как она?
+
+Young woman who looks like she holds leftist views. - молодая женщина выглядит как (буд-то) она поддерживает левые взгляды.
+
+Would you mind - Вы не возражаете?
+
+How would you like the money? - какими купюрами отдать тебе деньги?
+
+I like it very much. - мне это нравится очень.
+What does she like? - что она любит?
+
+How are you doing? == How are you?
+How is it going? == How do you do? - как дела?
+What are you? - какая твоя профессия?
+
+-------------Герундии, инфинитив, и без них
+Запоминать нужно гл. с -ing или без всего. Потому что чаще всего гл. пишут с to
+
+Ving				V + to
+--
+adore				advise (sb)
+can't stand			allow (sb)
+don't mind			ask (sb)
+enjoy				beg (sb)
+finish				encourage (sb)
+look forward to		expect (sb)
+					help (sb)
+					invite (sb)
+					need (sb)
+					order (sb)
+					remind (sb)
+					tell (sb)
+					want (sb)
+					warn (sb)
+					would like (sb)
+					agree
+					choose
+					dare
+					decide
+					expect
+					forget
+					help
+					hope
+					learn
+					manage
+					need
+					offer
+					promise
+					refuse
+					seem
+					want
+					would hate/like/love/prefer
+
+Ving или V + to (оба)
+--
+begin
+continue
+hate
+like
+love
+prefer
+start
+remember
+stop
+try
+
+I remember smth == I have a memory now of a past
+I remembered to (do smth) == I reminded (sb) to (do smth)
+I stopped drinking ... == I gave up the habit
+I stopped to drink ... == I stopped doing smth else in order to have a ...
+I tried to ... == I wanted to ...
+I tried counting sheep and drinking a milk
+--
+
+Могут быть Без -ing и to
+--
+help (sb)
+let (sb)
+make (sb)
+
+Исключения:
+	1. go + -ing используется обычно для спорта и активности:
+		I go shopping. I go swimming.
+	2. В passive времени made используют с to:
+		We were made to work hard.
+	3. let не используется в passive, вместо него Allowed to:
+		She was allowed to leave.
+	4.
+		после них to не нужно:
+		I would rather ... - лучше бы я ... (с I)
+		You had better ... - лучше бы ты ... (с you)
+	
+-------------
+правило: инфинитив, герундии
+Gerund (-ing)		Infinitive (to)		Infinitive (без to и -ing)
+
+love				want				can
+like				hope				could
+enjoy				would like			must
+prefer				would love			may
+look forward to		be going			might
+finish				forget
+began		-		began
+start		-		start
+continue	-		continue
+think of			decide
+hate				been
+					gone
+					
+правило:
+	would - бы
+	could - мог
+	should - следует
+
+been to ... - уехал и вернулся
+gone to ... - уехал и остался		
+-------------
+
+unit 7
+
+amazingly - удивительно, поразительно
+application - заявка
+back off == retreat - отступать
+come across == find == meet
+crane - кран
+CV == curriculum vitae
+championship - чемпионат
+descendant - потомок
+end up (with) - закончить; найти себя
+	Показывает что случается в результате процесса. - you're going to end up with all kinds of health problems
+	Показать позитивный или негативный результат. - We ended up with over twenty thousand dollars in sales.
+genuine - истинный
+girder - балка
+hand down - передавать по наследству
+heavyweight - полный (излишний вес)
+in charge - заведующий
+indoors - внутри дома
+outdoors
+of course
+interpersonal - меж личностный
+ironworker - металлург
+journalism - журналистика
+just in case - на всякий случай
+mayor - мэр
+make unconscious == knock out
+	unconscious - не осознающий, без сознательный
+lay off == make redundant - сокращать по работе
+	redundant - излишний
+put (sb) through - соединять кого-то по телефону
+put up with == tolerant - мириться с
+recapture - пере захватывать, возвращать себе
+resignation - отказ от должности
+retire
+retirement
+sacrifice
+take (sth) away == remove
+take up (gymnastics) == do (smth) - заниматься курсами/чем-то - делать курсы
+widespread
+-------------
+applicant - претендент
+find by chance - Найти случайно
+come across == meet, иметь что-то общее, find
+-------------
+
+unit 8
+
+AIDS - acquired immune deficiency syndrome
+	acquired - приобретенный
+	deficiency - дефицит
+appeal - апелляция, призыв, просьба
+belief
+blanket - покров, одеяло
+conservation - сохранение
+drop dead
+dump (sb) == end a romantic relationship
+enormous - огромный
+ethnic
+fantasize - фантазировать
+fee - оплата
+fit together (a jigsaw)
+get rid == discard
+growl - рычать
+heart attack
+hospice - гостиница
+hound == pursue
+housing - расселение
+incredibly
+incurable
+leave (sth) behind == forget
+mansion - имение, особняк
+menacingly - угрожающе
+misery - страдание
+nearly
+pay-rise - повышение зарплаты
+pour - литься
+prisoner of conscience - узник совести
+	conscience (коншинс) - совесть
+prize - награда
+psychiatrist
+put pressure on (sb)
+rugged == ragged - неровный, жесткий
+rescue
+sanity
+shelter
+solicitor
+thrilled
+violently - очень сильно
+
+-------------
+begging - нищенство, нищий
+spare - запаска, запасной, запасать
+
+proverb == saying - пословицы
+submission - подчинение
+I'm at Alex house - я у Алекса
+fluid == liquid
+Let's == let us
+embassy - посольство
+jigsaw - пазл, лобзик
+windfall - неожиданный доход
+tempt - соблазн
+tempting - заманчиво
+solicitor - юрист консультант
+sanity - здравый ум
+ceaseless (сислес) == endless
+	cease - прекращать
+hounding - преследование
+	hound - преследовать
+go on spending spree - тратить деньги
+	spending spree - не глагол!
+dump - хоронить, сбрасывать/сваливать
+bury (бэри) - хоронить/погребать
+withdraw - снять деньги, брать назад
+
+superb - суперский
+astonish - удивлять
+	astonishment - удивление
+	astonishing - удивленный
+hilarious == funny
+thrilled - возбужденный
+cross == furious
+shelter - приют
+housing == organization
+conscience - совесть, убеждение, сознание
+cross - крест
+refugees - беженцы
+	refugee
+drought - засуха
+disillusioned - расстроенный, разочарованный
+
+take a year off - взять год (перерыва)
+take off - сбрасывать, отрываться от землю, снимать (одежду)
+bankrupt - неплатежеспособный, сломанный (карьера), лишенный
+fountain - фонтан, источник
+get over - преодолеть (переправу, обстоятельства), == recover (from) - восстановиться от ... (преодолеть травму)
+	let's get this job over with quickly - преодолеем (сделаем) эту работу быстро
+	surmount - преодолеть
+put out - выкидывать/выталкивать (устранять), тушить
+work out - посчитать что-то (solve, calculate)
+publicly - публично
+extend - протягивать
+thirsty - испытывающий жажду
+onto - на
+woollen - шерстяной
+stool - табурет, скамейка
+stir - шевелить, мешать (еду)
+cash dispenser - банкомат
+	dispenser - автомат (напр. торговый)
+-------------
+	
+unit 9
+
+complexion - вид (чей-то), вид кожи лица
+conscious - сознательный
+contented - довольный
+curly - кудрявый
+daydream - мечта, мечтать
+deal with (sth)
+envy - зависть, тот кому завидуют, завидовать
+generation
+hand-me-down - вещь передаваемая по наследству, поддержанная
+in front of
+in the meantime
+nun - монахиня, грелка
+plaster - штукатурка, пластырь
+put off (doing sth) == postpone - откладывать
+	postpone - откладывать
+relieved - помогающий
+	relieve - помогать
+resentment - негодование
+reunion - воссоединение
+take care of (sb)
+talkative
+ups and downs - подъемы и спуски
+-------------
+preparation
+consonant - согласный звук
+vowel - гласный звук
+suitcase - чемодан
+brunette
+look over - осмотреть
+-------------
+
+unit 10
+
+can't bear (sth)
+cast - кидать, лить, выполнять
+ceiling - потолок
+chemistry - химия
+compose - сочинять
+conductor - дирижер
+dust - пылить
+explosive - взрывчатый
+hippie - хиппи
+immaculate - непорочный, чистый, опрятный
+make up == invent
+memorabilia - памятные вещи
+out-of-work - безработный
+ponytail - прическа хвостик
+reckon == think
+redecorate
+rugged == ragged - неровный, жесткий
+shopping spree == spending spree
+teapot - чайник
+teacup
+traffic warden - дорожный инспектор
+unconventional - нетрадиционный
+	convene - собирать
+underwear - нижнее белье
+unlikely - маловероятный, ненравящийся
+waiting room
+-------------
+lung - легкое
+
+unit 11
+
+beard - борода
+bite
+campsite - полаточный лагерь
+cartoonist - аниматор
+childbearing - деторождение
+childbirth - роды
+cope - справляться, покров
+couch potato - лентяй
+crate - ящик, емкость
+cross off (from a list) - зачеркнуть
+crucify - распинать
+deduce - делать вывод
+deli == delicatessen - гастроном
+dental floss
+drop (sb) a line
+grab - хватать
+halfway - половина пути
+handheld - ручной
+H-bomb - водородная бомба
+hit the roof == be furious
+hug
+in fact - фактически
+lick - лизать, ударять
+litter - мусор на дороге
+neglect - пренебрежении
+nevertheless - тем не менее
+outlive - пережить
+range - ряд
+slipper - тапочки
+smart == well-dressed
+stressed - сдавленный, ударенный
+wipe out == destroy, смывать
+-------------
+measure - мера
+alongside - близко
+Who are you talk about?
+	... point at?
+	... speak to?
+	... dance with?
+	... talk about?
+	... think about?
+let (sb) down - подвести, разочаровать
+come on - выходить, наступать
+
+unit 12
+
+byway - неглавная дорога
+coffin - гроб
+commemorate - почтить
+cot - детская краватка
+dismantle - разбирать, раздевать
+groom - жених, мужчина
+hearing aid == hearing device - слуховой аппарат
+	aid - помощь
+highway - большая дорога
+juicy - сочный
+kneel - стать на колени
+liar - лжец
+lifeboat - спас. шлюпка
+mainland - большая земля
+manage to do (sth) - справляться с
+midwife - акушерка
+mourner - люди на похоронах (плакальщик)
+muffled - завернутый, приглушенный звук
+naught - ничто
+overhead - надземный
+proposal - предложение, план
+scarf - шарф
+scribble - небрежно (писать)
+subside - опускаться, понижать
+sweep up - почистить
+take (sth) back
+widow - вдова
+-------------
+persuade - убеждать
+deny - отрицать
+использование married:
+	married a plumber - замужем за сантехником
+	we got married
+	My sister is married to a really nice guy.
+	divorced используется как и married
+back on
+down on
+on with
+up with
