@@ -1,4 +1,4 @@
-из Гарри Поттера 3
+Harry Potter 3
 	orphan - сирота
 		orphanage - приют сирот, сиротство
 	neffy == nephew (ласковое)
