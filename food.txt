@@ -1,0 +1,68 @@
+1
+cranberry - клюква
+pomegranate - гранат, гранатовое дерево
+raspberry - малина
+strawberry - клубника
+watermelon - арбуз
+pepper - перец
+cabbage - капуста
+radish - редис
+radicchio - радиккьо
+rhubarb (руба[р]б) - ревень
+---
+2
+apricot - абрикос
+cantaloup - канталупа, мускусная дыня
+peach - персик
+persimmon - хурма
+tangerine == mandarin - мандарин
+Butternut squash - что-то вроде тыквы?
+Butternut - серый орех
+pumpkin - тыква
+---
+3
+blackberry - ежевика
+gooseberry - крыжовник
+bilberry - черника
+redcurrant - красная смородина
+blackcurrant - черная смородина
+blueberry - голубика; черника
+---
+4
+lettuce
+cymbling - патиссон
+marrow - кабачок
+    red marrow - костный мозг
+    marrow - что-то внутреннее (сердцевина)
+fowl - мясо птицы
+sour cream - сметана
+    sour - кислый, скисать
+cottage cheese - домашний сыр; пресованный творог
+---
+5
+lime - разновидность лемона
+melon - дыня
+plum - слива
+quince - айва
+fig - фига, инжир
+pitaya (dragon) - питайя
+---
+6
+almond - миндаль
+cashew
+pistachio
+kola nut
+peanut - арахис
+chestnut - каштан
+Hazelnut, Filbert - фундук, лесной орех
+pine nut, cedar nut - 
+pecan
+walnut - грецкий орех
+sesame seeds - кунжутовые семечки
+sunflower seeds
+macadamia
+    macadam - щебень
+fennel seeds - укропные семечки
+hemp seeds - конопляные семечки
+pumpkin seeds
+flax seeds - льняные семечки
