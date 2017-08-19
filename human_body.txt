@@ -1,0 +1,38 @@
+--head
+mole - родинка
+eyebrow - бровь
+eyelash - ресница
+nostril - ноздря
+chin - подбородок
+jaw - нижняя челюсть (сбоку от подбородка)
+
+--fingers
+little finger
+ring finger
+long finger
+forefinger
+thumb
+
+--body
+armpit - подмышка
+nipple - сосок
+elbow - локоть
+forearm - предплечье
+navel - пупок
+small of the back - поясница
+hip - бедро
+waist - талия
+groin - пах
+buttocks - ягодицы
+thigh - бедро
+calf - икра ноги
+heel - пятка
+arch of the foot - 
+ball of the foot - подушка стопы
+shin - голень
+instep - 
+ankle - 
+foot - ступня (верхняя часть)
+sole - ступня; подошва
+toenail - ноготь на пальце ноги
+big toe - 
