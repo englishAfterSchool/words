@@ -30,7 +30,7 @@ heel - пятка
 arch of the foot - 
 ball of the foot - подушка стопы
 shin - голень
-instep - 
+instep - верхняя средняя часть стопы
 ankle - 
 foot - ступня (верхняя часть)
 sole - ступня; подошва
