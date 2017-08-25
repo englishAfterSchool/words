@@ -2847,19 +2847,20 @@ sect - секта
 	sectarian - member of a sect
 
 	
+	
 defeated
-shelve
-collatera
-onward
-toffy
+shelve - ставить на полку, делать полку
+collateral - родство, родственник; вспомогательный; поручительство, залог, обязательство
+onward - вперед!, идущий вперед
+toffy == toffee - ириска
 harmony
 tightened
 filed
-dodgy
-irritant
-beverage
-flavoring
-infringement
+dodgy - хитроумный, изворотливый; нетвердый, сомнительный
+irritant - раздражитель
+beverage - напиток
+flavoring == flavouring - приправа, заправка еды, привкус
+infringement - нарушение, покушение
 
 delirium - бред
 fortitude - сила духа (стойкость)
@@ -2887,14 +2888,16 @@ conveyance - передача
 
 Premature - преждевременный
 
-филони
+felony - тяжкое преступление
 ransom - выкуп
 Equation - уравнение
 augments - дополнительный
 negligible - незначительный
 mediate - посредничать
 albeit - хоть и
+	He was considered as a tough albeit fair boss
 appeases - успокаивать, утолять (боль, горе), облегчать
 adorned - украшенный, декорированный
 churn - смешивать, мешалка
 wield - владеть
+obnoxious - отвратительный, оскорбительный, надоедливый
