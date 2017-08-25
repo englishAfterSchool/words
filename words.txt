@@ -2795,8 +2795,8 @@ receipt (рисит) - квитанция
 	recipe (ресипи) - рецепт
 carrot - морковь
 
-из О школах
-	needle - иголка, шить
+
+needle - иголка, шить
 	
 	
 
@@ -2845,3 +2845,56 @@ blossom - цветение, цвести
 schizophrenia
 sect - секта
 	sectarian - member of a sect
+
+	
+defeated
+shelve
+collatera
+onward
+toffy
+harmony
+tightened
+filed
+dodgy
+irritant
+beverage
+flavoring
+infringement
+
+delirium - бред
+fortitude - сила духа (стойкость)
+
+traversal - пересечение
+sentinel - страж, охранять
+precedence - предшествующий
+payload - полезная нагрузка
+
+twine - веревочка, обвивать
+enrich - обогащать
+Stemming - морфологический (для грамматики), происходящий
+stem - ножка, стебель; происходить
+
+jumbo - гигантский, неуклюжий
+is about to be - вот-вот будет
+    bank is about to be robbed
+
+hassle - стычка, ссора; морока
+
+outperform - опережать
+Moreover - более того
+
+conveyance - передача
+
+Premature - преждевременный
+
+филони
+ransom - выкуп
+Equation - уравнение
+augments - дополнительный
+negligible - незначительный
+mediate - посредничать
+albeit - хоть и
+appeases - успокаивать, утолять (боль, горе), облегчать
+adorned - украшенный, декорированный
+churn - смешивать, мешалка
+wield - владеть
