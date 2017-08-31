@@ -2905,6 +2905,7 @@ obnoxious - отвратительный, оскорбительный, надо
 кое из какой книги
 	reel - катушка, мотать
 	disdainfully - презрительно
+		disdain - пренебрегать, презирать, пренебрежение, презрение
 	posture - осанка
 	leery - осторожный, ловкий, хитрый
 	tracing - чертеж
@@ -3002,8 +3003,103 @@ obnoxious - отвратительный, оскорбительный, надо
 	devour
 	mantis
 	howler
-	thorn
+	thorn - шип
 	wrecking
+	fledged - оперившийся, способный летать, готовый (к чему-то)
+	outright
+	biased
+	vent
+	stomp - топать
+	apt - подходящий
+	weathered - выветренный
+	obstacle
+	criss(-)cross - пересекающийся
+	dim - тусклый, ...
+	foliage - листва
+	tangle - спутанный клубок, ...
+	ignite - воспламенять
+	stray
+	nepotism - кумовство
+	compunction - сожаление
+	glittering - сверкающий
+	verge - грань
+	boon - дар, ...
+	seasoned - опытный, бывалый
+	stance - поза
+	burly - крепкий ( сильный )
+	cranium - череп
+	scry - гадать на магическом кристале
+	noteworthy
+	contraption
+	reminiscent - напоминают (-ющий)
+	petal - лепесток
+	subvert - повергать
+	puppeteer - кукловод
+	shortage - нехватка
+	wince - вздрагивание, вздрагивать, морщиться
+	eavesdropper - подслушивающий
+	shrewd - проницательный, сообразительный
+	fumble - мять, мяться, нащупывать
+	bluntly - прямо
+		(told her bluntly - сказать напрямик)
+	sedate - спокойный
+	defuse - разряжать
+	fawn - ласкать, ...
+	preconception - предубуждение
+	innate - врожденный, присущий
+	sheer
+	peon - пехотинец, строго подчиненный человек
+	entourage - окружение, антураж
+	hefty - тяжелый
+	malfunction
+	cenote
+	induce - побуждать
+	blunder - грубая ошибка, грубо ошибаться
+	brazen - медный, быть нахальным
+	reptile - рептилия, подлый
+	projectile - снаряд, метательный
+	imminent - надвигающийся, неизбежный
+	nimble - ловкий
+	seizure - захват
+	plume - перо, пух
+	throe - сильная боль, спазм
+	pounce - коготь, хватать когтями
+	devoid - лишенный
+	scattered - разбросанных в беспорядке
+	veer - смена направления, менять направление
+	slam - хлопать, захлопывать
+	flail - молотить, цеп
+	dislodge - выгонять, вытеснять
+	hiss - шипеть, шипение
+	outrageous - оскорбительно, возмутительно
+	dissuade - разубеждать, отговаривать
+	pitiful - плачевный, жалостливы
+	villain - злодей
+	dwelling - желище
+	gleeful - радостный
+	unfold - раскрывать
+	salivate - выделать слюну
+	battering - избиение
+	gust - порыв, дуть
+	gaunt - костлявый, мрачный
+	retaliation - воздояние
+	scramble - пробираться, драка
+	roughly-hewn
+	wreathe - обвивать
+	impale - прокалывать, сажать на кол
+	slay - убивать, уничтожать
+	shard
+	liquefy - плавить
+	semblance
+	cohesion
+	brethren - собратья
+	dissolving - растворение, растворяющий
+	drove
+	vain - 
+	
+	
+	
+	
 	
 	
 	
