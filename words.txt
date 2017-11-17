@@ -2862,6 +2862,7 @@ tighten - сжимать, сжиматься, натягивать, натяги
 dodgy - хитроумный, изворотливый; нетвердый, сомнительный
 irritant - раздражитель
 beverage - напиток
+flavour - аромат
 flavoring == flavouring - приправа, заправка еды, привкус
 infringement - нарушение, покушение
 
@@ -2925,3 +2926,24 @@ baton - жезл, дубинка, бить дубинкой
 relinquish - сдаваться, отступать
 arcane - тайный
 canny - умный, осторожный, проницательный, практичный
+
+decay - гнить, гниение
+no other - никакой другой
+remains - останки (в т.ч. человеческие)
+host - ведущий TV
+it appeared to be - это представляется ...
+    it appeared to be possible
+pupil - зрачок
+weigh - весить
+poverty - нищета
+inception - начало
+groundhog day - день сурка
+whole sail - оптом
+all over - везде, во всех отношениях
+nurse - воспитывать
+didn't get him any were - ни к чему не привели
+in a month/year - через месяц/год
+capital punishment - смертная казнь
+deputy - заместитель, депутат
+painstak - болевой пик
+
