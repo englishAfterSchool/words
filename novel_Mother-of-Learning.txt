@@ -389,9 +389,9 @@ defiantly - дерзко
 hideout - укрытие, убежище
 proficient - опытный, мастер
 startling - поразительный
-caw - каркать, каркание
+caw - каркать, карканье
 indignantly - негодующе
-flap - хлопать, качать; хлопание, качание
+flap - хлопать, качать; хлопанье, качание
 wheeze - хрипеть
 blasted - разрушенный, проклятый
 off-guard - застигнутый врасплох
@@ -412,7 +412,7 @@ incomprehensible - непонятный
 tissue - ткань, ткать
 drug out
 gibberish - непонятное бормотание
-feverish - возбужденный, взловнованный
+feverish - возбужденный, взволнованный
 feather - перо
 unhinged - псих, неуравновешенный
 amidst - в середине
@@ -423,12 +423,12 @@ meticulously - тщательно
 get at
 provided - при условии, если ...
 expenditure - расходование
-mutilate - колечить
+mutilate - калечить
 measly - презренный, ничтожный; зараженный чем-то
 in question
 clasp - скреплять, крепеж, застежка
 humming - легкий шум
-precede - предшевствовать
+precede - предшествовать
 proceed - идти, отправляться; продолжать, возобновлять
 abyss - бездна, хаос
 gushing out - 
@@ -437,7 +437,7 @@ chippy - раздражение???
 attainment - достижение
 undersell - продавать за бесценок
 rote - механическое запоминание
-prone - предроспаложенность; расположенный относительно низа
+prone - предрасположенность; расположенный относительно низа
 ponder - обдумывание
     ponder on
 provisionally - временно, предварительно
@@ -461,10 +461,10 @@ plain-looking - просто выглядящий
 unremarkable - обыкновенный
     remark - замечание
 irreplaceable
-sacrilege - кащунство
+sacrilege - кощунство
 relic
 Alas - увы
-humor - потокать
+humor - потакать
 incentive - стимул, побуждение; стимулирующий
 narrowed down - сузил
 proving - испытание, исследование; испытательный
