@@ -392,6 +392,16 @@ Severity - строгость
 commute - переключаться (между чем-то)
 lump - что-то большое (большой)
 
+deed - деяние, дело
+decent - приличный, подходящий
+wheelbarrow - тачка
+comply (with) - исполнять просьбу/требования/правила
+upside-down - перевернутый вверх дном
+possum - опоссум
+hindsight - взгляд в прошлое
+perpetrator - преступник, виновный
+resent - негодовать
+
 --фразы вежливости
 Good luck
 What about you
