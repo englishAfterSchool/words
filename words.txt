@@ -2957,3 +2957,6 @@ capital punishment - смертная казнь
 deputy - заместитель, депутат
 painstak - болевой пик
 
+get well - выздороветь
+shortly - in the near future
+Predictably, … — Как и ожидалось, …
