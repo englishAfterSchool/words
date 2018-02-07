@@ -20,18 +20,18 @@ demure - скромный, сдержанный, рассудительный
 wayfarer - путник
 amenity - приятность, вежливость, любезность
     for gest amenities
-tranquil
-sinew
-attorney
-habiliment
+tranquil - спокойный, мирный
+sinew - сухожилие, мускулы; усиливать
+sinews - опора, поддержка, движущая сила
+attorney - доверенной лицо; адвокат
+habiliment - снаряжение, экипировка
 yanking - дергание, дергать
-clientele
-amiss
-flinching
-languishes
-arrears
-bereaved
-spun
-nifty - остроумно
+clientele - клиенты
+amiss - плохой, плохо; неправильный, неправильно
+flinching - вздрагивать, дергаться
+languish - слабеть
+arrears - долги
+bereave - отнимать, лишать
+nifty - остроумно, остроумный; модный; ловкий
 stitch - шов, шить
-cereal
+cereal - злаки, крупа
