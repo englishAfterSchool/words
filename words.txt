@@ -2977,3 +2977,13 @@ quintuplet - один из пяти близнецов
 quintuplets - пять близнецов
 pageant - пышное действо (празднование)
 evanescence - исчезновение, эфемерность
+
+bloodcurdling
+curdle
+apparition
+decapitate - cut head
+decompose == to decay
+petrified (adj) == very scaried
+quiver - дрожать, обычно от эмоций; дрожание
+
+obliterate
