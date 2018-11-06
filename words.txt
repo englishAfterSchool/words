@@ -2987,3 +2987,5 @@ petrified (adj) == very scaried
 quiver - дрожать, обычно от эмоций; дрожание
 
 obliterate
+ware
+tableware - посуда
