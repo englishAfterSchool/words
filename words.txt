@@ -41,7 +41,7 @@ go on == continue
 --тетрадь
 ###1
 agony aunt - ведущая ток-шоу, советует как себя вести
-casual - случайный, неокаратный, неофициальный
+casual - случайный, неаккуратный, неофициальный
 blind date - свидание вслепую
 brave - отважный, отличный
 chewing gum - жевательная резинка
@@ -176,10 +176,12 @@ nephew - племянник
         Let Molly explain her position, will you?
 	3. Для anyone, anybody, nobody, none, neither, everybody, то во второй части ставится местоимение they.
         Neither of them prepared for the lesson, did they?
+        Nobody lives here, do they?
         
 grumpy - угрюмая
 
 Why don't we ... ? - почему бы
+Why don't we name this little guy Jake?
 
 everyone считается ед. числом, добавляется is (как в He)
 
@@ -211,11 +213,12 @@ arsonist - поджигатель
 kidnapper - похититель
 demand money - требовать деньги
 carjacker - угонщик
-jake - угнать
-hijacker - угонщик самолетов
+hijack - угнать (что-то)
+skyjack - угнать самолет
+hijacker - угонщик
 sentence to - приговорить к
 
-skiresort - лыжный курорт
+ski resort - лыжный курорт
 politely - вежливо
 glue - клей
 clay - глина
@@ -241,9 +244,11 @@ firefighters = fireman - пожарные
 hardly - едва ли
 
 правило: чтение дат, лет, числа
-1907 - эйти оу севен
+1907 - наинти оу севен
 the thirty-first of August - August the thirty-first
 2010 - two thousand and ten или twenty ten
+2005 - твенти оу фаиф (twenty o five)
+в очень старом варианте может встретиться aught вместо "o"
 
 правила: at, in, on и их исключения
 
@@ -269,7 +274,7 @@ pile - куча
 know-all - всезнайка
 petrol - бензин
 teapot - заварочный чайник
-bargaining - торговаться
+bargaining - торг
 homeboy - корешь
 order - заказать
 ham - ветчина
@@ -354,7 +359,7 @@ shoes - обувь
 hat - шляпа
 
 butcher's - мясная лавка
-backer's - булочная
+bakery - булочная
 off-license - алкогольная лавка
 fish-mongers - рыбная лавка
 dry-cleaner's - химчистка
@@ -824,7 +829,7 @@ a course (курс)
 homework
 well/badly
 (smbd) best (делать от кого-то всё зависящее)
-loundry (стирка)
+laundry (стирка)
 nails
 hair
 next year
@@ -839,16 +844,15 @@ a mistake
 a fortune (сколачивать состояние)
 a phone call
 the bed (застилать кровать)
-full (?)
-a fool
+a fool - выставит дураком
 a noise
 a cup of coffee
-make an excuse - извиняться
-make sure - убедиться
+an excuse - извиняться
+sure - убедиться
 
 -- get
 
-get become - стать
+get / become - стать: I got / became interested in reading when I was a child.
 get angry
 get hungry
 get wet
@@ -858,10 +862,9 @@ get home - придти домой
 get to work
 
 get a cold - простудиться
-get obtain/get receive - доставать
 get sunburnt
 
-get marriend
+get married
 get up - встать
 get on (with smbd) - ладить
 get off - выходить из транспорта
