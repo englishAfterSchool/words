@@ -400,3 +400,4 @@ resent - негодовать
 
 depot (депоу) - склад
 custody - опека; тюремное заключение
+comprise == include
