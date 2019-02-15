@@ -13,6 +13,47 @@ what do you do for a living? - кем ты работаешь?
 How do you do? - как ты?
 How is it going? - как дела?
 
+How long does it take? - как много времени это отнимает?
+Would you mind - Вы не возражаете?
+
+--------------------------------
+fraction - дроби
+The meeting lasted from one to three. — Встреча продолжалась с часу до трёх.
+from time to time - время от времени
+
+Чтение чисел:
+	406 == four hundred AND six (AND читается ТОЛЬКО после СОТЕН, после тысяч и т.д. - НЕТ)
+	$9.40 == nine dollars forty
+	1/4 - a quarter == one quarter (a == one)
+	3/4 - three quarters
+	2/3 - two thirds
+	7/8 - seven eights
+	12 1/2 - twelve and a half
+	12 1/6 - twelve and one sixths
+	1/9 - a ninth
+	6.234 - six point two three four
+	1405 - тысячи НЕЛЬЗЯ называть почастям как даты (14 и 5)
+	1405 - one thousand four hundred and five
+	
+	15/07/94:
+		1. the 15th of July, 1994
+		2. July the 15th. 1994
+	2002:
+		1. 2 thousand and 2
+		2. 10 oh (оу) 2
+		3. 20 zero 2 (вариант USA)
+		
+	Phone numbers:
+		01865-556800 - называть числа по порядку
+		17777 - one double seven double seven (для пар чисел)
+		
+Чтение времени:
+
+Чтение дней недели:
+
+Чтение мест:
+--------------------------------
+make, do. get, take
 --------------------------------
 move to - переехать
 currently - сейчас
@@ -214,7 +255,7 @@ implication - следствие/вывод, вставка/включение/�
 on my own === myself - сам
 blustery - бушующий, бурный (поток), буйный
 
-colon - ":"
+colon - ":" (коулон)
 semicolon - ";"
 comma - ","
 dash - "-" тире
@@ -238,3 +279,63 @@ about - повсюду, какое-то место
 
 meanwhile - пока, тем временем (в течении времени)
 
+отличия that/which во вставках в предложение:
+	that - для важной инфы
+	which - для дополнительной, не важной
+	
+impartial - непредвзятый
+
+leave for (Gomel) - уходить по направлению к (Гомелю)
+prefer smth1 to smth2 - предпочитать что-то1 чему-то2
+day off - нерабочий день
+see doctor - посещать доктора (типа увидеться с доктором)
+master's degree - научная степень (напр. Аспирант)
+lobby - хол
+to be good at - быть хорошим в чем-то
+go for work
+
+правило, глаголы с играми:
+	play + team game
+	go + -ing
+	do + activity (yoga, gymnastics)
+	исключения: do boxing, do snowboarding == go snowboarding
+	
+thorough - полный
+eyesight - зрение
+futility - бесполезность, тщетность
+
+правило:
+	... FOR five month
+	... FOR six weeks
+	... DURING the night
+	... DURING the breakfast
+	WHILE I was getting ready, I ...
+	I met my wife WHILE I was at university.
+	
+Сокращения:
+have to == have got to == gotta - разговорный вариант
+	I gotta see a doctor.
+want to == wanna
+	I don't wanna be no nuisance woman.
+gonna - going to
+	I'm gonna put a new motor in it.
+
+make someone think - заставить кого-то подумать
+
+Ответ на You must/must not:
+	Yes, I will
+	No, I won't
+	
+admission - вход, приём куда-то (в ВУЗ, на вечеринку)
+	admission fee — вступительный взнос
+negotiation - переговоры
+smart - сильная боль, горе (главное значение), толковый, опрятный, умный, сильная боль
+suitable - пригодный
+hospitality - гостепреимство
+widely common - широко распостраненный
+neatly - аккуратно
+commonly - обычно
+    commonly used technique
+have (people) over == invite (people)
+
+I might move to Minsk. - Я может быть поеду в Минск.

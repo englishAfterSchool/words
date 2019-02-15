@@ -1742,7 +1742,7 @@ orally - устно
 been in (Russia) - был в стране, и во время разговора в ней (напр. приехал второй раз?)
 been to (USA) - был в стране и вернулся
 
-What are you? - какая твоя профессия?
+What are you? (возможно не правильно!!!) - какая твоя профессия?
 How do you do? - как ты?
 How is it going? - как дела?
 
@@ -1764,7 +1764,8 @@ expense - расход
 
 (to be) off - понижать (как спускаться)
 I'm off. - я ушел
-to be out with - быть в ссоре
+to be out with - встретиться (to be не заменяется на is/am/are, но вообще много др. значений)
+    To be out with a man.
 day off - нерабочий день
 Mind your own business. - это не твоё дело
 
@@ -1844,7 +1845,7 @@ fraction - дроби
 	12 1/2 - twelve and a half
 	12 1/6 - twelve and one sixths
 	1/9 - a ninth
-	6.2 - six point two
+	6.234 - six point two three four
 	1405 - тысячи НЕЛЬЗЯ называть почастям как даты (14 и 5)
 	1405 - one thousand four hundred and five
 	
@@ -1973,7 +1974,8 @@ bow - гнуть, наклонять; поклон
 hospitality - гостепреимство
 widely common - широко распостраненный
 neatly - аккуратно
-commonly - обычно
+commonly - (нареч.) обычно
+    commonly used technique
 It's not of peace of cake - это не просто сделать
 essential - необходимый
 saying - поговорка
