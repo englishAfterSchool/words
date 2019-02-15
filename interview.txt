@@ -2,6 +2,18 @@ bio
 
 
 --------------------------------
+This is someone you work with? - Это тот с кем ты работаешь?
+What are you? - какая твоя профессия?
+Who are you working? - кем ты работаешь?
+What you been up to now? - чем ты занимаешься?
+what's your job? - кем ты работаешь?
+what do you do? - кем ты работаешь?
+what do you do for a living? - кем ты работаешь?
+
+How do you do? - как ты?
+How is it going? - как дела?
+
+--------------------------------
 move to - переехать
 currently - сейчас
 so far - пока ещё
@@ -143,3 +155,86 @@ It's rather cold. — Довольно холодно.
 
 dilapidate - разваливать/разрушать
 penitentiary - исправительный (лагерь)
+surely - конечно
+
+fare - оплата проезда; поживать, преуспевать
+fair - ярмарка, чистый или светлый, честный
+fair и fare - читается как фэе[р]
+fine - штраф
+
+on location <in California> - в месте ...
+departure - отъезд, отправление
+
+--refuse/accept offers
+Making offers:
+	Why don't I ... ? - Why don't I do smth?
+	I could ...
+	If you (do), I will ...
+Refusing offers:
+	I'm sorry, but I'd rather ...
+	No thanks, I really prefer ...
+Accepting offers:
+	I'd be pleased to ...
+	Fine, I agree to ...
+	
+--ask polite questions
+Polite indirect questions:
+	I'd like to know ...
+	Could you tell me ...?
+	May I ask ... ?
+	Do you happen to know ... ?
+Interrupting politely:
+	Excuse me, but ...
+	May I ask a question?
+	Could I (please) ask ... ?
+	
+--ask questions
+Open question:
+	How ... ?
+	Why ... ? - why do you like smth?
+	For what reason ... ? - For what reason do you do smth.
+Asking for explanations:
+	What exactly do you mean by ... ? - What exactly do you mean by "abstract mind" ?
+	Could you explain a bit further ... ?
+	Would you like to add to your comments about ... ?
+	
+First of all = firstly
+Second of all = secondly
+
+порядок слов в тексте:
+	First of all
+	Secondly
+	Next
+	Then
+	In additional
+	Finally
+	
+collocation - расположение
+implication - следствие/вывод, вставка/включение/вовлечение
+on my own === myself - сам
+blustery - бушующий, бурный (поток), буйный
+
+colon - ":"
+semicolon - ";"
+comma - ","
+dash - "-" тире
+dot - "."
+
+clause - статья
+claim - требование, требовать
+
+proper - присущий, правильный, должный
+impartial - непредвзятый
+break a story - рассказать эксклюзивную историю
+facility - возможность, отсутствие трудностей, льготы
+
+clutter - помехи, суета, шум (мельтешение??)
+fuss - суета, шумиха, протест
+clutter == fuss
+
+be about to - почти что ...
+about - повсюду, какое-то место
+	is about the garden
+
+meanwhile - пока, тем временем (в течении времени)
+
