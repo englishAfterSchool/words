@@ -12,14 +12,72 @@ what do you do for a living? - кем ты работаешь?
 
 How do you do? - как ты?
 How is it going? - как дела?
+How are you doing? == How are you?
 
 How long does it take? - как много времени это отнимает?
 Would you mind - Вы не возражаете?
+I am on sick leave - Я на больничном
+on vacation - в отпуске
 
+How would you like the money? - какими купюрами отдать тебе деньги?
+I am phoning about (smth) - я звоню по поводу
+
+после них to не нужно:
+	I would rather ... - лучше бы я ... (с I)
+	You had better ... - лучше бы ты ... (с you/he и т.д.)
+	
+	I would like to know ...
+	I wonder ...
+	I'm into ...
+	+ whether/if
+	+ direct word order
+	
+Do you know where he lives? - тоже indirect question
+There has just been a president in the USA.
+
+No way! - ни за что
+Dunno - don't know
+
+What are you up to? - что ты будешь делать?
+
+правило:
+indirect (reported) speech == reported speech - косвенная речь (в архиве)
+	Present -> Past
+	Past -> Past Perfect
+	will/can -> would/could
+	should/might/could -> should/might/could
+	Если есть when/which/what/... то они становятся на место if/whether, есть нету, то that и его можно опустить
+	
+правило:
+complex object
+	I want you to ...
+	I beg you to be here.
+	I ask him to ...
+	The postman told me _not_ to sign. (отрицание)
+	
+How about looking though your rubbish bin if you threw it away?
+Maybe we could ... ?
+Can I make a suggestion ... ?
+Why don't you try ... ?
+Where where we ... ?
+I have an idea.
+
+carry out = do
+knuckle down = focus (on work)
+hand in = give it (CV)
+speak up = speak loudly
+keep up = stay up to date
+catch up - опаздывать
+take on - брать на себя (что-то)
+follow up about (smth) - завершить (что-то)
 --------------------------------
 fraction - дроби
 The meeting lasted from one to three. — Встреча продолжалась с часу до трёх.
 from time to time - время от времени
+discount of/at 2% - скидка на 2%
+
+the first chapter
+chapter 3
 
 Чтение чисел:
 	406 == four hundred AND six (AND читается ТОЛЬКО после СОТЕН, после тысяч и т.д. - НЕТ)
@@ -48,12 +106,52 @@ from time to time - время от времени
 		17777 - one double seven double seven (для пар чисел)
 		
 Чтение времени:
+	in 20 minutes - через 20 минут
+	
+	What's the time? - Какое время?
+
+	Если время до 30 мин какого-то часа, то используется It's ... past ...
+	иначе It's ... to ...
+
+	one oh seven p.m. (1:07)
+	three eighteen a.m. (3:18)
+	eighteen minutes past three (3:18)
+
+	It's 7.
+	It's half past seven. (7:30)
+	It's a quarter past seven. (7:15)
+	It's a quarter to seven. (6:45) - четверть до 7
+	It's 15 minutes past seven.
+
+	It's exactly 2 o'clock. - ровно 2 часа
+	It's midnight. - полночь
+	It's noon. - полдень
+	
+	In monday I get up at 7 o'clock.
 
 Чтение дней недели:
 
 Чтение мест:
 --------------------------------
 make, do. get, take
+
+
+Правило in/at/on в пространстве:
+(inside a place)
+in - внутри чего-то
+	work in an office
+	in the south of England
+	potters in the garden
+	lots of shops in the airport
+(at point)
+at - положение в точке
+	at home, at house
+	at the cinema, case at the office,
+	arrived at the airport
+(on surface)
+on - положение на поверхности
+	on page, on the left (about road),
+	on the wall, on the third floor
 --------------------------------
 move to - переехать
 currently - сейчас
@@ -339,3 +437,17 @@ commonly - обычно
 have (people) over == invite (people)
 
 I might move to Minsk. - Я может быть поеду в Минск.
+bring over - переубедить; перенести (в другое место)
+try out - проверять, пробовать
+clear up - выяснять, прояснять/пояснять
+resign - уходить в отставку
+hardship - трудность
+naughty (ноути) - капризный
+
+persevere - упорствовать
+town hall == city hall - администрация района
+
+canteen - буфет
+gratifying - приятный
+compelling - захватывающий
+acknowledge - осознавать; признавать

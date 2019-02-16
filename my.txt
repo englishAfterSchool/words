@@ -401,3 +401,6 @@ resent - негодовать
 depot (депоу) - склад
 custody - опека; тюремное заключение
 comprise == include
+
+gratifying - приятный
+ahead of time - заранее

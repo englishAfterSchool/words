@@ -2217,7 +2217,7 @@ astonish - удивлять
 	astonishing - удивленный
 hilarious == funny
 thrilled - возбужденный
-cross == furious
+cross == furious - ?????
 shelter - приют
 housing == organization
 conscience - совесть, убеждение, сознание
@@ -2284,6 +2284,9 @@ offensive - оскорбительный
 	Универсальные ответы, могут заменять то что выше (разговорный вариант):
 		My too. - Я тоже.
 		My neither. - Я тоже нет.
+		
+Правило: either/or и neither/nor
+    
 	
 Из текста о внешности:
 	bring up - воспитывать
@@ -2301,7 +2304,8 @@ offensive - оскорбительный
 	kind of - слово-паразит в США, перевод: "вроде как" - I kind of have a ...
 
 
-Handy capped == disabled - недееспособный, инвалид (вежливое обращение в отличии от invalid)
+handicapped - инвалид, отсталый
+disabled - инвалид
 craze - мания
 reckon - подсчитывать (второе значение)
 I can't bear it. - Я не могу это выносить
@@ -2414,7 +2418,7 @@ aid
 ---------------------------------Незаконченный upper
 
 conceal (консил) - скрывать
-	council (коэнсэл) - совет
+	council (консэл) - совет
 inferiority - низкое качество
 gear - механизм
 persevere - упорствовать
