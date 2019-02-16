@@ -358,6 +358,7 @@ semicolon - ";"
 comma - ","
 dash - "-" тире
 dot - "."
+quote - " (квоут)
 
 clause - статья
 claim - требование, требовать
