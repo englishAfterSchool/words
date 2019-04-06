@@ -404,3 +404,12 @@ comprise == include
 
 gratifying - приятный
 ahead of time - заранее
+
+constellation - созвездие, плеяда
+    constellate
+    
+in behalf of (smb) - ради; в интересах, в пользу, в защиту
+on behalf of (smb) - от лица, от имени
+
+recap - резюме, итог
+Feign
