@@ -1278,6 +1278,7 @@ push it - задвигать до предела (Don't push it - хватить
 raw == crude - сыро (о еде, даже прожаренное с кровью)
 middle - средней прожарки
 well-done - хорошо прожарено
+rare - непрожаренный, с кровью
 
 I have finished. == I am ready. - я готов
 heat - жар
