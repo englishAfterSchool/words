@@ -421,3 +421,5 @@ chalice - чаша
 
 lantern - фонарь, светить
 footage - снятый камерой материал
+
+tether
